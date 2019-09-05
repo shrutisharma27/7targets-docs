@@ -5,9 +5,9 @@ description: >
   7Targets AI Assistant Documentation 
 lang: en-US
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://7targets.github.io/ # the base hostname & protocol for your site
-
+baseurl: "/7targets-docs" # the subpath of your site, e.g. /blog/
+url: https://7targets.github.io/7targets-docs # the base hostname & protocol for your site
+jekyll-doc-theme
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
 bootwatch: paper
