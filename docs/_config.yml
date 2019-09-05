@@ -5,7 +5,7 @@ description: >
   7Targets AI Assistant Documentation 
 lang: en-US
 
-baseurl: "/ai" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://7targets.ai/ # the base hostname & protocol for your site
 
 # theme options from https://bootswatch.com/
