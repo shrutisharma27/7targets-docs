@@ -45,10 +45,22 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope:
+    path: _releases
+    type: releases
+  values:
+    layout: releases
+    sectionid: releases
+    seo:
+      type: "WebPage"
+
 collections:
   docs:
     permalink: /:collection/:path/
     output: true
+  releases:
+    permalink: /:collection/:path/
+    output: true    
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
