@@ -1,11 +1,18 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
+  - assistant
+  - lead
 
-- title: Examples
+- title: Integrations
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - salesforce
+  - pipedrive
+
+- title: FAQs
+  docs:
+  - faqs
+
+- title: Videos
+  docs:
+  - videos
