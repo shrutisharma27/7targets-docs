@@ -46,6 +46,15 @@ defaults:
       type: "WebPage"
 
 - scope:
+    path: _videos
+    type: videos
+  values:
+    layout: videos
+    sectionid: videos
+    seo:
+      type: "WebPage"
+
+- scope:
     path: _releases
     type: releases
   values:
@@ -58,6 +67,9 @@ collections:
   docs:
     permalink: /:collection/:path/
     output: true
+  videos:
+    permalink: /:collection/:path/
+    output: true    
   releases:
     permalink: /:collection/:path/
     output: true    

@@ -1,0 +1,30 @@
+- title: Getting Started
+  videos:
+  - home
+  - lead
+  - assistant
+  - dashboard
+
+- title: Integrations
+  videos:
+  - salesforce
+  - pipedrive
+
+# - title: Add Leads
+#   videos:
+#   - home
+#   - Add Leads
+#   - Edit Message
+#   - Add More Leads
+#   - Multiple Leads  
+
+# - title: Schedule
+#   videos:
+#   - Schedule Usage
+#   - Start At
+
+# - title: Assistant
+#   videos:
+#   - Assistant Types
+#   - Add Assistant
+#   - Edit Assistant
