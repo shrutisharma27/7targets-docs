@@ -32,3 +32,9 @@ To add multiple leads at the same time from same lead source and context you can
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
 </div>
+
+## Schedule Add Leads  
+While adding lead you can schedule the processing for a later point of time or day.  
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
+</div>
