@@ -6,7 +6,7 @@ redirect_from: /releases/index.html
 
 ### 11 Sept 2019 
 ```
-- WhatsApp Assistant login failure should be notified with different subjects and only once in a day. Also copy 7Targets support group in this email.
+- WhatsApp Assistant login failure should be notified with different subjects and copy 7Targets support
 - Ability to add User Note from UI for each lead
 - Show Deactivated reason on mobile view too
 - In Timeline graph, open the message even when user clicks on the circles
