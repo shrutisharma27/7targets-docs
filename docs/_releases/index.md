@@ -4,6 +4,15 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 11 Sept 2019 
+```
+- WhatsApp Assistant login failure should be notified with different subjects and only once in a day. Also copy 7Targets support group in this email.
+- Ability to add User Note from UI for each lead
+- Show Deactivated reason on mobile view too
+- In Timeline graph, open the message even when user clicks on the circles
+- Allow user to send the Introduce Me email even when there is no response from the lead
+```
+
 ### 4 Sept 2019
 ```
 - Assistant can be assigned a lead directly from **Pipedrive**
