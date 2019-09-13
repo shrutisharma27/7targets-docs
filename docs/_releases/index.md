@@ -4,6 +4,16 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+
+### 13 Sept 2019 
+```
+- Lead deactivated because of Invalid WhatsApp number should convey it in the UI too
+- /sign-up direct URL so that new users avoid one click and our ads can directly take the user to signup page
+- Allow schedule gap to be as high as 30 days. As well allow the schedule to be over 340 days
+- Mobile view, click on Hot in dashboard should take to Hot leads in the list
+- Remember between Month, Quarter, Year in dashboard across the other menu clicks
+```
+
 ### 11 Sept 2019 
 ```
 - WhatsApp Assistant login failure should be notified with different subjects and copy 7Targets support

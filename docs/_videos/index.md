@@ -5,16 +5,16 @@ redirect_from: /videos/index.html
 ---
 
 ## Register
-Post signup/register you will get a confirmation email. Once confirmed you can login and create an assistant.
+Post signup/register, an activation  email is sent to the user's email id. Post activation the registration is completed login is allowed.
 
 ## Create Assistant
-Assistant creation allow your to give the name, title, phone number, etc to the Assistant. Other can company/organisation name you can edit everything for the assistant later.
+Post successful registration, first time login will present Assistant creation flow. Provide the Assistant name, title, etc and create the Assistant. 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
 </div>
 
 ## Create Lead
-To validate that the Assistant is created and works correctly, you can add yourself as the first lead and see how it works.
+Validate that the Assistant is created and works correctly by adding the first lead. 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
 </div>
