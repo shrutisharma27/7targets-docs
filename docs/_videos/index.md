@@ -5,7 +5,7 @@ redirect_from: /videos/index.html
 ---
 
 ## Register
-Post signup/register, an activation  email is sent to the user's email id. Post activation the registration is completed login is allowed.
+To get started, register at https://solution.7targets.com/sign-up. Post sign-up/register, an activation  email is sent to the user's email id with an activation link. Click or open the link in browser to complete the activation. Once registration is completed, one can login to create the Assistant and assign or add leads.
 
 ## Create Assistant
 Post successful registration, first time login will present Assistant creation flow. Provide the Assistant name, title, etc and create the Assistant. 

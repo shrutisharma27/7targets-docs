@@ -4,15 +4,16 @@ permalink: /videos/assistant/
 ---
 
 ## Assistant Types
-Each Assistant type has different roles and responsibilities. Below are the various types of assistants. 
+7Targets has 3 types of assistants. Sales Assistant, AMC and WhatsApp assistants. Choose what type you want.
+
 ##### Sales Assistant 
-Sales Assistant has the responsibility of communicating with the lead over email with an intent of getting a meeting. 
+Sales Assistant has the responsibility of communicating with the lead over email with an intent of getting a meeting.  More suitable for Sales people who use email as primary mechanism of communication. The default recommended schedule comes with 7 follow-ups with increasing duration between the follow-ups. 
 
 ##### WhatsApp Assistant
-WhatsApp assistant can discover the leads from your WhatsApp number and start following up if there is no response from the lead to any of your comments even after 2 days. Leads can also be added from the UI like for other assistants. 
+WhatsApp assistant can discover the leads from your WhatsApp number and start following up if there is no response from the lead to any of your comments even after 2 days. Leads can also be added from the UI like for other assistants. This is purely WhatsApp only communication. Today we do 3 follow-ups every 2 days after sending the initial message and this cannot be changed. 
 
 ##### AMC Assistant
-AMC Assistant is responsible for remembering the AMC date and try and keep the lead till we reach near the AMC renewal date and then try and get meeting with the lead. Communication is over email. 
+AMC Assistant is responsible for remembering the AMC date and try and keep the lead interested till we reach near the AMC renewal date, then try and get meeting with the lead. Communication is over email. 
 
 ## Add Assistant
 Adding or creating an assistant is one time flow available after successful registration.
