@@ -4,6 +4,13 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 23 Sept 2019 
+```
+- User can now decide to include or not unsubscribe and whatsapp link in the email below signature
+- When integrated with 3rd party CRM, then do not allow to change the assistant name.
+- Video help added for few functions. Not available on mobile view.
+- Few important fixes
+```
 
 ### 13 Sept 2019 
 ```
