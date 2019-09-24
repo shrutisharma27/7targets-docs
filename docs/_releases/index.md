@@ -4,6 +4,12 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 24 Sept 2019 
+```
+- Show the possible messages to be sent in the timeline graph as per the future schedule
+- Context is searchable in the Add Lead. So that user can reuse his last typed context.
+```
+
 ### 23 Sept 2019 
 ```
 - User can now decide to include or not unsubscribe and whatsapp link in the email below signature
