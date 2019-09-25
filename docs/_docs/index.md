@@ -5,7 +5,7 @@ redirect_from: /docs/index.html
 ---
 
 ## What is 7Targets Assistant ?
-7Targets provides AI Sales Assistant and WhatsApp Lead Followup Assistant to enhance the sales and marketing productivity of businesses. Email automation to convert generated leads via AI technology is a dream come true for many industries.
+7Targets provides AI Assistants to enhance the sales and marketing productivity of businesses. 
  
 Key values:
 - You do not need to drop unimportant leads because of time constraints. You can now follow-up 100% of your leads from events like FRO using an Artificially Intelligent Sales Assistant.
@@ -16,6 +16,6 @@ Key values:
 - You never lose the knowledge that is put inside the Assistant.
 - The assistant works 24x7 and in all time zones.
 - AI Assistant acts like a real team member that utilizes Natural Language Processing like Google smart reply to send automated emails. 
-- Moreover, emails are created with the help of minimal information provided and tailored accordingly for the target prospect. Not only this, it allows the follow ups up to 7 times and can classify leads as HOT, WARM or COLD lead depending upon their responses. 
+- Moreover, emails are created with the help of minimal information provided and tailored accordingly for the target prospect. Not only this, it allows the follow ups up to 7 times and can classify leads as HOT, WARM or COLD lead depending upon their responses. With an option to let customize the email sending schedule.
 
 

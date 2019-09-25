@@ -3,11 +3,20 @@ title: Assistant
 permalink: /docs/assistant/
 ---
 
-This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/).
-You can create your own theme by writing your own `sass` files.
+## Assistant Types
+7Targets provides 3 types of assistants
+- Sales Assistant 
+- AMC Assistant 
+- WhatsApp assistants  
+Each assistant has a different role and responsibility.  
 
-Create a new a theme folder like `_sass/bootwatch/custom` and set your `bootwatch` variables in `_config.yml` to `custom`:
+#### Sales Assistant 
+Sales Assistant has the responsibility of communicating with the lead over email with an intent of getting a meeting with the lead. More suitable for Sales people who use email as primary mechanism of communication. The default recommended schedule comes with 7 follow-ups with increasing duration between the follow-ups. User has an option to use custom schedule too for this assistant type. 
 
-```yaml
-bootwatch: custom
-```
+If the user want to use different schedule than the out of  box **Recommended** schedule then create a new **Custom Schedule**. Decide the number of followups and the time between each followup, give a proper name and description, then save it. The custom schedule created will be available for selection while adding a new lead. If required change the newly created custom schedule to default schedule so that all the leads added uses it by default. 
+
+#### WhatsApp Assistant
+WhatsApp assistant can discover the leads from your WhatsApp number and start following up if there is no response from the lead to any of your comments even after 2 days of posting the message to the lead. Leads can also be added from the UI. This is purely WhatsApp only communication. Today the assistant does 3 follow-ups after sending the initial message and this cannot be changed. 
+
+#### AMC Assistant
+AMC Assistant is responsible for remembering the AMC date and try and keep the lead interested till we reach near the AMC renewal date, then try and get meeting with the lead. Communication is over email. 

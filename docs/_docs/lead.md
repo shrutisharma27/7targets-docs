@@ -3,246 +3,51 @@ title: Lead
 permalink: /docs/lead/
 ---
 
-By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/3/) by setting
-`bootwatch` variable in `_config.yml` file.
-(Don't forget to restart `Jekyll` if you are running locally because the configuration is not re-read upon change.)
+Lead can be from various sources and has different context too. Based on the source and the context of the lead, the ai assistant writes short and simple emails to the lead. 
 
-<div class="row">
+## Add lead
+User can add one lead at a time or multiple leads using an excel sheet. After providing the lead identifying fields like name, email, phone number, source of the lead and the context are very important fields. Note below the details about it.  
+**Schedule** button clicks lets user decide the time of first message to the lead. Else the first message is sent as soon as the lead is added. There is also an option to choice from the list of schedules user may have created. Learn more about the custom schedule in the assistant sections.  
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#cerulean/"><img src="https://bootswatch.com/3/cerulean/thumbnail.png" class="img-responsive" alt="Cerulean"></a>
-      </div>
-      <div class="caption">
-        <h3>Cerulean</h3>
-        <p>A calm blue sky</p>
-      </div>
-    </div>
-  </div>
+## Various lead sources 
+- Event
+- Website
+- Upsell
+- Meeting
+- Phone Meeting
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#cosmo/"><img class="img-responsive" src="https://bootswatch.com/3/cosmo/thumbnail.png" alt="Cosmo"></a>
-      </div>
-      <div class="caption">
-        <h3>Cosmo</h3>
-        <p>An ode to Metro</p>
-      </div>
-    </div>
-  </div>
+If above sources are not enough for your needs then just drop an email to support@7targets.com and we will be happy to add anything new.
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#cyborg/"><img class="img-responsive" src="https://bootswatch.com/3/cyborg/thumbnail.png" alt="Cyborg"></a>
-      </div>
-      <div class="caption">
-        <h3>Cyborg</h3>
-        <p>Jet black and electric blue</p>
+Typically from an **Event** one may get one or more leads. Few of them are Hot and the sales people will engage with them to take the discussion ahead. Other remaining need to be owned by someone in marketing or sales operations team to try and reach out multiple times over a period after the event and check if there is a need for what the company offers. Such leads when assigned to the AI Assistant with event name as context, the assistant will make sure no lead is dropped. 
 
+**Website** as a lead source can be used when the lead has visited your website and provided the email id. The offering/product/solution will be the right thing to provide in the context for the AI Assistant to write the emails properly.
 
-      </div>
-    </div>
-  </div>
+**Upsell** is typically used if there is something new or different value to offer to the existing customers. 
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#darkly/"><img class="img-responsive" src="https://bootswatch.com/3/darkly/thumbnail.png" alt="Darkly"></a>
-      </div>
-      <div class="caption">
-        <h3>Darkly</h3>
-        <p>Flatly in night mode</p>
+**Meeting** and **Phone Meeting** are to be used for the leads from face to face meeting and phone meetings respectively. One tend to meet people informally too pretty often and want to make sure that the lead is not dropped. Use this source when creating such leads with right context.
 
+## Responses from the leads
+Any response email from the lead is read by the AI Assistant and try and decide the email content. The machine learning models for identifying if the response conveys an out of office or asks to stops sending any emails or agrees to have a meeting at a particular day helps the assistant take right action and group that lead in right state. 
 
-      </div>
-    </div>
-  </div>
+## Various lead states 
+Assistant will categories the leads in various states based on the followups and responses. Various possible state are:  
+**Hot** if the lead has accepted to meet.   
+**Cold** the followup is under progress.  
+**Processed** followup is completed as per the schedule and there was no response from the lead.  
+**Out of office** received an out an office from the lead. Assistant will restart the followup after lead returns back to office.  
+**Deactivated** lead responded back asking to stop sending emails.  
+**Unsubscribed** lead used the unsubscribed link in the email.  
+**Responded** state for the lead conveys that there is some response from the lead and Assistant was not able to categories it to one of the above  
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#flatly/"><img class="img-responsive" src="https://bootswatch.com/3/flatly/thumbnail.png" alt="Flatly"></a>
-      </div>
-      <div class="caption">
-        <h3>Flatly</h3>
-        <p>Flat and modern</p>
+## Lead Timeline view
+Email communication between the lead and the ai assistant can be seen in the timeline view on click of the lead in the lead list page. Timeline view shows all the communication. Clicking on any of the dates in the timeline view shows the message that was sent.  
+Timeline view also shows the scheduled messages along with the schedule date. Assistant will send similar message as shown in the scheduled message. 
 
+## Actions on the lead
+**Message** action lets the user view the message exchanges till now as well as type a new message as assistant.  
+User can leave a note by clicking the **Add Note** button.  
+**Deactivate** action is useful when a user have asked to stop sending an email and the AI assistant could not understand and marked the lead as **Responded**.  
+User may have communication with the lead outside the system, like on WhatsApp or phone call. Clicking on **Hot** button lets user manually mark the lead Hot.  
+**Introduce Me** is an important action. When used assistant will send an email to the lead copying the user in that email. So that user is formally introduced and can take the communication ahead. 
+**Unsubscribe** button lets user manually unsubscribe a lead. Once a lead is unsubscribed it cannot be added back for any other lead source or context. 
 
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#journal/"><img class="img-responsive" src="https://bootswatch.com/3/journal/thumbnail.png" alt="Journal"></a>
-      </div>
-      <div class="caption">
-        <h3>Journal</h3>
-        <p>Crisp like a new sheet of paper</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#lumen/"><img src="https://bootswatch.com/3/lumen/thumbnail.png" class="img-responsive" alt="Lumen"></a>
-      </div>
-      <div class="caption">
-        <h3>Lumen</h3>
-        <p>Light and shadow</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#paper/"><img class="img-responsive" src="https://bootswatch.com/3/paper/thumbnail.png" alt="Paper"></a>
-      </div>
-      <div class="caption">
-        <h3>Paper</h3>
-        <p>Material is the metaphor</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#readable/"><img class="img-responsive" src="https://bootswatch.com/3/readable/thumbnail.png" alt="Readable"></a>
-      </div>
-      <div class="caption">
-        <h3>Readable</h3>
-        <p>Optimized for legibility</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#sandstone/"><img src="https://bootswatch.com/3/sandstone/thumbnail.png" class="img-responsive" alt="Sandstone"></a>
-      </div>
-      <div class="caption">
-        <h3>Sandstone</h3>
-        <p>A touch of warmth</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#simplex/"><img class="img-responsive" src="https://bootswatch.com/3/simplex/thumbnail.png" alt="Simplex"></a>
-      </div>
-      <div class="caption">
-        <h3>Simplex</h3>
-        <p>Mini and minimalist</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#slate/"><img class="img-responsive" src="https://bootswatch.com/3/slate/thumbnail.png" alt="Slate"></a>
-      </div>
-      <div class="caption">
-        <h3>Slate</h3>
-        <p>Shades of gunmetal gray</p>
-
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#solar/"><img class="img-responsive" src="https://bootswatch.com/solar/thumbnail.png" alt="Solar"></a>
-      </div>
-      <div class="caption">
-        <h3>Solar</h3>
-        <p>A spin on Solarized</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#spacelab/"><img class="img-responsive" src="https://bootswatch.com/3/spacelab/thumbnail.png" alt="Spacelab"></a>
-      </div>
-      <div class="caption">
-        <h3>Spacelab</h3>
-        <p>Silvery and sleek</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#superhero/"><img class="img-responsive" src="https://bootswatch.com/3/superhero/thumbnail.png" alt="Superhero"></a>
-      </div>
-      <div class="caption">
-        <h3>Superhero</h3>
-        <p>The brave and the blue</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#united/"><img class="img-responsive" src="https://bootswatch.com/3/united/thumbnail.png" alt="United"></a>
-      </div>
-      <div class="caption">
-        <h3>United</h3>
-        <p>Ubuntu orange and unique font</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#yeti/"><img class="img-responsive" src="https://bootswatch.com/3/yeti/thumbnail.png" alt="Yeti"></a>
-      </div>
-      <div class="caption">
-        <h3>Yeti</h3>
-        <p>A friendly foundation</p>
-
-
-      </div>
-    </div>
-  </div>
-
-
-</div>

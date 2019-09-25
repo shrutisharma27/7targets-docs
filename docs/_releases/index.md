@@ -4,6 +4,12 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 25 Sept 2019 
+```
+- Help website for 7Targets AI Assistant
+- Click on the received response open the lead in the lead view
+```
+
 ### 24 Sept 2019 
 ```
 - Show the possible messages to be sent in the timeline graph as per the future schedule
