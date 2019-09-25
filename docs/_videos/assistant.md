@@ -24,7 +24,7 @@ Adding or creating an assistant is one time flow available after successful regi
 Lets look at various attributes which controls the assistant role and responsibilities.
 ##### Sales Assistant 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=aWzTG-Sl16U" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/aWzTG-Sl16U" allowfullscreen></iframe>
 </div>
 
 ##### WhatsApp Assistant
