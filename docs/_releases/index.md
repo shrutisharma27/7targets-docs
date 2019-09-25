@@ -7,7 +7,6 @@ redirect_from: /releases/index.html
 ### 25 Sept 2019 
 ```
 - Help website for 7Targets AI Assistant
-- Click on the received response open the lead in the lead view
 ```
 
 ### 24 Sept 2019 
