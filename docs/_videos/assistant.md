@@ -19,7 +19,7 @@ AMC Assistant is responsible for remembering the AMC date and try and keep the l
 ## [Add Assistant](#add-assistant)
 Adding or creating an assistant is one time flow available after successful registration.
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/i8A4GrdNCak" allowfullscreen></iframe>
 </div>
 
 <a name="edit-assistant"/>
@@ -27,15 +27,15 @@ Adding or creating an assistant is one time flow available after successful regi
 Lets look at various attributes which controls the assistant role and responsibilities.
 ##### Sales Assistant 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/aWzTG-Sl16U" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/O-XylUAMXbg" allowfullscreen></iframe>
 </div>
 
 ##### WhatsApp Assistant
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q_3544SZGvA" allowfullscreen></iframe>
 </div>
 
 ##### AMC Assistant
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oWyeAMbEvI0" allowfullscreen></iframe>
 </div>

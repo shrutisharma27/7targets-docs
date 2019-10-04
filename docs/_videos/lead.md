@@ -24,18 +24,11 @@ On the Add Lead page, there are many lead sources. The emails generated are base
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fjxr-YvxGYU" allowfullscreen></iframe>
 </div>
 
-<a name="lead-sources"/>
-## [Lead Sources](#lead-sources)
-On the Add Lead page, there are many lead sources. The emails generated are based contextual to the lead source and more context. Lets understand each source a little more. 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
-</div>
-
 <a name="edit-message"/>
 ## [Edit Message](#edit-message)
 The message being generated is small and to-the-point with the intent of getting a positive reply to have a meeting. This generated email message can be edited by clicking on the edit button/icon in the email preview section. It is recommended to keep the message short and to the point.
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iaX9SXvu4_Y" allowfullscreen></iframe>
 </div>
 
 <a name="add-more-leads"/>
