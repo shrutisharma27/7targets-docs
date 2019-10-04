@@ -2,8 +2,8 @@
 title: Assistant 
 permalink: /videos/assistant/
 ---
-
-## Assistant Types
+<a name="assistant-types"/>
+## [Assistant Types](#assistant-types)
 7Targets has 3 types of assistants. Sales Assistant, AMC and WhatsApp assistants. Choose what type you want.
 
 ##### Sales Assistant 
@@ -15,13 +15,15 @@ WhatsApp assistant can discover the leads from your WhatsApp number and start fo
 ##### AMC Assistant
 AMC Assistant is responsible for remembering the AMC date and try and keep the lead interested till we reach near the AMC renewal date, then try and get meeting with the lead. Communication is over email. 
 
-## Add Assistant
+<a name="add-assistant"/>
+## [Add Assistant](#add-assistant)
 Adding or creating an assistant is one time flow available after successful registration.
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUlXBMTyxV8" allowfullscreen></iframe>
 </div>
 
-## Edit Assistant
+<a name="edit-assistant"/>
+## [Edit Assistant](#edit-assistant)
 Lets look at various attributes which controls the assistant role and responsibilities.
 ##### Sales Assistant 
 <div class="embed-responsive embed-responsive-16by9">

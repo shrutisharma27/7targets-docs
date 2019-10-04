@@ -5,11 +5,13 @@ permalink: /docs/lead/
 
 Lead can be from various sources and has different context too. Based on the source and the context of the lead, the ai assistant writes short and simple emails to the lead. 
 
-## Add lead
+<a name="add-lead"/>
+## [Add Lead](#add-lead)
 User can add one lead at a time or multiple leads using an excel sheet. After providing the lead identifying fields like name, email, phone number, source of the lead and the context are very important fields. Note below the details about it.  
 **Schedule** button clicks lets user decide the time of first message to the lead. Else the first message is sent as soon as the lead is added. There is also an option to choice from the list of schedules user may have created. Learn more about the custom schedule in the assistant sections.  
 
-## Various lead sources 
+<a name="various-lead-sources"/>
+## [Various lead sources](#various-lead-sources)
 - Event
 - Website
 - Upsell
@@ -29,7 +31,8 @@ Typically from an **Event** one may get one or more leads. Few of them are Hot a
 ## Responses from the leads
 Any response email from the lead is read by the AI Assistant and try and decide the email content. The machine learning models for identifying if the response conveys an out of office or asks to stops sending any emails or agrees to have a meeting at a particular day helps the assistant take right action and group that lead in right state. 
 
-## Various lead states 
+<a name="various-lead-states"/>
+## [Various lead states ](#various-lead-states)
 Assistant will categories the leads in various states based on the followups and responses. Various possible state are:  
 **Hot** if the lead has accepted to meet.   
 **Cold** the followup is under progress.  
@@ -39,11 +42,13 @@ Assistant will categories the leads in various states based on the followups and
 **Unsubscribed** lead used the unsubscribed link in the email.  
 **Responded** state for the lead conveys that there is some response from the lead and Assistant was not able to categories it to one of the above  
 
-## Lead Timeline view
+<a name="lead-timeline-view"/>
+## [Lead Timeline View](#lead-timeline-view)
 Email communication between the lead and the ai assistant can be seen in the timeline view on click of the lead in the lead list page. Timeline view shows all the communication. Clicking on any of the dates in the timeline view shows the message that was sent.  
 Timeline view also shows the scheduled messages along with the schedule date. Assistant will send similar message as shown in the scheduled message. 
 
-## Actions on the lead
+<a name="actions-on-the-lead"/>
+## [Actions on the lead](#actions-on-the-lead)
 **Message** action lets the user view the message exchanges till now as well as type a new message as assistant.  
 User can leave a note by clicking the **Add Note** button.  
 **Deactivate** action is useful when a user have asked to stop sending an email and the AI assistant could not understand and marked the lead as **Responded**.  

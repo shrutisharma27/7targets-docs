@@ -3,7 +3,8 @@ title: Dashboard
 permalink: /videos/dashboard/
 ---
 
-## Dashboard
+<a name="dashboard"/>
+## [Dashboard](#dashboard)
 The dashboard intends to show the work done by the 7Targets AI assistant. 
 
 <div class="embed-responsive embed-responsive-16by9">

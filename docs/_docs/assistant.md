@@ -3,7 +3,8 @@ title: Assistant
 permalink: /docs/assistant/
 ---
 
-## Assistant Types
+<a name="assistant-types"/>
+## [Assistant Types](#assistant-types)
 7Targets provides 3 types of assistants
 - Sales Assistant 
 - AMC Assistant 
