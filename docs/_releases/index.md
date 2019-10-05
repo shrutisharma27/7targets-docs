@@ -6,6 +6,7 @@ redirect_from: /releases/index.html
 ### 01 Oct 2019 
 ```
 - On click of the Lead Responses and Todays Followup in dashboard, the lead is opened in context
+- BCC all the emails sent by the SALES assistant to the provided email id.
 ```
 
 ### 25 Sept 2019 
