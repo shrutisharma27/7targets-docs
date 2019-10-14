@@ -3,6 +3,16 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 14 Oct 2019 
+```
+- Know if and when the email was opened by the lead.
+- Adaptive email sending time, based on when the user reads the email.
+- Ability to know the opened follow-up email in the timeline graph for a specific lead
+- Tone based scheduled messages. User can pick the tone to be used while creating a custom schedule.
+- Ability to include Offer in the custom schedule.
+```
+
 ### 01 Oct 2019 
 ```
 - On click of the Lead Responses and Todays Followup in dashboard, the lead is opened in context
