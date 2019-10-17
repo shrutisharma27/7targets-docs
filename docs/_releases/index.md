@@ -4,6 +4,14 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 18 Oct 2019 
+```
+- Spreading out leads creation while excel import. 
+- Avoid debounce concurrent calls to not get into the concurrent call limit. Also handle the return code for this.
+- Fixed some failures in Hot and Deactivate detection.
+- Schedule Message shown in the timegraph now conveys that this is a Possible Message to be sent. 
+- IntroduceMe URL and Lead State in the Forwarded Lead Response email
+```
 ### 14 Oct 2019 
 ```
 - Know if and when the email was opened by the lead.
