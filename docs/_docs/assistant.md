@@ -29,3 +29,7 @@ AMC Assistant is responsible for remembering the AMC date and try and keep the l
 ## [Custom Schedule](#assistant-custom-schedule)
 For Sales Assistant, the default and out of box **Recommended** schedule comes with 7 followups over a 3-4 week period. User has an option of creating one or more schedules, called Custom schedule. Custom schedule lets one select along different tones for each followup. After a tone is selected one can get an idea of a sample message for that tone from the UI. At present the supported tones are Candid, Gentle, Appreciative, Hopeful, Assertive, Cautionary and Curious.
 
+<a name="assistant-adapt-email-send-time"/>
+## [Adapt Email Send Time](#assistant-adapt-email-send-time)
+Assistant keeps an eye on when the email was opened by the lead and then changes the next email time a little before the users open time. Intention is to have your email among the top few so increase the chance of email opening.
+

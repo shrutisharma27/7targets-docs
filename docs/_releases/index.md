@@ -4,6 +4,12 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 22 Oct 2019 
+```
+- Ability to provide Additional Information Line to the Assistant to provide more context to the lead in the email. Assistant will use this line in different emails in the followup. 
+- Received Response email sent to the boss, to contain a link to open that lead and get introduced. 
+```
+
 ### 18 Oct 2019 
 ```
 - Spreading out leads creation while excel import. 

@@ -56,3 +56,6 @@ User may have communication with the lead outside the system, like on WhatsApp o
 **Introduce Me** is an important action. When used assistant will send an email to the lead copying the user in that email. So that user is formally introduced and can take the communication ahead. 
 **Unsubscribe** button lets user manually unsubscribe a lead. Once a lead is unsubscribed it cannot be added back for any other lead source or context. 
 
+<a name="additional-information"/>
+## [Additional Information](#additional-information
+Additional Information can be provided at the lead creation time. This additional information is intended to provide more context and details to the lead about your company offering. Assistant will use this information in further scheduled emails. Additional information is a Assistant level property and can be edited only once via Assistant edit but if user needs to overwrite it while lead creation then it is possible in Add Lead screen.
