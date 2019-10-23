@@ -31,5 +31,5 @@ For Sales Assistant, the default and out of box **Recommended** schedule comes w
 
 <a name="assistant-adapt-email-send-time"/>  
 #### [Adapt Email Send Time]  (#assistant-adapt-email-send-time)  
-Assistant keeps an eye on when the email was opened by the lead and then changes the next email time a little before the users open time. Intention is to have your email among the top few so increase the chance of email opening.
+Assistant intends to send the email at such a time, that it has a better chance of opening. Assistant learns this from leads behavior and adapts sending of next email close to the time when lead may have opened the earlier email. Thus, the email is among the top few emails in the leads inbox.
 
