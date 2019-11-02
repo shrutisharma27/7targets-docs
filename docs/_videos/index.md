@@ -11,9 +11,9 @@ Below are the steps to be followed:
 ![Signup](../../img/signup.png)
 #### 2. An activation email is sent to the  email id with an activation link.  
 ![Activation](../../img/activation-email.png)
-#### 3. Click or open the link in browser to complete the activation.  
+#### 3. Open that email in your email client which looks like below image. Click or open the link in browser to complete the activation.  
 ![Activation Email](../../img/activation.png)
-#### 4. Once registration is completed, one can login to create the Assistant and assign or add leads.  
+#### 4. Once registration is completed, one can login to create the Assistant and add leads.  
 ![Login](../../img/login.png)
 
 <a name="create-assistant"/>
