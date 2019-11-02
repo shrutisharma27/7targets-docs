@@ -7,7 +7,7 @@ redirect_from: /videos/index.html
 <a name="signup"/>
 ## [Signup](#signup)
 Below are the steps to be followed:
-#### 1. Signup using [Signup Link](https://solution.7targets.com/sign-up).  
+#### 1. Signup using [Signup Link](https://solution.7targets.com/sign-up){:target="_blank" rel="noopener"}.  
 ![Signup](../../img/signup.png)
 #### 2. An activation email is sent to the  email id with an activation link.  
 ![Activation](../../img/activation-email.png)
