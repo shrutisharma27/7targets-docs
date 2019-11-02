@@ -18,14 +18,14 @@ Below are the steps to be followed:
 
 <a name="create-assistant"/>
 ## [Create Assistant](#create-assistant)
-Post successful registration, first time login will present Assistant creation flow. Provide the Assistant name, title, etc and create the Assistant. 
+#### Post successful registration, first time login will present Assistant creation flow. Provide the Assistant name, title, etc and create the Assistant.  
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/i8A4GrdNCak" allowfullscreen></iframe>
 </div>
 
 <a name="create-lead"/>
 ## [Create Lead](#create-lead)
-Validate that the Assistant is created and works correctly by adding the first lead. 
+#### Validate that the Assistant is created and works correctly by adding the first lead.  
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UKdxHyueNmY" allowfullscreen></iframe>
 </div>
