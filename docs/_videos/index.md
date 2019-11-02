@@ -4,9 +4,17 @@ permalink: /videos/home/
 redirect_from: /videos/index.html
 ---
 
-<a name="register"/>
-## [Register](#register)
-To get started, register at https://solution.7targets.com/sign-up. Post sign-up/register, an activation  email is sent to the user's email id with an activation link. Click or open the link in browser to complete the activation. Once registration is completed, one can login to create the Assistant and assign or add leads.
+<a name="signup"/>
+## [Signup](#signup)
+Below are the steps to be followed:
+#### 1. Signup using [Signup Link](https://solution.7targets.com/sign-up).  
+![Signup](../../img/signup.png)
+#### 2. An activation email is sent to the  email id with an activation link.  
+![Activation](../../img/activation-email.png)
+#### 3. Click or open the link in browser to complete the activation.  
+![Activation Email](../../img/activation.png)
+#### 4. Once registration is completed, one can login to create the Assistant and assign or add leads.  
+![Login](../../img/login.png)
 
 <a name="create-assistant"/>
 ## [Create Assistant](#create-assistant)
