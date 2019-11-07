@@ -51,3 +51,10 @@ While adding lead one can schedule the processing for a later time of a day.
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rHRo0NRCuTA" allowfullscreen></iframe>
 </div>
+
+<a name="Additional Information"/>
+## [Additional Information](#additional-infromation)
+Additional information is intended to provide more context and details to the lead about your company offerings. Assistant will use this information in emails. Additional information is an Assistant level property and can be provided in Edit Assistant. While, user can overwrite or edit the additional information while lead creation. 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=5fBX1yuJPIU" allowfullscreen></iframe>
+</div>
