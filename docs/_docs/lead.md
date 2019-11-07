@@ -59,3 +59,7 @@ User may have communication with the lead outside the system, like on WhatsApp o
 <a name="additional-information"/>
 ## [Additional Information] (#additional-information)
 Additional information is intended to provide more context and details to the lead about your company offerings. Assistant will use this information in emails. Additional information is an Assistant level property and can be provided in Edit Assistant. While, user can overwrite or edit the additional information while lead creation.
+
+<a name="engaged-leads"/>
+## [Engaged Leads] (#engaged-leads)  
+Leads who show engagements are identified and presented separately so that the user can take right action to nurture these leads further. User is also notified on email and WhatsApp about the engaged leads so that user can call at that moment, talk to the lead and try to convert.
