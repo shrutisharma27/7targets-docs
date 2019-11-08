@@ -5,7 +5,7 @@ redirect_from: /releases/index.html
 ---
 ### 7 Nov 2019
 ```
-- Assistant will notify the user on email and WhatsApp at the right time about the engaged leads, so that the user can call and the lead at that moment.
+- Assistant will notify the user on email and WhatsApp at the right time about the engaged leads, so that the user can call the lead at that moment.
 ```
 
 ### 22 Oct 2019 
