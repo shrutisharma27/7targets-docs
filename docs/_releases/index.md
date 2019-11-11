@@ -3,6 +3,14 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 11 Nov 2019
+```
+- Smart followup for lead out of office. Assistant will align the followup email date based on the number of days of OOO.
+- User can now edit the email subject while adding lead.
+- User will be provided with subject which are working based on analytics (i.e. emails are being opened).
+```
+
 ### 7 Nov 2019
 ```
 - Assistant will notify the user on email and WhatsApp at the right time about the engaged leads, so that the user can call the lead at that moment.
