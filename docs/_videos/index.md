@@ -20,7 +20,7 @@ Below are the steps to be followed:
 ## [Create Assistant](#create-assistant)
 #### Post successful registration, first time login will present Assistant creation flow. Provide the Assistant name, title, etc and create the Assistant.  
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YSDEux377bQ?rel=0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MLClL11S8gk?rel=0" allowfullscreen></iframe>
 </div>
 
 <a name="create-lead"/>

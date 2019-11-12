@@ -19,7 +19,7 @@ AMC Assistant is responsible for remembering the AMC date and try and keep the l
 ## [Add Assistant](#add-assistant)
 Adding or creating an assistant is one time flow available after successful registration.
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YSDEux377bQ?rel=0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MLClL11S8gk?rel=0" allowfullscreen></iframe>
 </div>
 
 <a name="edit-assistant"/>
