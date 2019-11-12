@@ -8,5 +8,5 @@ permalink: /videos/dashboard/
 The dashboard intends to show the work done by the 7Targets AI assistant. 
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WXGO0Ghh8nM" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WXGO0Ghh8nM?rel=0" allowfullscreen></iframe>
 </div>

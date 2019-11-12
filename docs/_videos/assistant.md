@@ -19,7 +19,7 @@ AMC Assistant is responsible for remembering the AMC date and try and keep the l
 ## [Add Assistant](#add-assistant)
 Adding or creating an assistant is one time flow available after successful registration.
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=YSDEux377bQ" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MLClL11S8gk?rel=0" allowfullscreen></iframe>
 </div>
 
 <a name="edit-assistant"/>
@@ -27,22 +27,22 @@ Adding or creating an assistant is one time flow available after successful regi
 Lets look at various attributes which controls the assistant role and responsibilities.
 ##### Sales Assistant 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ELaE7f0mi4A" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ELaE7f0mi4A?rel=0" allowfullscreen></iframe>
 </div>
 
 ##### WhatsApp Assistant
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q_3544SZGvA" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q_3544SZGvA?rel=0" allowfullscreen></iframe>
 </div>
 
 ##### AMC Assistant
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oWyeAMbEvI0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oWyeAMbEvI0?rel=0" allowfullscreen></iframe>
 </div>
 
 ##### Adapt Email Send Time
 Assistant intends to send the email at such a time, that it has a better chance of opening. Assistant learns this from leads behavior and adapts sending of next email close to the time when lead may have opened the earlier email. Thus, the email is among the top few emails in the leads inbox.
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=-5YSFCvvUA4" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=-5YSFCvvUA4?rel=0" allowfullscreen></iframe>
 </div>
 
