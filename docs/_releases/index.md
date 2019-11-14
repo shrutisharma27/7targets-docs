@@ -6,6 +6,12 @@ redirect_from: /releases/index.html
 
 ### 11 Nov 2019
 ```
+- Assistant uses the AI sense to extract some important values like email, phone, company, etc and show it to the user
+- Engaged leads identification got smarter
+```
+
+### 11 Nov 2019
+```
 - Smart followup for out of office Lead. Assistant will align the followup email date based on the number of days of OOO.
 - User can now edit the email subject while adding lead.
 - User will be provided with subject which are working based on analytics (i.e. emails are being opened).
