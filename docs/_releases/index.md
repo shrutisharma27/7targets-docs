@@ -6,7 +6,7 @@ redirect_from: /releases/index.html
 
 ### 14 Nov 2019
 ```
-- Assistant uses the AI sense to extract some important values like email, phone, company, etc and show it to the user
+- Assistant uses the AI sense to extract some important information like email, phone, company, etc and show it to the user
 - Engaged leads identification got smarter
 ```
 
