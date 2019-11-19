@@ -4,6 +4,12 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 19 Nov 2019
+```
+- Nurture the lead by adding your own PS statements. Helps provide answers for "Did you know". One can put Customer stories, white papers, video links, etc to the assistant and then assistant will use one at a time in the emails she sends. 
+- Securely Subscribe using Stripe. 
+```
+
 ### 14 Nov 2019
 ```
 - Assistant uses the AI sense to extract some important information like email, phone, company, etc and show it to the user
