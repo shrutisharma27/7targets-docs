@@ -4,6 +4,11 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 21 Nov 2019
+```
+- Quickly know the number of Warm and Engaged leads from the dashboard. Click on it to get to the exact list too in the lead list.
+```
+
 ### 19 Nov 2019
 ```
 - Nurture the lead by adding your own PS statements. Helps provide answers for "Did you know". One can put Customer stories, white papers, video links, etc to the assistant and then assistant will use one at a time in the emails she sends. 
