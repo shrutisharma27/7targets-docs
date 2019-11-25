@@ -4,6 +4,11 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 25 Nov 2019
+```
+- Now you can use Reference as lead source. Assistant is trained to generate message for such source. 
+```
+
 ### 21 Nov 2019
 ```
 - Quickly know the number of Warm and Engaged leads from the dashboard. Click on it to get to the exact list too in the lead list.
