@@ -4,6 +4,13 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 03 Dec 2019
+```
+- Add Lead via Email
+- Add Lead from Out of Office  
+- Ease of onboarding the Assistant in CRM. The email sent to the assistant's email if from CRM is now forwarded to the 7Targets support group.
+```
+
 ### 25 Nov 2019
 ```
 - Now you can use Reference as lead source. Assistant is trained to generate message for such source. 
