@@ -6,6 +6,12 @@ redirect_from: /releases/index.html
 
 ### 03 Dec 2019
 ```
+- Improved identification of Warm and Engaged leads to reduce false positives
+- Show all the email ids in the received email by the assisant. In UI as well as in the email forwarded to the user by the assistant. 
+```
+
+### 03 Dec 2019
+```
 - Add Lead via Email
 - Add Lead from Out of Office  
 - Ease of onboarding the Assistant in CRM. The email sent to the assistant's email if from CRM is now forwarded to the 7Targets support group.
