@@ -42,9 +42,8 @@ If Sales Assistant is copied by the user in his/her communication with the lead 
 - Assistant will use **Recommended for Email CC** schedule for leads from emails.
 - This method of assigning/adding lead is available only for Sales Assistant.
 - Assistant will not send the first introducing/connecting email from the schedule. Assistant will start only from the second email in the schedule.
-- Assistant will keep the original email from user to the lead in her first email (2nd as per schedule) to maintain the context.
-- Assistant will pick the first non user email as Lead. If there are more email ids in the original email from user, Assistant will maintain them too along with the user in her emails.
-- Assistant will send the first email after 3 days of adding the lead as per the schedule **Recommended for Email CC** . But if user mentions some date which is more than 3 days, then Assistant will schedule the followup on that date (e.g. Lets catchup in 2 weeks from now).
+- If there are more email ids in the original email from user then Assistant will pick the first email as Lead. Assistant will keep the rest in the loop.
+- Assistant will send the first email after 3 days of adding the lead as per the schedule **Recommended for Email CC** unless your email indicates a different followup date (e.g. If you mention ```lets catchup in 2 weeks from now``` assistant will adjust the schedule accordingly).
 
 <a name="assistant-add-lead-from-ooo"/>  
 #### [Add Lead from Out of Office](#assistant-add-lead-from-ooo)
