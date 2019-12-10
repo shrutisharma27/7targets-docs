@@ -3,6 +3,11 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 10 Dec 2019
+```
+- Ease of traversing messages on timeline view.
+- Assign the leads in Hubspot to your 7Targets AI Assistant for nurturing
+```
 
 ### 03 Dec 2019
 ```
