@@ -3,6 +3,11 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 16 Dec 2019
+```
+- Assistant can be provided the Primary offering which will  be used as context in the Lead communication if the context is empty at the lead level. Can be overwritten while adding a new lead.
+```
+
 ### 10 Dec 2019
 ```
 - Ease of traversing messages on timeline view.
