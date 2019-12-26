@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 20 Dec 2019
+```
+- Schedule can have a type CUSTOM_MESSAGE so that user can type in his message if he wants to. Useful for scenarios when user wants to add multiple leads from CRM and want to have a custom first message to go out instead of generated. This would be anyways possible from within 7Targets UI but if user is doing it from a CRM then it would not have been possible. 
+```
+
 ### 16 Dec 2019
 ```
 - Assistant can be provided the Primary offering which will  be used as context in the Lead communication if the context is empty at the lead level. Can be overwritten while adding a new lead.
