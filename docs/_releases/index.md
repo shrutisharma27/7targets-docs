@@ -3,6 +3,13 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 31 Dec 2019
+```
+- Leads created from EmailCC (or others too) can be edited for all fields other than email address.
+- When leads in Hubspot CRM is assigned to the assistant then Assistant will check if any email is sent by user to the lead. If user has sent any email then Assistant will not send the first email and will use the same email subject and email body as quoted text below the emails Assistant will write. 
+- Assistant level attribute to enable/disable accepting leads via EmailCC.
+- Followup for the Processed leads can be restarted by Editing the lead.
+```
 
 ### 20 Dec 2019
 ```
