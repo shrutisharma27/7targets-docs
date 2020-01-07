@@ -3,6 +3,14 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 07 Jan 2020
+```
+- Ability to edit the scheduled message for the lead in the timeline view.  
+- Take actions like Add Notes, Mark Hot, etc on multiple leads, on desktop view only.  
+```
+
+
 ### 31 Dec 2019
 ```
 - Leads created from EmailCC (or others too) can be edited for all fields other than email address.
