@@ -4,10 +4,19 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 14 Jan 2020
+```
+- Custom Schedule capability for WhatsApp leads
+- Allow to bulk upload many lead but process only few(~50) per day for WhatsApp leads. 
+- Ability to edit and restart followup for WhatsApp Leads
+- Recommended Sales Assistant Schedule, first email goes after 1 day of adding the lead.
+```
+
 ### 07 Jan 2020
 ```
 - Ability to edit the scheduled message for the lead in the timeline view.  
-- Take actions like Add Notes, Mark Hot, etc on multiple leads, on desktop view only.  
+- Take actions like Add Notes, Mark Hot, etc on multiple leads, on desktop view only.
+- Processed Lead can be Restarted for followup. 
 ```
 
 
