@@ -32,7 +32,7 @@ Typically from an **Event** one may get one or more leads. Few of them are Hot a
 Any response email from the lead is read by the AI Assistant and try and decide the email content. The machine learning models for identifying if the response conveys an out of office or asks to stops sending any emails or agrees to have a meeting at a particular day helps the assistant take right action and group that lead in right state. 
 
 <a name="various-lead-states"/>
-## [Various lead states ](#various-lead-states)
+## [Various lead states](#various-lead-states)
 Assistant will categories the leads in various states based on the followups and responses. Various possible state are:  
 **Hot** if the lead has accepted to meet.   
 **Cold** the followup is under progress.  
@@ -57,9 +57,9 @@ User may have communication with the lead outside the system, like on WhatsApp o
 **Unsubscribe** button lets user manually unsubscribe a lead. Once a lead is unsubscribed it cannot be added back for any other lead source or context. 
 
 <a name="additional-information"/>
-## [Additional Information] (#additional-information)
+## [Additional Information](#additional-information)
 Additional information is intended to provide more context and details to the lead about your company offerings. Assistant will use this information in emails. Additional information is an Assistant level property and can be provided in Edit Assistant. While, user can overwrite or edit the additional information while lead creation.
 
 <a name="engaged-leads"/>
-## [Engaged Leads] (#engaged-leads)  
+## [Engaged Leads](#engaged-leads)  
 Leads who show engagements are identified and presented separately so that the user can take right action to nurture these leads further. User is also notified on email and WhatsApp about the engaged leads so that user can call at that moment, talk to the lead and try to convert.
