@@ -4,6 +4,13 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 17 Jan 2020
+```
+- Assistant to have a default schedule for leads from EmailCC. User can now decide the schedule to use for such leads.
+- User can send an image to the WhatsApp leads when using that assistant.
+- Simplified Add and Edit lead on mobile.
+```
+
 ### 14 Jan 2020
 ```
 - Custom Schedule capability for WhatsApp leads
