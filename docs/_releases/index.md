@@ -3,6 +3,11 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 20 Jan 2020
+```
+- Users would be able to access/use schedules created by others users from the same Organisation. 
+- Possibly invalid email is kept under review for validation. 
+```
 
 ### 17 Jan 2020
 ```
