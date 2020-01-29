@@ -37,7 +37,7 @@ Assistant will categories the leads in various states based on the followups and
 **Hot** if the lead has accepted to meet.   
 **Cold** the followup is under progress.  
 **Processed** followup is completed as per the schedule and there was no response from the lead.  
-**Out of office** received an out an office from the lead. Assistant will restart the followup after lead returns back to office.  
+**Out of office** received an out of office from the lead. Assistant will restart the followup after lead returns back to office.  
 **Deactivated** lead responded back asking to stop sending emails.  
 **Unsubscribed** lead used the unsubscribed link in the email.  
 **Responded** state for the lead conveys that there is some response from the lead and Assistant was not able to categories it to one of the above  
