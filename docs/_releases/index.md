@@ -3,6 +3,14 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 29 Jan 2020
+```
+- Improved UI for Schedule and Nurturing on Desktop.  
+- Assistant to remind the Sales person for Responded and Hot Leads. If no response from sales person then Assistant marks the lead at risk. Sales person has an option to set reminder after days.  
+- See all the possible emails while adding lead and edit any of those emails as per schedule as required. 
+```
+
 ### 20 Jan 2020
 ```
 - Users would be able to access/use schedules created by others users from the same Organisation. 
