@@ -25,9 +25,15 @@ WhatsApp assistant can discover the leads from your WhatsApp number and start fo
 #### [AMC Assistant](#amc-assistant)
 AMC Assistant is responsible for remembering the AMC date and try and keep the lead interested till we reach near the AMC renewal date, then try and get meeting with the lead. Communication is over email. 
 
-<a name="assistant-custom-schedule"/>  
+<a name="assistant-custom-schedule"/>
 #### [Custom Schedule](#assistant-custom-schedule)  
-For Sales Assistant, the default and out of box **Recommended** schedule comes with 7 followups over a 3-4 week period. User has an option of creating one or more schedules, called Custom schedule. Custom schedule lets one select along different tones for each followup. After a tone is selected one can get an idea of a sample message for that tone from the UI. At present the supported tones are Candid, Gentle, Appreciative, Hopeful, Assertive, Cautionary and Curious.
+For Sales Assistant, the default and out of box **Recommended** schedule comes with 7 followups over a 3-4 week period. User has an option of creating one or more schedules, called Custom schedule. Custom schedule lets one select among different tones for each followup. After a tone is selected one can get an idea of a sample message for that tone from the UI. At present the supported tones are Candid, Gentle, Appreciative, Hopeful, Assertive, Cautionary and Curious. If user does not want to use one of the generated email messages as per the tone, then user can select CUSTOM_MESSAGE and type own message to be used.  
+
+You may have a lot of leads that you want to follow up and convert.  
+Some leads may be close to you, some may be aware of your offerings, others may have seen a demo of your offerings and services, and rest may be strangers.  
+
+It's important to nurture each of these sets of leads differently.  
+This requires different schedules with different number of follow ups for each type of leads mentioned above. Click to find out [How to create custom schedule](#how-to-create-custom-schedule)  
 
 <a name="assistant-adapt-email-send-time"/>  
 #### [Adapt Email Send Time](#assistant-adapt-email-send-time)  
@@ -45,6 +51,50 @@ If Sales Assistant is copied by the user in his/her communication with the lead 
 - If there are more email ids in the original email from user then Assistant will pick the first email as Lead. Assistant will keep the rest in the loop.
 - Assistant will send the first email after 3 days of adding the lead as per the schedule **Recommended for Email CC** unless your email indicates a different followup date (e.g. If you mention ```lets catchup in 2 weeks from now``` assistant will adjust the schedule accordingly).
 
-<a name="assistant-add-lead-from-ooo"/>  
-#### [Add Lead from Out of Office](#assistant-add-lead-from-ooo)
+<a name="assistant-add-lead-from-ooo"/>   
+#### [Add Lead from Out of Office](#assistant-add-lead-from-ooo)   
 If Sales Assistant extracts another email id from an Out of office response then the Assistant automatically adds that as a new lead and inform the user. User gets around 24 hrs to act and stop the assistant if she/he wants to. A new lead is added automatically only when the Out of office is more than 4 days from _now_. 
+
+<a name="how-to-create-custom-schedule"/>  
+#### [How to create custom schedule](#how-to-create-custom-schedule)   
+Default schedule that is shipped with 7Targets is a '7 time followup' sequence within 3 weeks. 
+
+For close friends, who are also potential leads, we recommend that you create a schedule of 3 to 4 follow ups; not more than that. You don't want to alienate your friends by following up too much. 
+
+For those leads who are mildly interested, but are on the fence on whether to go ahead with your offering or not, they need more information about your offering and you want to remind them on a slow schedule but for a longer duration of time. 
+
+Here are the steps on how to create a new schedule:  
+Decide a set of leads of similar characteristics  
+Decide how many times you want to followup this set of leads  
+
+The schedules created by 7Targets are followup schedules. If you want to mix it with a custom messages in between followups, decide your custom messages. One of the steps below will address how you can add custom messages to auto generated ones.
+
+Finally, choose an existing schedule that is closest to the schedule you are trying to create.   
+First, change the name of the schedule. Here is a good naming strategy. You can have your own strategies.  
+
+[Eg. 1] If I am selling Cloud Migration, and if this schedule is for new event leads, I would name the schedule 
+'FollowupScheduleForCloudMigrationForNewEventLeads'
+
+The name has a combination of Offering, LeadStatus and LeadSource. 
+
+[Eg. 2] If your offering is Digital Transformation, your schedule name will look like
+FollowupScheduleForDigitalTransformationForNewEventLeads
+
+[Eg. 3] If lead source is reference, 
+FollowupScheduleForDigitalTransformationFromReferences
+
+Set number of followups 
+User the + and delete buttons to add rows and remove rows. Each row represents one followup. Each followup message can be seen when you click the 'eye icon'. The followup message used for that step is a auto generated message. Hence the message will change each time, and will still retain the context of the message. This is done to reduce the chances of showing up in spam radars. 
+
+Add custom message 
+If you want to override the auto-generated message in some (or all) portions of the followups, you can easily do so. 
+Click on this column and choose 'custom message' from the drop down. 
+Click on the 'eye icon'. 
+Click the 'pencil icon' to get into edit mode. 
+IMPORTANT: Name your message!! These names are used later on in other schedules to quickly select that message. 
+Paste your message into the edit box. 
+Save the message
+IMPORTANT: Choose the drop down of message names and choose the message you want to select for that row. 
+
+Verify the schedule
+Now, add a lead. Choose this new schedule when you add this lead. Verify that you are able to see the messages from this schedule in the Lead expansion view. 
