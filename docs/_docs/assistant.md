@@ -87,14 +87,14 @@ Set number of followups
 User the + and delete buttons to add rows and remove rows. Each row represents one followup. Each followup message can be seen when you click the 'eye icon'. The followup message used for that step is a auto generated message. Hence the message will change each time, and will still retain the context of the message. This is done to reduce the chances of showing up in spam radars. 
 
 Add custom message 
-If you want to override the auto-generated message in some (or all) portions of the followups, you can easily do so. 
-Click on this column and choose 'custom message' from the drop down. 
-Click on the 'eye icon'. 
-Click the 'pencil icon' to get into edit mode. 
-IMPORTANT: Name your message!! These names are used later on in other schedules to quickly select that message. 
-Paste your message into the edit box. 
-Save the message
-IMPORTANT: Choose the drop down of message names and choose the message you want to select for that row. 
+If you want to override the auto-generated message in some (or all) portions of the followups, you can easily do so.   
+Click on this column and choose 'custom message' from the drop down.   
+Click on the 'eye icon'.   
+Click the 'pencil icon' to get into edit mode.   
+IMPORTANT: Name your message!! These names are used later on in other schedules to quickly select that message.   
+Paste your message into the edit box.   
+Save the message  
+IMPORTANT: Choose the drop down of message names and choose the message you want to select for that row.   
 
 Verify the schedule
 Now, add a lead. Choose this new schedule when you add this lead. Verify that you are able to see the messages from this schedule in the Lead expansion view. 
