@@ -6,12 +6,12 @@ permalink: /docs/lead/
 Lead can be from various sources and has different context too. Based on the source and the context of the lead, the ai assistant writes short and simple emails to the lead. 
 
 <a name="add-lead"/>
-## [Add Lead](#add-lead)
+## [Add Lead](#add-lead) <a href="https://www.youtube.com/embed/UKdxHyueNmY?rel=0" target="popup"  onclick="window.open('https://www.youtube.com/embed/UKdxHyueNmY?rel=0','popup','width=700,height=500'); return false;"><i class='fa fa-youtube-play' style="color:red"></i></a>
 User can add one lead at a time or multiple leads using an excel sheet. After providing the lead identifying fields like name, email, phone number, source of the lead and the context are very important fields. Note below the details about it.  
 **Schedule** button clicks lets user decide the time of first message to the lead. Else the first message is sent as soon as the lead is added. There is also an option to choice from the list of schedules user may have created. Learn more about the custom schedule in the assistant sections.  
 
 <a name="various-lead-sources"/>
-## [Various lead sources](#various-lead-sources)
+## [Various lead sources](#various-lead-sources) <a href="https://www.youtube.com/embed/fjxr-YvxGYU?rel=0" target="popup"  onclick="window.open('https://www.youtube.com/embed/fjxr-YvxGYU?rel=0','popup','width=700,height=500'); return false;"><i class='fa fa-youtube-play' style="color:red"></i></a>
 - Event
 - Website
 - Upsell
