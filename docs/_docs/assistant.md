@@ -36,7 +36,7 @@ It's important to nurture each of these sets of leads differently.
 This requires different schedules with different number of follow ups for each type of leads mentioned above. Click to find out [How to create custom schedule](#how-to-create-custom-schedule)  
 
 <a name="assistant-adapt-email-send-time"/>  
-#### [Adapt Email Send Time](#assistant-adapt-email-send-time)  
+#### [Adapt Email Send Time](#assistant-adapt-email-send-time) <a href="https://www.youtube.com/embed/-5YSFCvvUA4?rel=0" target="popup"  onclick="window.open('https://www.youtube.com/embed/-5YSFCvvUA4?rel=0','popup','width=700,height=500'); return false;"><i class='fa fa-youtube-play' style="color:red"></i></a>  
 Assistant intends to send the email at such a time, that it has a better chance of opening. Assistant learns this from leads behavior and adapts sending of next email close to the time when lead may have opened the earlier email. Thus, the email is among the top few emails in the leads inbox.
 
 <a name="assistant-add-lead-via-email"/>  
