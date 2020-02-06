@@ -43,7 +43,7 @@ Assistant will categories the leads in various states based on the followups and
 **Responded** state for the lead conveys that there is some response from the lead and Assistant was not able to categories it to one of the above  
 
 <a name="lead-timeline-view"/>
-## [Lead Timeline View](#lead-timeline-view)
+## [Lead Timeline View](#lead-timeline-view) <a href="https://www.youtube.com/embed/JC2yJnBXzLM?rel=0" target="popup"  onclick="window.open('https://www.youtube.com/embed/JC2yJnBXzLM?rel=0','popup','width=700,height=500'); return false;"><i class='fa fa-youtube-play' style="color:red"></i></a>
 Email communication between the lead and the ai assistant can be seen in the timeline view on click of the lead in the lead list page. Timeline view shows all the communication. Clicking on any of the dates in the timeline view shows the message that was sent.  
 Timeline view also shows the scheduled messages along with the schedule date. Assistant will send similar message as shown in the scheduled message. 
 
@@ -57,7 +57,7 @@ User may have communication with the lead outside the system, like on WhatsApp o
 **Unsubscribe** button lets user manually unsubscribe a lead. Once a lead is unsubscribed it cannot be added back for any other lead source or context. 
 
 <a name="additional-information"/>
-## [Additional Information](#additional-information)
+## [Additional Information](#additional-information) <a href="https://www.youtube.com/embed/5fBX1yuJPIU?rel=0" target="popup"  onclick="window.open('https://www.youtube.com/embed/5fBX1yuJPIU?rel=0','popup','width=700,height=500'); return false;"><i class='fa fa-youtube-play' style="color:red"></i></a>
 Additional information is intended to provide more context and details to the lead about your company offerings. Assistant will use this information in emails. Additional information is an Assistant level property and can be provided in Edit Assistant. While, user can overwrite or edit the additional information while lead creation.
 
 <a name="engaged-leads"/>

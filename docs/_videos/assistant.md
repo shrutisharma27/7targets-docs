@@ -40,7 +40,10 @@ Lets look at various attributes which controls the assistant role and responsibi
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oWyeAMbEvI0?rel=0" allowfullscreen></iframe>
 </div>
 
-##### Adapt Email Send Time
+
+
+<a name="assistant-adapt-email-send-time"/>  
+## [Adapt Email Send Time](#assistant-adapt-email-send-time)
 Assistant intends to send the email at such a time, that it has a better chance of opening. Assistant learns this from leads behavior and adapts sending of next email close to the time when lead may have opened the earlier email. Thus, the email is among the top few emails in the leads inbox.
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-5YSFCvvUA4?rel=0" allowfullscreen></iframe>
