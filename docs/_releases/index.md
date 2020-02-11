@@ -4,6 +4,11 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 12 Feb 2020
+```
+- Force Send the Pending Email Validation leads cautiously.  
+- All the places for user to type emails have same look and feel now.  
+```
 ### 11 Feb 2020
 ```
 - Native Hubspot OAuth2 based integration. 7Targets can be on Hubspot marketplace now. 
