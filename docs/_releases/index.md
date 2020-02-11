@@ -4,6 +4,14 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 11 Feb 2020
+```
+- Native Hubspot OAuth2 based integration. 7Targets can be on Hubspot marketplace now. 
+- Simplify Introduce me.
+- Show lead count in today's followup.
+- Visually identify the schedules not owned by self.
+```
+
 ### 29 Jan 2020
 ```
 - Improved UI for Schedule and Nurturing on Desktop.  
