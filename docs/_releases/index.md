@@ -6,6 +6,13 @@ redirect_from: /releases/index.html
 
 ### 12 Feb 2020
 ```
+- Pending filter added in leads list.  
+- Text changed for force send confirmation modal, styling fixed.  
+- Ellipsis for the context in lead cards will show hover on the tooltip.  
+```
+
+### 12 Feb 2020
+```
 - Force Send the Pending Email Validation leads cautiously.  
 - All the places for user to type emails have same look and feel now.  
 ```
