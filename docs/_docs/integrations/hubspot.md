@@ -11,8 +11,8 @@ Leads/Contacts from **Hubspot** CRM can be assigned to 7Targets AI Sales Assista
 One **important** point to note, as soon as the AI Assistant receives a response from the lead and detects it to be a Hot or Responded lead then the assistant assigns the lead back to the original owner.
 
 <a name="Enabling 7Targets from Hubspot Marketplace"/>
-#### [Enabling 7Targets from Hubspot Marketplace](#enabling-7Targets)
-Once enabled 7Targets AI Assistant from Hubspot Marketplace below are the steps to follow before it is ready to be used. 
+#### [Authorize Hubspot for 7Targets ](#enabling-7Targets)
+**Authorize Hubspot** button is available in **7Targets->View Profile-CRM Details** . Once Authorization is complete follow below steps for further configuration before it is ready to be used. 
 
 1. Create your assistant in 7Targets if not already created. Provide the default values for context and other variables at the Assistant level by editing the Assistant.  
 2. Create a user in Hubspot for your Assistant's email id.  
