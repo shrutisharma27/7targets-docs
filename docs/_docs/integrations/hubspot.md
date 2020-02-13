@@ -16,7 +16,11 @@ Once enabled 7Targets AI Assistant from Hubspot Marketplace below are the steps 
 
 1. Create your assistant in 7Targets if not already created. Provide the default values for context and other variables at the Assistant level by editing the Assistant.  
 2. Create a user in Hubspot for your Assistant's email id.  
-3. In 7Targets, under user profile, look at the "CRM Details" tab and click on "Verify Again" to get the acceptable status. 
+3. In 7Targets, under user profile, look at the "CRM Details" tab and click on "Verify Again" to get the acceptable status. Various status and the meanings are below:   
+**ASSISTANT_EXISTS_AS_USER_IN_CRM** : You are all set. Go ahead and assign one contact from Hubspot to the Assistant user in Hubspot. That contact should be seen as lead in 7Targets in few seconds.  
+**ASSISTANT_DOES_NOT_EXISTS_AS_USER_IN_CRM** : Follow step 2 and beyond above.  
+**ASSISTANT_NOT_YET_CREATED** : Follow Step 1 onwards.  
+**ALL_WORKING_WELL** : All set, it is working well for you.  
 4. In Hubspot disable email notifications for the Assistant user.  
 5. You are set, assign a contact/lead in Hubspot to the Assistant user and verify that you see that lead in 7Targets in the "Leads" page. 
 6.  If you intend to pass context to the lead from Hubspot then create a custom field named "context" for Contacts in Hubspot. With this, when you assign the contact/lead to Assistant user and if there is any context provided for this contact/;ead then Assistant will use that else it will use the default context provided at the Assistant level in 7Targets. 
