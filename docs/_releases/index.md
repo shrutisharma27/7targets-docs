@@ -4,6 +4,11 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 19 Feb 2020
+```
+- Tour for Add Lead
+- Bigger font and in same line for Book Meeting and  WhatsApp link
+```
 ### 12 Feb 2020
 ```
 - Pending filter added in leads list.  
