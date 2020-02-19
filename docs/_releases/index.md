@@ -8,6 +8,8 @@ redirect_from: /releases/index.html
 ```
 - Tour for Add Lead
 - Bigger font and in same line for Book Meeting and  WhatsApp link
+- Nurturing statement. PS is bold and all the text is italics. 
+- Introduce Me simplification.
 ```
 ### 12 Feb 2020
 ```
