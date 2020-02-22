@@ -4,6 +4,14 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 22 Feb 2020
+```
+- Native Integration for Pipedrive. Can now be in Pipedrive Marketplace.
+- Edit Assistant - Functional Grouping of attributes for usability
+- In multiple leads upload, show excel errors straight away on excel upload, not on click of add lead.
+- Change the schedules & custom message to  more usable. 
+```
+
 ### 19 Feb 2020
 ```
 - Tour for Add Lead
