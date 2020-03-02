@@ -22,5 +22,6 @@ One **important** point to note, as soon as the AI Assistant receives a response
 **ASSISTANT_NOT_YET_CREATED** : Follow Step 1 onwards.  
 **ALL_WORKING_WELL** : All set, it is working well for you.  
 4. In Hubspot disable email notifications for the Assistant user.  
-5. You are set, assign a contact/lead in Hubspot to the Assistant user and verify that you see that lead in 7Targets in the "Leads" page. 
-6.  If you intend to pass context to the lead from Hubspot then create a custom field named "context" for Contacts in Hubspot. With this, when you assign the contact/lead to Assistant user and if there is any context provided for this contact/;ead then Assistant will use that else it will use the default context provided at the Assistant level in 7Targets. 
+5. Verify in 7Targets that your Assistant has a Default Context. It is available on Edit Assistant page.
+6. You are set, assign a contact/lead in Hubspot to the Assistant user and verify that you see that lead in 7Targets in the "Leads" page. 
+7.  If you intend to pass context to the lead from Hubspot then create a custom field named "context" for Contacts in Hubspot. With this, when you assign the contact/lead to Assistant user and if there is any context provided for this contact/;ead then Assistant will use that else it will use the default context provided at the Assistant level in 7Targets. 
