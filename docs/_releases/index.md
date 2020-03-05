@@ -7,7 +7,9 @@ redirect_from: /releases/index.html
 ### 04 March 2020
 ```
 - Custom Message now has a better UI to write email where you can bullet the points, use color and links (href), etc.
-- Pending Review emails will be automatically checked for deliverability and action taken (deactivate on bounce or send the email on confirmation) automatically
+- Pending Review emails will be automatically checked for deliverability and action taken (deactivate on bounce or send the email on confirmation) automatically.
+- See the default schedule in the list of schedules. 
+- Set the schedule to default while creating or editing it from the schedule page itself.
 ```
 
 ### 22 Feb 2020
