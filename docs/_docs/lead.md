@@ -33,14 +33,14 @@ Any response email from the lead is read by the AI Assistant and try and decide 
 
 <a name="various-lead-states"/>
 ## [Various lead states](#various-lead-states)
-Assistant will categories the leads in various states based on the followups and responses. Various possible state are:  
+Assistant will categorize the leads in various states based on the followups and responses. Various possible state are:  
 **Hot** if the lead has accepted to meet.   
 **Cold** the followup is under progress.  
 **Processed** followup is completed as per the schedule and there was no response from the lead.  
 **Out of office** received an out of office from the lead. Assistant will restart the followup after lead returns back to office.  
 **Deactivated** lead responded back asking to stop sending emails.  
 **Unsubscribed** lead used the unsubscribed link in the email.  
-**Responded** state for the lead conveys that there is some response from the lead and Assistant was not able to categories it to one of the above  
+**Responded** state for the lead conveys that there is some response from the lead and Assistant was not able to categorize it to one of the above  
 
 <a name="lead-timeline-view"/>
 ## [Lead Timeline View](#lead-timeline-view) <a href="https://www.youtube.com/embed/JC2yJnBXzLM?rel=0" target="popup"  onclick="window.open('https://www.youtube.com/embed/JC2yJnBXzLM?rel=0','popup','width=700,height=500'); return false;"><i class='fa fa-youtube-play' style="color:red"></i></a>
