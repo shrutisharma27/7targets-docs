@@ -4,6 +4,28 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 12 March 2020
+```
+- PS: Nurturing line should always be on a new line in the email.   
+- Checkbox for selecting an expanded lead in the lead list.  
+- IntroduceMe popup. Scrolling issue on desktop.
+- Space in the email at the end while login(email id) gives wrong credentials. Spaces in the end are trimmed.  
+- Timeline view horizontal scrolling buttons for usability.  
+- Notes were not getting saved for Deactivate and Unsubscribe actions.  
+- For IE and other browsers show. "This browser is not supported. Please switch to Google Chrome or Mozilla Firefox for best results."  
+- Buttons for timelines view edit message popups to be visible on mobile when user types.  
+- WhatsApp multiple leads. The email does not reflect/change as per the schedule changed. 
+- Carousal while Add lead for WhatsApp. Single lead only for now.
+- Multiple usability fixes.  
+- Tooltip for Clone, to help understand what it does.  
+- For WhatsApp expanded lead in lead list, show the phone number instead of email.  
+- Ability to add CC email in Introduce Me. So that user can copy some other Sales individuals to introduce them.
+- Stability fixes for WhatsApp assistant processing. 
+- Ability to send image on any of the scheduled messages in WhatsApp for UserTypedMessage
+- Notify support if 7Targets is not able to notify engaged lead on WhatsApp.
+- Failures on WhatsApp are specifically notified to support
+```
+
 ### 04 March 2020
 ```
 - Custom Message now has a better UI to write email where you can bullet the points, use color and links (href), etc.
