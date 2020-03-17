@@ -4,6 +4,21 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 17 March 2020
+```
+- Ignore/Trim Space in WhatsApp and email while add and edit lead.
+- Don't allow duplicate leads based on email for same user.
+- Don't show the bounce emails in "Lead Response" on Dashboard. 
+- Show Email id too in the LAR email to user to be able to clearly identify who is the lead.  
+- Process not more than 75 leads per day for WhatsApp Assistant.  
+- On unsubscribe and deactivate action close the modal window. 
+- Bullet option in custom message editor
+- Remove non-unicode in create and edit custom message. So that when user pastes from google doc it does not fail.
+- Ability for user to edit the Assistant's email, specifically login part. So that user can align it to their company standards.  
+- Improve Add Lead button in mobile view so that pagination is accessible.  
+- Fix the issue where schedule is not seen at times in add and edit lead. 
+```
+
 ### 12 March 2020
 ```
 - PS: Nurturing line should always be on a new line in the email.   
