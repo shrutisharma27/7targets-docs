@@ -6,6 +6,14 @@ redirect_from: /releases/index.html
 
 ### 17 March 2020
 ```
+- Link to get to the lead details from the response email sent to the user.
+- Ability to edit multiple leads from the UI.  
+- Ability to filter the State graph in Dashboard on various different context. As well the Context graph on various different status values.
+- Ability to send the received response from lead to configured email ids. So that the response can be sent to more than user for quick action. 
+- Dashboard to show %ages too along with the exact numbers. 
+```
+### 17 March 2020
+```
 - Ignore/Trim Space in WhatsApp and email while add and edit lead. So that Duplicate leads are avoided. 
 - Don't allow duplicate leads based on email for same user.
 - Don't show the bounce emails in "Lead Response" on Dashboard. 
