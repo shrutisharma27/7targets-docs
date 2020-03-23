@@ -4,7 +4,16 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
-### 17 March 2020
+### 23 March 2020
+```
+- Responded lead count in dashboard with proper ordering of counts too.  
+- Ability to mark a lead Responded from the UI.  
+- Pipedrive marketplace ready App for it to be publicly available.  
+- Edit Lead to show message as per schedule.  
+- Multi-lead edit, fix the modal view for usability.  
+```
+
+### 20 March 2020
 ```
 - Link to get to the lead details from the response email sent to the user.
 - Ability to edit multiple leads from the UI.  
