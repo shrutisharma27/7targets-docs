@@ -4,6 +4,14 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 24 March 2020
+```
+- Correction in dashboard graph to query based on update_date to get aligning data with the counts.  
+- Show counts in pie chart tool tip.  
+- Carousal in Multi Add Lead.  
+- Domain correction for Email address verifier.  
+```
+
 ### 23 March 2020
 ```
 - Responded lead count in dashboard with proper ordering of counts too.  
