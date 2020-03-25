@@ -4,6 +4,13 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 25 March 2020
+```
+- Per Assistant per day will not send more than 200 emails to help remain out of SPAM. Emails beyond 200 for that day will be pushed out by 24 hrs.  
+- WhatsApp Assistant, retry after failure because of no internet while trying to use WhatsApp.  
+- View Email button in the Lead at risk email sent to the user. 
+```
+
 ### 24 March 2020
 ```
 - Correction in dashboard graph to query based on update_date to get aligning data with the counts.  
