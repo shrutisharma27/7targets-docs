@@ -4,6 +4,17 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 26 March 2020
+```
+- Show correct images in timeline view as per what is uploaded while adding lead.
+- SendLeadResponseTo available in mobile Assistant Edit too.  
+- Defect: Schedule with custom messages owned by admin to be visible to all users.  
+- Defect: Schedule and Custom Message Soft Delete.   
+- Defect: Messages seen in timeline is not aligning with schedule when used Candid in followup_2 or later.  
+- Defect: Do not show the warning to Subscribe to user if he has active plan and just trying to change the plan
+- Defect : WhatApp Edit lead at times schedule comes empty.  
+```
+
 ### 25 March 2020
 ```
 - One Assistant per day will not send more than 200 emails. Emails beyond 200 for that day will be pushed out by 24 hrs.  
