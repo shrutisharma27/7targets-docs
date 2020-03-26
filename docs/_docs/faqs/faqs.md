@@ -9,8 +9,8 @@ AI Sales Assistant stops emailing as soon as
 - The lead unsubscribes
 - The lead is not interested in our offering
 
-#### In Sales Asssitant Can I add same lead email-id for different context ? 
-Yes you can, unless the lead is unsubscribed.
+#### In Sales Asssitant, can I add same lead email-id for different context ? 
+No you cannot. You will have to edit the lead and restart the follow-up.
 
 #### Can I have my company logo in the assistant signature ?
 Right now we do not have the feature to add logo to the signature. Logos, Square boxes, and ‘sales-ly emails’ get a lower response rate compared to plain, simple, direct, conversational emails. 
