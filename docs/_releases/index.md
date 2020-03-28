@@ -4,6 +4,10 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 28 March 2020
+```
+- Schedule with custom message for WhatsApp Assistant too. Image in custom message is possible. 
+```
 ### 26 March 2020
 ```
 - Show correct images in timeline view as per what is uploaded while adding lead.
