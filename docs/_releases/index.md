@@ -4,6 +4,20 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 31 March 2020
+```
+- Ability to clone custom message.  
+- Default dashboard to Quarter.  
+- Leads NSD is old (less than today) , send the list of those leads to support.
+- Image view ability in Add Lead Multiple (WA) and Image preview ability in single lead (WA) for existing images in custom messages.  
+- Custom Message to be seen properly on timeline view.  
+- Ability to see the image on timeline view for WhatsApp.  
+- Date tool-tip shown in carousal can be just below the numbers to avoid hiding the numbers.  
+- Carousal for multi-add lead for sales and WhatsApp both.   
+- "Restart Followup" button should not come for Unsubscribed lead.
+- Day Summary run for WhatsApp Assistant on support group.  
+```
+
 ### 28 March 2020
 ```
 - Schedule with custom message for WhatsApp Assistant too. Image in custom message is possible. 
