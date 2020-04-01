@@ -3,6 +3,14 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 01 April 2020
+```
+- Defect of excel error when login to email assistant from whatsapp.  
+- Ignore Invalid Email and Invalid WhatsApp Numbers in the % calculation in dashboard.  
+- Show schedule name for the lead in the lead list.  
+- Ability to search the schedule in add/edit lead.  
+- Excel Validation fix for CHAR 160.  
+```
 
 ### 31 March 2020
 ```
