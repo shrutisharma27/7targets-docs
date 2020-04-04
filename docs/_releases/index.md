@@ -3,6 +3,18 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 04 April 2020
+```
+- Fix for multi lead restart from UI.
+- Fix for Whatsapp to pick the right contact incase multiple found while searching in WhatsApp
+```
+### 02 April 2020
+```
+- Fix for multi lead assignment from Hubspot.
+- Hubspot integration is ready to go public.
+```
+
 ### 01 April 2020
 ```
 - Defect of excel error when login to email assistant from whatsapp.  
