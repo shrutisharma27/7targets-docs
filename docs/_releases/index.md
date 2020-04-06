@@ -3,7 +3,14 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-
+### 06 April 2020
+```
+- Show email and phone number in the extended lead
+- Continue Followup action for Hot and Responded leads
+- Daily WhatsApp summary report email subject change
+- Defect fix for Schedule name dropdown icon not working
+- Don't use old user_typed_message when restarted
+```
 ### 04 April 2020
 ```
 - Fix for multi lead restart from UI.
