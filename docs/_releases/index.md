@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 07 April 2020
+```
+- TVL(Total Valid Leads) in Total Lead.
+- Color of custom messages and schedules owned by others.
+- Proper error message for add lead when user's trail is expired. 
+```
 ### 06 April 2020
 ```
 - Show email and phone number in the extended lead
