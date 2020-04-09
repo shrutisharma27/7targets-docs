@@ -23,3 +23,16 @@ Names like Rachel, Ashley work well for US, India. Names like Sonia, Sakshi work
 
 #### How do I decide on the context to be used when adding a lead ? 
 Our customers generally create a list of contexts that are relevant for them and publish those to their internal team. All leads getting added, the team uses one of the contexts you approve, so all emails go correctly. The context once used is remembered and is searchable too in that field while adding the lead.
+
+#### Is there any option to pause the sending of emails?
+Yes, you can deactivate the lead. That will stop sending the emails. To restart, can again assign another (or same) sequence/schedule to the lead to restart followups.  
+
+#### Is unsubscribe the only option to stop sending off further messages?
+Unsubscribe is not the option to stop sending emails. Deactivate is the right option to stop sending emails. Unsubscribe is used only when the end-user clicks unsubscribe or write 'unsubscribe me' (or something like that) in the email. Then Assistant will automatically unsubscribe the lead. If the Assistant fails to read unsubscribe response for whatever reason, you can manually unsubscribe the lead if the lead requested it specifically.  99% of the time, you will never have to unsubscribe manually.  
+
+#### What are the options to send an attachment, videos or photos in the email?
+Two ways to send attachments, you-tube videos or photos. 
+
+1. Use links (URLs) to those files and videos in the email. 
+2. Use your normal email client (like gmail) for sending the first email and cc the Assistant in that email.  
+The Assistant understands that she needs to followup that leads using the 'Email CC' schedule.
