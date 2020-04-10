@@ -3,12 +3,15 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
 ### 10 April 2020
+```
 - Filter and Pagination in Lead List
 - WhatsApp Assistant can be used for CRM Integration (Hubspot and Pipedrive)
 - Phone number as one field in lead and assistant
 - Show correct followup numbers (will effect from now onwards only)
 ```
+
 ### 07 April 2020
 ```
 - TVL(Total Valid Leads) in Total Lead.
