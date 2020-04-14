@@ -4,6 +4,18 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 14 April 2020
+```
+- Warm and Engaged Filter click on dashboard to get right leads in the list. 
+- Custom message from other user should not be editable and image upload should be disabled. 
+- Confirmation on delete schedule and also delete button right most.
+- TVL get in one line. No scroll bars for the widget. Reduce font size of the number if required. 
+- Handle failures for WhatsApp notification because of concurrency. 
+- Dashboard responses shows HTML characters and emojis. Lets fix this. 
+- In the response forwarded email to user add space between quoted text and dividing line.
+- Handle entities failure because of too long text. 
+- Phone number component to be same on mobile as on desktop.
+```
 ### 10 April 2020
 ```
 - Filter and Pagination in Lead List
