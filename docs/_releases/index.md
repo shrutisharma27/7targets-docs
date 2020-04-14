@@ -15,6 +15,7 @@ redirect_from: /releases/index.html
 - In the response forwarded email to user add space between quoted text and dividing line.
 - Handle entities failure because of too long text. 
 - Phone number component to be same on mobile as on desktop.
+- Changed subject for whatsapp token failure notification email. 
 ```
 ### 10 April 2020
 ```
