@@ -4,6 +4,10 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 17 April 2020
+```
+Expanded lead to show various states of lead achieved in different followups (re-followup)
+```
 ### 14 April 2020
 ```
 - Warm and Engaged Filter click on dashboard to get right leads in the list. 
