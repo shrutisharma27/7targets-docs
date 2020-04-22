@@ -4,9 +4,36 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+
+### 22 April 2020
+```
+- Show the to and cc email ids from the leads response.
+- Adding lead from the OOO email is an assistant level property now.
+- Do not show email abuse report in timelines.
+- Validate WhatsApp token 3 hrs before the wake-up time.
+- Link in the quoted text in the email when assistant is copied should be retained.
+- Lead At Risk email would have a Custom button for user to choose days after which user should be reminded. 
+- Cold Lead with NSD earlier that today would be updated to today for WhatsApp assistant, so that no leads are dropped.
+- Schedule name not appearing completely in the expanded lead. Name goes behind the button. 
+- Filter look and feel changes as well filter on the left side of the screen.
+- Click to copy. Let the user knows it is copied.
+- Search box mouse pointer fix on the right side of the box.
+- Same reset filter icon.
+- Fix for WhatsApp custom message is not seen in the schedule. 
+- Dont show warm and engaged icons on progress bar for unsubscribed leads.
+- Fix for Multi edit. The NSD show in the row and post expanding the lead the date is not correct. 
+- Login button when clicked have a loader. 
+- Change youtube icon to the actual youtube icon using font-awesome.
+- Schedule days is hiding behind the arrow. Increase the size to see 2 digit number.
+- Fix for createDate query showing different number in list and dashboard.
+- Readonly Custom message text is too light. Make it a little darker shade.
+- Fix for different fonts in email body while add lead.
+- Fix for Custom message name not appearing completely while selecting in the schedule if the name has no space.
+```
+
 ### 17 April 2020
 ```
-Expanded lead to show various states of lead achieved in different followups (re-followup)
+- Expanded lead to show various states of lead achieved in different followups (re-followup)
 ```
 ### 14 April 2020
 ```
