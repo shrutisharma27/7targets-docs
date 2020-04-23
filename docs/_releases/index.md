@@ -4,7 +4,16 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
-
+### 23 April 2020
+```
+- Fixed scrollbar length for wakeup time picker (WA) per feedback.
+- Changed local filters dashboard drawer styling to match leads list filters.
+- Tooltip showing the daily limit of messages in dashboard today's followups widget for Sales (200) and for WA (75).
+- Mobile view - leads-list - showing no. of leads, duration and criteria.
+- Replaced lead source and schedule creatable select in add/edit lead with smart select common component.
+- Scrollbar width increased globally.
+- Fix for UI load taking more time.
+```
 ### 22 April 2020
 ```
 - Show the to and cc email ids from the leads response.
