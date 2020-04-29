@@ -3,6 +3,22 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 29 April 2020
+```
+- Fix for: Multi edit - NSD shown in the row and post expanding the lead the date is not correct.  
+- Fix for: Schedule table - Message Type column is too small.  
+- Lead List Filters: Last 30 days, Last 1 year options added.  
+- Fix for: Multi lead edit. Next Followup date. Calendar is hidden behind autocomplete suggestions from browser.  
+- Excel validation for column name - user will now get the exact name of the erratic column.  
+- Expanded Lead: Click to copy should be changed to Copied after clicking.  
+- Filter Reset Icon changed.  
+- Deselect action introduced in leads list for partially selected list.  
+- Edit Assistant Signature allows use to add link to text. e.g website url linked to company name.    
+- Custom Message edit/clone ability introduced in Schedules tab too.  
+- Edited lead from CRM. When phone, email, name is changed then update that in 7Targets too.  
+- Assistant signature in introduce me email was coming in one line. Fixed the issue.
+- Fix for Context graph coming as empty many times.
+```
 
 ### 23 April 2020
 ```
