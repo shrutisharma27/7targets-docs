@@ -3,6 +3,18 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 04 May 2020
+```
+- Intelligent Excel Import Beta: If your XL sheet has 1 row for each lead, try uploading your excel sheet as is. AI Assistant will try to read the data, auto format it and will let you know the identified valid leads before adding. You can check those leads and then add them.
+- Now you can find out the leads uploaded from an excel file using the Excel filter in lead list. 
+- Support for LinkedIn, Facebook and Twitter as source of lead.
+- Fix for allowing to search by phone number with spaces in the leads list.
+- Fix for mobile view email is not seen correctly when clicked in the timeline view. Especially for EmailCC source lead.
+- Weekly summary email to show Engaged and Responded instead of Hot and LAR.
+- Fix for Timeline view not showing the read double tick for emails "Sent as User"
+```
+
 ### 29 April 2020
 ```
 - Fix for: Multi edit - NSD shown in the row and post expanding the lead the date is not correct.  
