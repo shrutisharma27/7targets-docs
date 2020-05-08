@@ -3,7 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-
+### 08 May 2020
+```
+- Notification preference for each type of notification. With ability to copy someone else and remove self if required.
+- Ability to take lead out of LAR when received response or while updating the status or adding notes from UI.
+- Weekly summary email. Don't show HOT and Lead at Risk. Show engaged and responded. 
+```
 ### 04 May 2020
 ```
 - Intelligent Excel Import Beta: If your XL sheet has 1 row for each lead, try uploading your excel sheet as is. AI Assistant will try to read the data, auto format it and will let you know the identified valid leads before adding. You can check those leads and then add them.
