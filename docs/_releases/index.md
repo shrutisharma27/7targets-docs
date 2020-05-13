@@ -3,6 +3,19 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 13 May 2020
+```
+- Upload to show the correct uploaded number in the upload history page.
+- Consolidate state an derived state filter in lead list in one accordion. 
+- Default owner for leads from hubspot. So that if the contact/lead was directly assigned to Assistant and no history of previous owner is found then assign the lead to the default owner.
+- Leads added in 7Targets directly but then later on assigned to the assistant from CRM, should be restarted for processing.
+- Show the user email in Notify Me under Notifications. 
+- Fix for weekly summary email not going. 
+- In bulk lead at times when  it is stuck ini Validating, user is blocked for uploading other excel. A cancel options in the UI allows the user to stop and then upload a new file.
+- In excel upload convert the first character of first and last name to capital.
+- Option to see the raw response received. To handle scenarios where the received response could not be processed correctly and user looses some important information. 
+```
 ### 08 May 2020
 ```
 - Notification preference for each type of notification. With ability to copy someone else and remove self if required.
