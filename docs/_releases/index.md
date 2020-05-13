@@ -6,6 +6,7 @@ redirect_from: /releases/index.html
 
 ### 13 May 2020
 ```
+- Hot categorization model improvements. 
 - Upload to show the correct uploaded number in the upload history page.
 - Consolidate state ann derived state filter in lead list in one accordion. 
 - Default owner for leads from HubSpot. So that if the contact/lead was directly assigned to Assistant and no history of previous owner is found in HubSpot, then assign the lead to the default owner.
