@@ -4,6 +4,16 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 15 May 2020
+```
+- Show forwarded response to the user as well as for EmailCC like it appears in gmail. 
+- HTML signature from EmailCC is shown correctly. 
+- fix for showing other email ids if in To field of the response received. 
+- Dashboard to have date, upload file and schedule filter. 
+- HubSpot, or WhatsApp Assistant. If phone number is not available in phone-no field then look in mobile number field. 
+- fix for WhatsApp notification for Warm leads. 
+- fix for WhatsApp Assistant wake up time so that after verification of token the sleep time is till the wake-up time only. So that the messages go around the wake-up time.
+```
 ### 13 May 2020
 ```
 - Hot categorization model improvements. 
