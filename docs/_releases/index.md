@@ -4,6 +4,15 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 18 May 2020
+```
+- Fix for the signature of the assistant is in one line when Assistant is created first time.
+- Order of fields for add and edit lead for WhatsApp Assistant
+- Fix for WhatsApp lead, multiple Edit lead. Next "Next Followup", time is not required.
+- Edit Assistant change "Primary Offering": and Additional Information label to align with Add Lead page.
+- Loading Quarter|Month|Year appropriately on Dashboard.
+- While Add Assistant. Convey that email domain cannot be changed later.
+```
 ### 15 May 2020
 ```
 - Show forwarded response to the user as well as for EmailCC like it appears in gmail. 
