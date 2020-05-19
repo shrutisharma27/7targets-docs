@@ -3,7 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-
+### 19 May 2020
+```
+- Custom messages pagination and search by schedule.
+- Confirmation on Save in update schedule/update custom message unless clone mode is ON, which doesn't need confirmation.
+- Fix for M,Q,Y,C buttons on dashboard were looking vertically misplaced in firefox.
+```
 ### 18 May 2020
 ```
 - Fix for the signature of the assistant is in one line when Assistant is created first time.
