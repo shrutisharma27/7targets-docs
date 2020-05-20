@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 20 May 2020
+```
+- Response Stat graph on dashboard.
+- Fix for Responded, Hot, LAR counts on Dashboard.
+```
 ### 19 May 2020
 ```
 - Custom messages pagination and search by schedule.
