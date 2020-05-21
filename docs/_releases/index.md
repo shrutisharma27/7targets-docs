@@ -6,6 +6,11 @@ redirect_from: /releases/index.html
 
 ### 20 May 2020
 ```
+- Separate Messages tab to show only the responded messages. 
+```
+
+### 20 May 2020
+```
 - Response Stat graph on dashboard.
 - Fix for Responded, Hot, LAR counts on Dashboard.
 ```
