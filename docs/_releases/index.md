@@ -4,6 +4,18 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 23 May 2020
+```
+- Lead Connection status field in Hubspot contact. Assistant to update the status in that field. 
+- Anility for the user to provide the context from Hubspot everytime the lead is assigned to the AI Assistant.
+- Assistant to also update the Hubspot contact status. 
+- "Time saved on Leads" counter in dashboard. 
+- Fix for not to show count when only one lead is shown in the lead list. 
+- Confirm the cancellation of validating uploaded file. 
+- USD and INR plan page as per user location. 
+- Fis for placement of add lead button on mobile. 
+```
+
 ### 20 May 2020
 ```
 - Separate Messages tab to show only the responded messages. 
