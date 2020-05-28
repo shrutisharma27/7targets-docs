@@ -1,5 +1,5 @@
 ---
-title: Hubspot
+title: HubSpot
 permalink: /docs/hubspot/
 ---
 
