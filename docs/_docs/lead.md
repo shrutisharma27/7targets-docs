@@ -71,8 +71,8 @@ Upload or give your Assistant an excel file, where each row represents one lead 
 - read the excel for you
 - extract the valid leads(Name, Phone Number and Email) from the file
 - present the output of this extraction process in two files, successfully extracted and extraction failures
-- you can take a look at the invalid file to correct that data and upload it again
-- you can also decide to go ahead with Adding the leads from the valid file
+- you can take a look at the lead extraction failures file to correct that data format and upload it again
+- you can also decide to go ahead with Adding the leads where leads were successfully extracted
 
 To clarify any confusion between upload format validation and lead validation in the process of uploading the excel.
 1. During upload, let's call it **lead extraction successful**. Call it extraction instead of validation because Assistant is actually extracting names and email ids using her AI model.  
