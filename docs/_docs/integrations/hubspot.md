@@ -15,20 +15,20 @@ One **important** point to note, after AI Assistant is done with her job, she wi
 **Authorise** from HubSpot Marketplace **OR** by clicking this link [authorise]( https://solution.7targets.com/hubspot-authorize). Once Authorisation is complete, follow below steps for further configuration. 
 
 **1.** If you have not signed up and created an Assistant in 7Targets yet. Please refer [Signup](/videos/home/#signup) and [Create Assistant](/videos/home/#create-assistant)  
-**2.** Now create a user in HubSpot for your Assistant's email id. You can get the Assistant email id from the Edit Assistant page. Below screen shot has Assistant's email id as tara@7targets.7ts-d.com 
+**2.** Now create a user in HubSpot for your Assistant's email id. You can get the Assistant email id from the Edit Assistant page. Below screen shot has Assistant's email id as tara@7targets.7ts-d.com. Email is sent to the Assistant ab out joining HubSpot. Assistant forwards this email to the user, so that user can click the link and join HubSpot on Assistant's behalf. 
 ![Assistant's email](../../../img/assistant-email.png)
 **3.** Go to **"View Profile"->"CRM Details"** in 7Targets. By clicking he Refresh button lets verify if the Assistant user is created in HubSpot and we are ready to move ahead. Against each Assistant you will see the CRM Integration Status. ![CRM Integration Status](../../../img/crm-integration-status.png)
 
 Meaning of CRM Integration Status:  
 **ASSISTANT_EXISTS_AS_USER_IN_CRM** : You are all set. Go ahead and assign the contact from HubSpot to the Assistant user in HubSpot. That contact should be seen as lead in 7Targets in few seconds. Assistant should also update the note for the contact that she is going to work on it.  
-**ALL_WORKING_WELL** : All set, it is working well for you. You have already assigned some contact in HubSpot to the AII Assistant and she is working on it too.  
+**ALL_WORKING_WELL** : All set, it is working well for you. You have already assigned contact in HubSpot to the Assistant and she is working on it too.  
 **ASSISTANT_DOES_NOT_EXISTS_AS_USER_IN_CRM** : Go back to step 2 above. If still facing issues drop an email to support@7targets.com.  
 **ASSISTANT_NOT_YET_CREATED** : Follow Step 1 onwards.   
 
 **4.** In HubSpot, disable email notifications for the Assistant user from Settings. This is to avoid  unnecessary emails to the Assistant. 
 ![disable email notifications](../../../img/disable-email-notifications.png)
 
-**5.** Verify in 7Targets that your Assistant has a Default Context. It is available on Edit Assistant page. Default context is used by the Assistant to write the email. You can look at the how the context is used while email writing by trying to add a new lead from 7Targets. Other default values can be filled too. 
+**5.** Verify in 7Targets that your Assistant has a Default Context. It is available on Edit Assistant page. Default context is used by the Assistant to write an email. You can check how the context is used by Assistant when writing an email. Just try to add a new lead from 7Targets. Other default values can be filled too. 
 ![Default Context](../../../img/assistant-defaults.png)
 **6.** You are all set, assign a contact/lead in HubSpot to the Assistant user and verify that you see that lead in 7Targets in the "Leads" page. 
 ![Assign to Assistant](../../../img/assign-to-assistant.png)
