@@ -63,3 +63,17 @@ Additional information is intended to provide more context and details to the le
 <a name="engaged-leads"/>
 ## [Engaged Leads](#engaged-leads)  
 Leads who show engagements are identified and presented separately so that the user can take right action to nurture these leads further. User is also notified on email and WhatsApp about the engaged leads so that user can call at that moment, talk to the lead and try to convert.
+
+<a name="smart-upload-multiple-leads"/>
+## [Smart Upload Multiple Leads](#smart-upload-multiple-leads)  
+How Smart Upload Multiple leads works:   
+Upload or give your Assistant an excel file, where each row represents one lead and the first row has column names. Assistant will:  
+- read the excel for you
+- extract the valid leads(Name, Phone Number and Email) from the file
+- present the output of this extraction process in two files, **valid and invalid**
+- you can take a look at the invalid file to correct that data and upload it again
+- you can also decide to go ahead with Adding the leads from the valid file
+
+To clarify any confusion between upload format validation and lead validation in the process of uploading the excel.
+1. During upload, let's call it **lead extraction successful**. Call it extraction instead of validation because Assistant is actually extracting names and email ids using her AI model.  
+2. Post upload, after assigning schedule, Add the leads and Assistant starts processing. In this, as first step of processing, lead email is validated. Lets call that **email valid/invalid**. 
