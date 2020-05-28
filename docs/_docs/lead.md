@@ -66,11 +66,11 @@ Leads who show engagements are identified and presented separately so that the u
 
 <a name="smart-upload-multiple-leads"/>
 ## [Smart Upload Multiple Leads](#smart-upload-multiple-leads)  
-How Smart Upload Multiple leads works:   
+How Smart Upload Multiple Leads works:   
 Upload or give your Assistant an excel file, where each row represents one lead and the first row has column names. Assistant will:  
 - read the excel for you
 - extract the valid leads(Name, Phone Number and Email) from the file
-- present the output of this extraction process in two files, **valid and invalid**
+- present the output of this extraction process in two files, successfully extracted and extraction failures
 - you can take a look at the invalid file to correct that data and upload it again
 - you can also decide to go ahead with Adding the leads from the valid file
 
