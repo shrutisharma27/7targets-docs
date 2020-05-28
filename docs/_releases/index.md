@@ -4,6 +4,18 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 28 May 2020
+```
+- Trail user limit validation.
+- Limit of lead as per the plan. Allow user to add more with UnAssigned status. 
+- Fix for Custom Message to show a failure if upload of image fails. 
+- CRM Details page usability fixes.
+- Send Email as Assistant UII look and feel same as other send email boxes. 
+- HubSpot integration. Set the first user as Default Owner to assign back the lead when previous owner is not found. 
+- Signature identification AI model improvements
+- Handle the CRM integration usecase when user is not yet signed-up on 7Targets and is coming from CRM Marketplace.
+```
+
 ### 23 May 2020
 ```
 - Lead Connection status field in HubSpot contact. Assistant to update the status in that field. 
