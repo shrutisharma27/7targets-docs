@@ -4,6 +4,13 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 30 May 2020
+```
+- Correct monthly and yearly numbers in the Plan.
+- Remove Assistant Type drop down from add Assistant
+- Fix for the Plans to comes in the order of READY, STEADY, GO, RUN
+```
+
 ### 28 May 2020
 ```
 - Trail user limit validation.
