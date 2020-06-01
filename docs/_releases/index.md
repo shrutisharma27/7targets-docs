@@ -4,6 +4,13 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 01 June 2020
+```
+- In WA have an action "Mark as Responded"
+- WhatsApp Notification for Warm Leads. Show phone number.
+- Easy access for upload history in leads list page.
+```
+
 ### 30 May 2020
 ```
 - Correct monthly and yearly numbers in the Plan.
