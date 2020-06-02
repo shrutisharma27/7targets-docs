@@ -41,9 +41,13 @@ Assistant intends to send the email at such a time, that it has a better chance 
 
 <a name="assistant-add-lead-via-email"/>  
 #### [Add Lead via Email](#assistant-add-lead-via-email)
-If Sales Assistant is copied by the user in his/her communication with the lead then Assistant interprets this action as user wanting the Assistant to continue the followup and nurturing with the lead. Some important points to note in this mode of assigning lead to assistant:
-- Add Assistant in the email (to or cc) with her name. e.g. ```Ashley <ashley@7targets.7ts-e.com>``` . The name is seen by the lead in the email, so it is best practice to put name along with the email id instead of just email id.
-- Put the lead's email id with the name too, like above. So that Assistant can interpret the lead's name from it. Else Assistant will use the part of the email before @ to address the lead.
+If Sales Assistant is copied by the user in his/her communication with the lead then Assistant interprets this action as user wanting the Assistant to continue the followup and nurturing with the lead. 
+
+**Two important Best Practice points:**  
+- Add Assistant in the email (to or cc) with her name. e.g. **```Ashley <ashley@7targets.7ts-e.com>```** . The name is seen by the lead in the email, so it is best practice to ```put name along with the email id instead of just email id like above example```.
+- ```Put the lead's email id with the name too, like above```. So that Assistant can interpret the lead's name from it. Else Assistant will use the part of the email before @ to address the lead.
+
+**Some important points to note in this mode of assigning lead to assistant:**
 - User will get an email with a time window to act/stop if he/she does not want assistant to send any email to the lead. In that case, user would have to Deactivate the lead.
 - Assistant will use **Recommended for Email CC** schedule for leads from emails.
 - This method of assigning/adding lead is available only for Sales Assistant.
