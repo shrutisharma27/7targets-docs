@@ -4,6 +4,11 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 03 June 2020
+```
+- Carousal while Edit lead. 
+```
+
 ### 01 June 2020
 ```
 - In WA have an action "Mark as Responded"
