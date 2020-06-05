@@ -4,6 +4,14 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 05 June 2020
+```
+- New user to always have a way to Onboard. 
+- Allow to edit Subject for upload excel. Have to change the subject before Upload button is clicked. 
+- Font size in Custom message.
+- Fix for center align of email body/text in Custom message.
+```
+
 ### 03 June 2020
 ```
 - Carousal while Edit lead. 
