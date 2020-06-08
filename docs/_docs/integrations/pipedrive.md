@@ -11,7 +11,7 @@ For onboarding your AI Assistant on Pipedrive please reach out to support@7targe
 
 <a name="Enabling 7Targets from Pipedrive Marketplace"/>
 #### [Authorize Pipedrive for 7Targets ](#enabling-7Targets)
-**Authorize Pipedrive** button is available in **7Targets->View Profile-CRM Details** . Once Authorization is complete follow below steps for further configuration before it is ready to be used. 
+**Authorize Pipedrive** button is available in **7Targets->Settings-CRM Details** . Once Authorization is complete follow below steps for further configuration before it is ready to be used. 
 
 1. Create your assistant in 7Targets if not already created. Provide the default values for context and other variables at the Assistant level by editing the Assistant.  
 2. Create a user in Pipedrive for your Assistant's email id.  
