@@ -32,7 +32,7 @@ Meaning of CRM Integration Status:
 ![Default Context](../../../img/assistant-defaults.png)
 **6.** You are all set, assign a contact/lead in HubSpot to the Assistant user and verify that you see that lead in 7Targets in the "Leads" page. 
 ![Assign to Assistant](../../../img/assign-to-assistant.png)
-**7.**  If you intend to pass context to the lead from HubSpot then use the custom field named "Context" for Contacts in HubSpot. With this, when you assign the contact/lead to Assistant user and if there is any context provided for this contact/lead then Assistant will use that else it will use the default context at the Assistant level in 7Targets. Note that Assistant will also update a custom Lead Connection Status field.
+**7.**  If you intend to pass context to the lead from HubSpot then use the custom field named "Context" for Contacts in HubSpot. With this, when you assign the contact/lead to Assistant user and if there is any context provided for this contact/lead then Assistant will use that else it will use the default context at the Assistant level in 7Targets. Note that Assistant will update back a custom field named "Lead Connection Status" in HubSpot.
 ![Context from HubSpot](../../../img/context-in-hubspot.png)
 
-**You can always reach out to support@7targets.com for any help required in setup**
+**Feel free to reach out to support@7targets.com for any help required in setup**
