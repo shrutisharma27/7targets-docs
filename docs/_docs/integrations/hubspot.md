@@ -12,10 +12,11 @@ One **important** point to note, after AI Assistant is done with her job, she wi
 
 <a name="Enabling 7Targets from HubSpot Marketplace"/>
 #### [Setup Details for HubSpot and 7Targets ](#enabling-7Targets)
-If not already authorized yet then **Authorise** from HubSpot Marketplace **OR** by clicking this link [authorise]( https://solution.7targets.com/hubspot-authorize). Once Authorisation is complete, follow below steps for further configuration. 
+If not already authorized yet then **Authorise** from HubSpot Marketplace **OR** by clicking this link [authorise]( https://solution.7targets.com/hubspot-authorize). If you are already connected to Hubspot via some other Assistant in 7Targets then you are already authorised. You can still check it from **"Settings"->"CRM Details"**. Meaning of the status on the **CRM Details** page is explained below in the page. 
+Once Authorisation is complete, follow below steps for further configuration. 
 
-**1.** If *not* yet signed up or invited and created an Assistant in 7Targets. Please refer [Signup](/videos/home/#signup) and [Create Assistant](/videos/home/#create-assistant)  
-**2.** Create a user in HubSpot for your Assistant's email id. You can get the Assistant email id from the Edit Assistant page. Below screen shot has Assistant's email id as tara@7targets.7ts-d.com. Email is sent to the Assistant ab out joining HubSpot. Assistant forwards this email to the user, so that user can click the link and join HubSpot on Assistant's behalf. 
+**1.** If *not* yet signed up or invited and created an Assistant in 7Targets. Please refer [Signup](/videos/home/#signup) and [Create Assistant](/videos/home/#create-assistant) . If user already created or invited then skip this step. Complete the onboarding of the user though. 
+**2.** Create a user in HubSpot for your Assistant's email id. You can get the Assistant email id from the Edit Assistant page. Below screen shot has Assistant's email id as tara@7targets.7ts-d.com. Email is sent to the Assistant about joining HubSpot. Assistant forwards this email to the user, so that user can click the link and join HubSpot on Assistant's behalf. 
 ![Assistant's email](../../../img/assistant-email.png)
 **3.** Go to **"Settings"->"CRM Details"** in 7Targets. By clicking he Refresh button lets verify if the Assistant user is created in HubSpot and we are ready to move ahead. Against each Assistant you will see the CRM Integration Status. ![CRM Integration Status](../../../img/crm-integration-status.png)
 
