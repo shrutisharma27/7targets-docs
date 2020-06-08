@@ -4,6 +4,14 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 07 June 2020
+```
+- Organisation support. Org Admin would be able to invite more users, convert some to Org Admin, delete users as required.
+- Org Admin would be able see the Leads, Messages, Assistants of other users in the Org,
+- Org Admin would be able to see a consolidated dashboard for all the Assistants in the org OR can select one or more Assistants to see the dashboard for.
+- Org admin would be the one to pick the plan to signup for.
+```
+
 ### 05 June 2020
 ```
 - New user to always have a way to Onboard. 
