@@ -4,6 +4,13 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 08 June 2020
+```
+- Show Assistants for activate users only. 
+- Performance fix for the dashboard. 
+- Fix for the upload multiple leads to have refresh button instead of polling. To avoid cloudflare identifying it as attack and blocking it.
+```
+
 ### 07 June 2020
 ```
 - Organisation support. Org Admin would be able to invite more users, convert some to Org Admin, delete users as required.
