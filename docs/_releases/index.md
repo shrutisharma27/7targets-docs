@@ -7,6 +7,7 @@ redirect_from: /releases/index.html
 ### 12 June 2020
 ```
 - Allow Org Admin to add and Edit leads for other assistant.
+- Org Admin would be able to see the lead list for multiple assistants at the same time. 
 - Show the Assistant being edited to the Org Admin.
 - Do not verify for emails already verified in last 9 months.
 ```
