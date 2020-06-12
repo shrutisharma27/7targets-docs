@@ -4,6 +4,21 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 12 June 2020
+```
+- Allow Org Admin to add and Edit leads for other assistant.
+- Show the Assistant being edited to the Org Admin.
+- Do not verify for emails already verified in last 9 months.
+```
+### 11 June 2020
+```
+- Make Assistant name part of the signature and don't add the name to it again. 
+```
+### 09 June 2020
+```
+- Plan Limit calculation changes and fixes
+```
+
 ### 08 June 2020
 ```
 - Show Assistants of activate users only. 
