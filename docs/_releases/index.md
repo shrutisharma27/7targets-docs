@@ -3,7 +3,17 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-
+### 15 June 2020
+```
+- Confirmation on bulk leads upload should show selected assistant, schedule, context, time of start of the processing.
+- Fix for User could not understand why timeline is empty for "NEW" leads.
+- "Click to copy" for the assistant's email id.
+- When showing the default schedule for Email CC in schedules, don't show first email row in the schedule table.
+- Show a counter in UI top menu of leads used against limit.
+- Default selected tab in add leads (Single/Multiple) should be picked from previous used tab stored in localStorage.
+- Confirmation on add leads (multiple) should show file name and number of valid leads.
+- Drawer instead of modal for edit multiple leads. Schedules made searchable.
+```
 ### 12 June 2020
 ```
 - Allow Org Admin to add and Edit leads for other assistant.
