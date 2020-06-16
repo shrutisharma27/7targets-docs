@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 15 June 2020
+```
+- Fix for action buttons to be always visible even when scrolled on Filter page, IntroduceMe, Send Email as Assistant, Add Lead, etc
+- Infinite scroll for the "Engaged Leads" on dashboard to improve performance. 
+```
 ### 15 June 2020
 ```
 - Confirmation on bulk leads upload should show selected assistant, schedule, context, time of start of the processing.
