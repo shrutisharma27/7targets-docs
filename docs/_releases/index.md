@@ -3,7 +3,15 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-
+### 17 June 2020
+```
+- In filters pane, assistant name should be visible with file names.
+- Assistant name of the assistant who Uploaded the file should be visible in the upload history table as a column. Clicking on added leads, it should take user to leads list with two applied filters: assistant and uploaded file.
+- Fix create custom message, when org admin creates for some other assistant.
+- Fix for the engaged leads in dashboard should show rows as per selected assistant in dashboard.
+- Leads used notification should be shown only when user has consumed more than 75% leads.
+- Include 7Targets in footer of Trail users.
+```
 ### 15 June 2020
 ```
 - Fix for action buttons to be always visible even when scrolled on Filter page, IntroduceMe, Send Email as Assistant, Add Lead, etc
