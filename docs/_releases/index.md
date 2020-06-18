@@ -5,6 +5,13 @@ redirect_from: /releases/index.html
 ---
 ### 17 June 2020
 ```
+- Accept Email Input even when user moves to some other field without entering.
+- Some bug fixes in custom messages.
+- The notification for exhausted leads.
+- Fix for used leads calculation. 
+```
+### 17 June 2020
+```
 - In filters pane, assistant name should be visible with file names.
 - Assistant name of the assistant who Uploaded the file should be visible in the upload history table as a column. Clicking on added leads, it should take user to leads list with two applied filters: assistant and uploaded file.
 - Fix create custom message, when org admin creates for some other assistant.
