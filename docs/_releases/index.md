@@ -3,6 +3,11 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 20 June 2020
+```
+- Lead from EmailCC to be marked at risk when Processed with no response. 
+- Admin UI changes for ease of administration
+```
 ### 17 June 2020
 ```
 - Accept Email Input even when user moves to some other field without entering.
