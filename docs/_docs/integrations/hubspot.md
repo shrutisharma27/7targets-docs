@@ -12,6 +12,7 @@ One **important** point to note, after AI Assistant is done with her job, she wi
 
 <a name="Enabling 7Targets from HubSpot Marketplace"/>
 #### [Setup Details for HubSpot and 7Targets ](#enabling-7Targets)
+**NOTE : HubSpot Admin level access is required to create a new user for Assistant in HubSpot. Org Admin access on 7Targets is required to sync the Assistant User from HubSpot.** 
 If not already authorized yet then **Authorise** from HubSpot [Marketplace]( https://app.hubspot.com/ecosystem/6714307/marketplace/apps/sales/crm/7targets-ai-sales-assistant-208066 ) **OR** by clicking this link [authorise]( https://solution.7targets.com/hubspot-authorize). If you are already connected to Hubspot via some other Assistant in 7Targets then you are already authorised. You can still check it from **"Settings"->"CRM Details"**. Meaning of the status on the **CRM Details** page is explained below in the page. 
 Once Authorisation is complete, follow below steps for further configuration. 
 
