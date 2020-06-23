@@ -3,7 +3,7 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-### 2 June 2020
+### 22 June 2020
 ```
 - CC field in multiple add leads. Required by a customer. 
 - While add lead if the lead exists then user is shown a URL to go to that lead.
