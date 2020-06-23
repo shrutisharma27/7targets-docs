@@ -3,6 +3,19 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 2 June 2020
+```
+- CC field in multiple add leads. Required by a customer. 
+- While add lead if the lead exists then user is shown a URL to go to that lead.
+- Fix for showing only those files in the filter which have been added leads from. 
+- On select of upload file from filter automatically select the assistant too.
+- Fix visibility of Schedule drop down while Add Lead
+- Fix for bulk lead email coming from a different Assistant than assigned. 
+- Allow to invite an existing user to the Org. 
+- Allow only .xlsx and .xls files to be uploaded.
+- When boss replies to the IntroduceMe email and Assistant is in the Copy, LAR should be removed.
+- If EmailCC fails to add leads then it should let the boss know via email with the exact reason too.
+```
 ### 20 June 2020
 ```
 - Lead from EmailCC to be marked at risk when Processed with no response. 
