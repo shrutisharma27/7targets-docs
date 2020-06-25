@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 25 June 2020
+```
+- Maintain Email trail for the followup email, Introduce Me emails and email sent as Assistant.
+- Fix for failure when the email body is too long.
+```
 ### 22 June 2020
 ```
 - CC field in multiple add leads. Required by a customer. 
