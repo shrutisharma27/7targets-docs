@@ -4,6 +4,12 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 26 June 2020
+```
+- Reply button for a Hot and Responded Lead for ease of use.
+- Popup input modal like Introduce Me, Send Email as Assistant, Emails from Timeline view, Custom Messages in Drawer for better usability. 
+- Ability to notify Received Responses on WhatsApp. 
+```
 ### 25 June 2020
 ```
 - Maintain Email trail for the followup email, Introduce Me emails and email sent as Assistant.
