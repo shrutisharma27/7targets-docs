@@ -6,6 +6,12 @@ redirect_from: /releases/index.html
 
 ### 26 June 2020
 ```
+- Styling changes in Timeline, Send Email as VA and Introduce Me in the drawer.
+- Edit NSD from leads expanded view.
+- Messages modal in Messages tab also converted to Drawer.
+```
+### 26 June 2020
+```
 - Reply button for a Hot and Responded Lead for ease of use.
 - Popup input modal like Introduce Me, Send Email as Assistant, Emails from Timeline view, Custom Messages in Drawer for better usability. 
 - Ability to notify Received Responses on WhatsApp. 
