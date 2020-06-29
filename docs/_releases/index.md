@@ -9,6 +9,7 @@ redirect_from: /releases/index.html
 - Styling changes in Timeline, Send Email as VA and Introduce Me in the drawer.
 - Edit NSD from leads expanded view.
 - Messages modal in Messages tab also converted to Drawer.
+- If 3 emails sent are not even opened then move NSD to +12 hrs to change the timezone.
 ```
 ### 26 June 2020
 ```
