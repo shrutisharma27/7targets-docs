@@ -4,7 +4,7 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
-### 26 June 2020
+### 30 June 2020
 ```
 Testing for :
 - fix for space between signature and below texts.
