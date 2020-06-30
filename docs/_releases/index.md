@@ -6,6 +6,25 @@ redirect_from: /releases/index.html
 
 ### 26 June 2020
 ```
+Testing for :
+- fix for space between signature and below texts.
+- fix for space between body and signature when custom message size if big.
+- multi-lead to use the details while add lead button click too. Which gives ability to change the values(context, source, etc) from what was used at upload time. 
+- UPLOADED status in multi-lead should have a cancel option. To avoid getting blocked when the validating fails.
+- unsubscribe to be opaque.
+- VA Signature has the ability to change font.
+- Custom message. `Hello firstname` to be of same font as the body.
+- No empty lines between Signature and BookMeeting.
+- One empty line above PS: 
+- Allow empty signature for the assistant.
+- Usability fixes to let user know that EmailCC Default schedule is different and the first message is the one user already sent where assistant is copied.
+- Default source while add lead should be Meeting.
+- fix for restart/edit not sending Followup_1 if it was already sent from earlier run.
+- fix for AI sense to not look ini email body sent by assistant (self).
+```
+
+### 26 June 2020
+```
 - Styling changes in Timeline, Send Email as VA and Introduce Me in the drawer.
 - Edit NSD from leads expanded view.
 - Messages modal in Messages tab also converted to Drawer.
