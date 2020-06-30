@@ -23,7 +23,7 @@ Testing for :
 - fix for AI sense to not look ini email body sent by assistant (self).
 ```
 
-### 26 June 2020
+### 27 June 2020
 ```
 - Styling changes in Timeline, Send Email as VA and Introduce Me in the drawer.
 - Edit NSD from leads expanded view.
