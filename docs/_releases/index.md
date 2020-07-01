@@ -4,6 +4,14 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 01 July 2020
+```
+- Ability to edit organisation name, as it is used by the Assistant to write emails.
+- Click of schedule in expanded lead will take user to schedules tab with corresponding schedule displayed (no need to select from dropdown).
+- Fix for: Default schedules dropdown in Edit Assistant are grey in color, looks as if disabled.
+- Fix for: User not able to see complete "To" field in timeline email drawer. Ability to copy For, To and Cc email values on click.
+- Auto-populate the Cc email addresses in Introduce Me and Send Email as VA emails, which user can accordingly edit before sending.
+```
 ### 30 June 2020
 ```
 Testing for :
@@ -11,14 +19,14 @@ Testing for :
 - fix for space between body and signature when custom message size if big.
 - multi-lead to use the details while add lead button click too. Which gives ability to change the values(context, source, etc) from what was used at upload time. 
 - UPLOADED status in multi-lead should have a cancel option. To avoid getting blocked when the validating fails.
-- unsubscribe to be opaque.
+- unsubscribe to be transparent.
 - VA Signature has the ability to change font.
 - Custom message. `Hello firstname` to be of same font as the body.
 - No empty lines between Signature and BookMeeting.
 - One empty line above PS: 
 - Allow empty signature for the assistant.
 - Usability fixes to let user know that EmailCC Default schedule is different and the first message is the one user already sent where assistant is copied.
-- Default source while add lead should be Meeting.
+- Default source while add lead should be Website.
 - fix for restart/edit not sending Followup_1 if it was already sent from earlier run.
 - fix for AI sense to not look ini email body sent by assistant (self).
 ```
