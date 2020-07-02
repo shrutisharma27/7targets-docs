@@ -3,7 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-
+### 02 July 2020
+```
+- Retain STO while multi lead edit. 
+- Big for email input component accepts format like "Name" (Text) <email>.
+- Ability to show/hide deactivated leads in the org users tab.
+```
 ### 01 July 2020
 ```
 - Ability to edit organisation name, as it is used by the Assistant to write emails.
