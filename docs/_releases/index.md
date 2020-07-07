@@ -3,11 +3,23 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 07 July 2020
+```
+- Fix for wrong message "Trial Expired" even when the expiry date is in future.
+- Fix for not showing Deactivated response messages in the Responses List in Dashboard.
+- Toggle to see the OOO Responses in the Dashboard.
+- User can have different subject for the Custom Message by providing the subject at Custom Message level itself. 
+- Fix for making sure that duplicate leads are not created from CRM.
+- Fix to avoid failures while processing lead when the first email is too big in size.
+- Fix to avoid the looping of lead assignment between CRM and 7Targets when 7Targets assign the lead back to the assistant.
+- Copy assistant email as Taniya<taniya@7targets.7ts-e.com> instead of just taniya@7targets.7ts-e.com
+- User not able to see complete email in "To". Assistant should auto-populate CC fields in introduce me, send message.
+```
 ### 02 July 2020
 ```
 - Retain STO while multi lead edit. 
 - Big for email input component accepts format like "Name" (Text) <email>.
-- Ability to show/hide deactivated leads in the org users tab.
+- Ability to show/hide deactivated users in the org users tab.
 ```
 ### 01 July 2020
 ```
