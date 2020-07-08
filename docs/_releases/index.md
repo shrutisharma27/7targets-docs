@@ -5,6 +5,15 @@ redirect_from: /releases/index.html
 ---
 ### 07 July 2020
 ```
+- Response Stats Tooltip and Title.
+- Update and Restart are two different actions. For user to Restart Cold lead from Followup_1 if required. 
+- Nurturing row has the capability of making a soft link for certain text in the sentence.
+- Different From and To Date picker for Usability reason
+- Show NSD in the forwarded email for OOO Responses.
+- If Assistant is emailed but this is not enabled then let user know about it with a reply. 
+```
+### 07 July 2020
+```
 - Fix for wrong message "Trial Expired" even when the expiry date is in future.
 - Fix for not showing Deactivated response messages in the Responses List in Dashboard.
 - Toggle to see the OOO Responses in the Dashboard.
