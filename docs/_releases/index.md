@@ -10,7 +10,7 @@ redirect_from: /releases/index.html
 - Nurturing row has the capability of making a soft link for certain text in the sentence.
 - Different From and To Date picker for Usability reason
 - Show NSD in the forwarded email for OOO Responses.
-- If Assistant is emailed but this is not enabled then let user know about it with a reply. 
+- If Assistant is emailed but this method of adding lead is not enabled, then let user know about it with a reply. 
 ```
 ### 07 July 2020
 ```
