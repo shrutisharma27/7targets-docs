@@ -3,7 +3,7 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-### 07 July 2020
+### 08 July 2020
 ```
 - Response Stats Tooltip and Title.
 - Update and Restart are two different actions. For user to Restart Cold lead from Followup_1 if required. 
