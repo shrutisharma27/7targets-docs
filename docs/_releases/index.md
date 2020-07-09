@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 09 July 2020
+```
+- AI Sensed Data in Mobile view, ability to dial phone number by clicking
+- Ability to create custom messages from the schedules tab itself.
+- Fix for: Add Lead button hides pagination block on mobile.
+```
 ### 08 July 2020
 ```
 - Response Stats Tooltip and Title.
