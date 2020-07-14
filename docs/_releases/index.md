@@ -3,6 +3,19 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 14 July 2020
+```
+- Add first lead context as default context
+- UserStage and ThirdPartyLead Integration
+- Do not include OOO response in email Trail
+- Remove Phone Number field while create assistant for simplification.
+- When I click on refresh for add multiple lead, nothing happens. Have a popup saying "Validation in progress. It takes a minute of two". 
+- Remove refresh icon after validated.
+- From UI give a proper message that only .xlsx is allowed.
+- User should be able to use cancel the multi-lead for anything except when adding.
+- Fix for: email not trimmed while adding lead (Mobile)
+- Ability in Admin UI to activate a plan.
+```
 ### 09 July 2020
 ```
 - AI Sensed Data in Mobile view, ability to dial phone number by clicking
