@@ -3,6 +3,11 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 16 July 2020
+```
+- Messages in the UI to encourage the user to complete the first few important tasks (Add Assistant, Add Lead, Add Nurturing table)
+- Fix for having "null" string in Assistant Signature when new Assistant is created.
+```
 ### 14 July 2020
 ```
 - Add first lead context as default context
