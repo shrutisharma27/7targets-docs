@@ -64,9 +64,9 @@ Additional information is intended to provide more context and details to the le
 ## [Engaged Leads](#engaged-leads)  
 Leads who show engagements are identified and presented separately so that the user can take right action to nurture these leads further. User is also notified on email and WhatsApp about the engaged leads so that user can call at that moment, talk to the lead and try to convert.
 
-<a name="smart-upload-multiple-leads"/>
-## [Smart Upload Multiple Leads](#smart-upload-multiple-leads)  
-How Smart Upload Multiple Leads works:   
+<a name="intelli-upload-multiple-leads"/>
+## [Intelli Upload Multiple Leads](#smart-upload-multiple-leads)  
+How Intelli Upload Multiple Leads works:   
 Upload or give your Assistant an excel file, where each row represents one lead and the first row has column names. Assistant will:  
 - read the excel for you
 - extract the valid leads(Name, Phone Number and Email) from the file
