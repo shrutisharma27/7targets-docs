@@ -3,6 +3,13 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 22 July 2020
+```
+- Zoho native Integration.
+- Defect fix for Email on received by assistant email from an email id which is not a user on 7Targets then that email should not be sent the error email.
+- Org admin should be able to copy any assistant from the Org.
+- Trigger/Stage based nurturing for new signed-up users on 7Targets.
+```
 ### 16 July 2020
 ```
 - Messages in the UI to encourage the user to complete the first few important tasks (Add Assistant, Add Lead, Add Nurturing table)
