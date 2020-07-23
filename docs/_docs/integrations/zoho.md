@@ -20,7 +20,7 @@ Once Authorisation is complete, follow below steps for further configuration.
 **1.** If *not* yet signed up or invited and created an Assistant in 7Targets. Please refer [Signup](/videos/home/#signup) and [Create Assistant](/videos/home/#create-assistant) . If user already created or invited then skip this step. Complete the onboarding of the user though.  
 **2.** Create a user in Zoho for your Assistant's email id. You can get the Assistant email id from the Edit Assistant page. Below screen shot has Assistant's email id as tara@7targets.7ts-d.com. Email is sent to the Assistant about joining Zoho. Assistant forwards this email to the user, so that user can click the link and join Zoho on Assistant's behalf. 
 ![Assistant's email](../../../img/assistant-email.png)
-**3.** Go to **"Settings"->"CRM Details"** in 7Targets. By clicking he Refresh button lets verify if the Assistant user is created in Zoho and we are ready to move ahead. Against each Assistant you will see the CRM Integration Status. ![CRM Integration Status](../../../img/crm-integration-status.png)
+**3.** Go to **"Settings"->"CRM Details"** in 7Targets. By clicking the Refresh button lets verify if the Assistant user is created in Zoho and we are ready to move ahead. Against each Assistant you will see the CRM Integration Status. ![CRM Integration Status](../../../img/crm-integration-status.png)
 
 Meaning of CRM Integration Status:  
 **ASSISTANT_EXISTS_AS_USER_IN_CRM** : You are all set. Go ahead and assign the contact from Zoho to the Assistant user in Zoho. That contact should be seen as lead in 7Targets in few seconds. Assistant should also update the note for the contact that she is going to work on it.  
