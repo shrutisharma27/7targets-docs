@@ -5,7 +5,7 @@ redirect_from: /releases/index.html
 ---
 ### 24 July 2020
 ```
-- Fix for activation nurturing email going along wth activation emnail
+- Fix for activation nurturing email going along wth activation email
 - Frontend Zoho Docs Links pointing to right URLS
 - Highlight of context, name, additional info while adding lead
 ```
