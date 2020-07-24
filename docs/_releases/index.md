@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 24 July 2020
+```
+- Fix for activation nurturing email going along wth activation emnail
+- Frontend Zoho Docs Links pointing to right URLS
+- Highlight of context, name, additional info while adding lead
+```
 ### 22 July 2020
 ```
 - Zoho native Integration.
