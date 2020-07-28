@@ -3,6 +3,14 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 28 July 2020
+```
+- Warm leads are shown as Warm in the lead list.
+- Ability for user to provide Organization, Title and Industry while uploading the leads in excel.
+- Custom message allows to Personalize the message using above attributes.
+- Fix for showing the right assistant name for the Org admin when creating custom message for some other assistant.
+- Fix for calculating the leads used correctly to show as well as while validating in Add Lead.
+```
 ### 24 July 2020
 ```
 - Fix for activation nurturing email going along wth activation email
