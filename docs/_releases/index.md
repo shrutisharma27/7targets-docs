@@ -3,6 +3,13 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 29 July 2020
+```
+- Excel validate and add lead on just one button "Add Lead" click. To avoid confusion of two buttons and clicks.
+- Icon just next to the lead email to visit the lead's website extracted from the email domain. 
+- Fix for "Time saved on leads" count
+```
 ### 28 July 2020
 ```
 - Warm leads are shown as Warm in the lead list.
