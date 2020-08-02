@@ -22,7 +22,7 @@ This method creates a Lead for the Assistant to process.
     source: "Website", //Mandatory
     context: "AI Sales Assistant", //Assistant will write message using this
     email: "john.doe@gmail.com", //Mandatory if type is SALES
-    phone: "+91942584723894", //Mandatory if type is WHATSAPP
+    phone: "+919123456789", //Mandatory if type is WHATSAPP
     scheduleId : <valid schedule Id>, //Optional. If not provided then use default
     assistantId : <your assistant Id> //Mandatory
 }```
@@ -38,7 +38,7 @@ This method creates a Lead for the Assistant to process.
     lastName: "Doe", 
     type: "SALES", 
     email: "john.doe@gmail.com", 
-    phone: "+91942584723894", 
+    phone: "+919123456789", 
     scheduleId : <valid schedule Id>,
     assistantId : <your assistant Id>,
     nextScheduleTime : <date and time the message will be send>,
