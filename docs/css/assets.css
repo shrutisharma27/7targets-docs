@@ -605,7 +605,7 @@ code {
 }
 
 #content article a h2 code {
-  color: #657e8b;
+  color: #333;
 }
 
 #content article a h2 code b {
@@ -615,7 +615,7 @@ code {
 
 /* GET */
 #content article.GET a h2 code {
-  color: #119bdf;
+  color: #333;
 }
 
 #content article.GET a h2 code b {
@@ -624,7 +624,7 @@ code {
 
 /* POST */
 #content article.POST a h2 code {
-  color: #28d497;
+  color: #333;
 }
 
 #content article.POST a h2 code b {
@@ -633,7 +633,7 @@ code {
 
 /* PUT */
 #content article.PUT a h2 code {
-  color: #e08f10;
+  color: #333;
 }
 
 #content article.PUT a h2 code b {
@@ -642,7 +642,7 @@ code {
 
 /* DELETE */
 #content article.DELETE a h2 code {
-  color: #e02a10;
+  color: #333;
 }
 
 #content article.DELETE a h2 code b {
