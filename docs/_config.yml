@@ -75,6 +75,15 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope:
+    path: _apis
+    type: apis
+  values:
+    layout: apis
+    sectionid: apis
+    seo:
+      type: "WebPage"
+
 collections:
   docs:
     permalink: /:collection/:path/
@@ -85,6 +94,9 @@ collections:
   releases:
     permalink: /:collection/:path/
     output: true    
+  apis:
+    permalink: /apis/:year/:month/:day/:title/
+    output: true 
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
