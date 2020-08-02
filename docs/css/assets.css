@@ -624,11 +624,11 @@ code {
 
 /* POST */
 #content article.POST a h2 code {
-  color: #52ce0e;
+  color: #28d497;
 }
 
 #content article.POST a h2 code b {
-  background: #52ce0e;
+  background: #28d497;
 }
 
 /* PUT */
