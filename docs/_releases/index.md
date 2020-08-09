@@ -3,7 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
-
+### 09 Aug 2020
+```
+- Social signup with Google account
+- After signup user directly taken to onboard (create assistant)
+- Fix for having space in assistant name
+```
 ### 29 July 2020
 ```
 - Excel validate and add lead on just one button "Add Lead" click. To avoid confusion of two buttons and clicks.
