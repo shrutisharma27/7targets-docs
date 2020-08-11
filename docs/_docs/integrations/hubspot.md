@@ -10,8 +10,8 @@ Leads/Contacts from **HubSpot** CRM can be assigned to 7Targets AI Sales Assista
 
 One **important** point to note, after AI Assistant is done with her job, she will assign the lead back to the original owner. 
 
-<a name="Enabling 7Targets from HubSpot Marketplace"/>
-#### [Setup Details for HubSpot and 7Targets ](#enabling-7Targets)
+<a name="enabling-7Targets"/>
+#### [Setup Details for HubSpot and 7Targets](#enabling-7Targets)
 **NOTE : HubSpot Admin level access is required to create a new user for Assistant in HubSpot. Org Admin access on 7Targets is required to sync the Assistant User from HubSpot.** 
 If not already authorized yet then **Authorise** from HubSpot [Marketplace]( https://app.hubspot.com/ecosystem/6714307/marketplace/apps/sales/crm/7targets-ai-sales-assistant-208066 ) **OR** by clicking this link [authorise]( https://solution.7targets.com/hubspot-authorize). If you are already connected to Hubspot via some other Assistant in 7Targets then you are already authorised. You can still check it from **"Settings"->"CRM Details"**. Meaning of the status on the **CRM Details** page is explained below in the page. 
 Once Authorisation is complete, follow below steps for further configuration. 
@@ -38,3 +38,39 @@ Meaning of CRM Integration Status:
 ![Context from HubSpot](../../../img/context-in-hubspot.png)
 
 **Feel free to reach out to support@7targets.com for any help required in setup**
+
+<a name="hubspot-7Targets-details"/>
+#### [Details of Hubspot and 7Targets Integration](#hubspot-7Targets-details)
+
+**How it works?**
+- After the contact in Hubspot is assigned to the Assistant user in Hubspot, Assistant will own it for nurturing. Assistant will use the default Schedule and Context as configured in 7Targets. 
+- Assistant will leave a note of confirmation like below image for the assigned contact.
+![Confirmation Note from Assistant](../../../img/hubspot-7targets-confirmation-note.png)
+- All the emails that Assistant sends or receives are logged in Hubspot too. Like in below image. 
+![Logged Email by Assistant](../../../img/hubspot-7targets-email.png)
+
+**Can I provide the context from Hubspot while assigning the contact to the asssitant?**  
+Yes. 7Targets adds a `Context` field to the Contacts and you can provide the value for it from Hubspot. If a value is provided then Assistant uses that instead of the default Context.  
+**Can I see the 7Targets Lead status in Hubspot?**  
+Yes. 7Targets adds a field `Lead Connection Status` to the Contacts and Assistant will keep it updated as the lead turn from Cold to Warm to Hot. You can add this field to your view or filter on it as required.  
+
+<a name="7targets-lead-state-mapping-with-husbpot"/>
+#### [Lead State to Hubspot Contact State Mapping](#7targets-lead-state-mapping-with-husbpot)
+Below is the default mapping  
+
+| 7Targets Lead State | Hubspot Contact State | 
+|-------|--------|
+| Cold | IN_PROGRESS | 
+| Engaged | IN_PROGRESS | 
+| Warm | IN_PROGRESS | 
+| OutOfOffice | IN_PROGRESS | 
+| Hot | CONNECTED | 
+| Responded | CONNECTED | 
+| UnSubscribed | UNQUALIFIED |
+| DeActivated | UNQUALIFIED | 
+| LeadAtRisk | CONNECTED |
+| Processed | QUALIFIED | 
+| Pending | In_Progress | 
+| New | NEW | 
+
+
