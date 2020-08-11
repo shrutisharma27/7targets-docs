@@ -3,6 +3,13 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 10 Aug 2020
+```
+- fix to avoid duplicate bulk lead upload and no file name. 
+- from UI do not allow file size bigger than 1 MB.
+- fix for admin when updating the token should not empty the closing words.
+- In the notification show that it may take up to 5-10 mins. If it is taking more then reach out to support@7targets.com
+```
 ### 09 Aug 2020
 ```
 - Social signup with Google account
