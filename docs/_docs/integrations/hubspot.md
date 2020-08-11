@@ -2,6 +2,13 @@
 title: HubSpot
 permalink: /docs/hubspot/
 ---
+##### Table of Contents  
+>[What you get with HubSpot Integration](#hubspot)  
+>[Setup Details for HubSpot and 7Targets](#enabling-7Targets)  
+>[Details of Hubspot and 7Targets Integration](#hubspot-7Targets-details)  
+>[Lead State to Hubspot Contact State Mapping](#7targets-lead-state-mapping-with-husbpot)  
+
+---
 
 <a name="hubspot"/>
 #### [What you get with HubSpot Integration](#hubspot)
