@@ -48,29 +48,30 @@ Meaning of CRM Integration Status:
 ![Confirmation Note from Assistant](../../../img/hubspot-7targets-confirmation-note.png)
 - All the emails that Assistant sends or receives are logged in Hubspot too. Like in below image. 
 ![Logged Email by Assistant](../../../img/hubspot-7targets-email.png)
+- After Assistant is done with her work, the contact is assigned back to the previous Contact owner. For example, if there is a response from the lead, then Assistant will stop further emails and assign it back to the previous owner. 
 
-**Can I provide the context from Hubspot while assigning the contact to the asssitant?**  
-Yes. 7Targets adds a `Context` field to the Contacts and you can provide the value for it from Hubspot. If a value is provided then Assistant uses that instead of the default Context.  
+**Can I provide the context from Hubspot while assigning the contact to the assistant?**  
+Yes. 7Targets adds a `Context` field to the Hubspot Contact and you can provide the value for it from Hubspot. If a value is provided then Assistant uses that instead of the default Context.  
 **Can I see the 7Targets Lead status in Hubspot?**  
-Yes. 7Targets adds a field `Lead Connection Status` to the Contacts and Assistant will keep it updated as the lead turn from Cold to Warm to Hot. You can add this field to your view or filter on it as required.  
+Yes. 7Targets adds a field `Lead Connection Status` to the Hubspot Contact and Assistant will keep it updated as the lead turn from Cold to Warm to Hot. You can add this field to your view or filter on it as required.  
 
 <a name="7targets-lead-state-mapping-with-husbpot"/>
 #### [Lead State to Hubspot Contact State Mapping](#7targets-lead-state-mapping-with-husbpot)
-Below is the default mapping  
+Assistant update the Hubspot Contact Status and Lead Connection Status as per the below mapping:
 
-| 7Targets Lead State | Hubspot Contact State | 
+| 7Targets Lead State | Hubspot Contact Status | Lead Connection Status | 
 |-------|--------|
-| Cold | IN_PROGRESS | 
-| Engaged | IN_PROGRESS | 
-| Warm | IN_PROGRESS | 
-| OutOfOffice | IN_PROGRESS | 
-| Hot | CONNECTED | 
-| Responded | CONNECTED | 
-| UnSubscribed | UNQUALIFIED |
-| DeActivated | UNQUALIFIED | 
-| LeadAtRisk | CONNECTED |
-| Processed | QUALIFIED | 
-| Pending | In_Progress | 
-| New | NEW | 
+| Cold | IN_PROGRESS | Cold |
+| Engaged | IN_PROGRESS | Engaged |
+| Warm | IN_PROGRESS | Warm |
+| OutOfOffice | IN_PROGRESS | OutOfOffice |
+| Hot | CONNECTED | Hot |
+| Responded | CONNECTED | Responded |
+| UnSubscribed | UNQUALIFIED | UnSubscribed |
+| DeActivated | UNQUALIFIED | DeActivated |
+| LeadAtRisk | CONNECTED | LeadAtRisk |
+| Processed | QUALIFIED | Processed |
+| Pending | In_Progress | Pending |
+| New | NEW | New |
 
 
