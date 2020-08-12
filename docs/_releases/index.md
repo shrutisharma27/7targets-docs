@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 11 Aug 2020
+```
+- Fix for Remember Me to work now after we moved to a more secure Identity Solution
+- Fix for gap between the emails in the trail
+- Brochure email to be more subtle. 
+```
 ### 10 Aug 2020
 ```
 - fix to avoid duplicate bulk lead upload and no file name. 
