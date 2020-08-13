@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 12 Aug 2020
+```
+- Assistant name can be used as parameter in Custom Message subject and body.
+- Sample xls cache issue, not able to see the latest.
+- Correct spacing in trail emails
+```
 ### 11 Aug 2020
 ```
 - Fix for Remember Me to work now after we moved to a more secure Identity Solution
