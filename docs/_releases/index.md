@@ -3,6 +3,11 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+### 15 Aug 2020
+```
+- Ability to Copy and Verify URLs used in the nurturing table to make sure urls used are working.
+- Ability to add image to the email from custom message, add lead and send email as Assistant. 
+```
 ### 12 Aug 2020
 ```
 - Assistant name can be used as parameter in Custom Message subject and body.
