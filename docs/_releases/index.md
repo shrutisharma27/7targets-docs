@@ -3,6 +3,12 @@ title: Releases
 permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
+
+### 25 Aug 2020
+```
+- Action buttons to now allow multiple clicks. To avoid situations like user clicking send message multiple times accidently.
+- Fix for Remember Me. To avoid session tinmeout in 60 mins.
+```
 ### 15 Aug 2020
 ```
 - Ability to Copy and Verify URLs used in the nurturing table to make sure urls used are working.
