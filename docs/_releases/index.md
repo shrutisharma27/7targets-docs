@@ -4,6 +4,12 @@ permalink: /releases/home/
 redirect_from: /releases/index.html
 ---
 
+### 27 Aug 2020
+```
+- Ability to have multiple assistants for a user.
+- Fix the defect where it was showing the last message for Warm lead as not sent even when the lead was processed in timeline. 
+```
+
 ### 25 Aug 2020
 ```
 - Action buttons to now allow multiple clicks. To avoid situations like user clicking send message multiple times accidently.
