@@ -8,6 +8,10 @@ redirect_from: /releases/index.html
 ```
 - Ability to have multiple assistants for a user.
 - Fix the defect where it was showing the last message for Warm lead as not sent even when the lead was processed in timeline. 
+- Fix for considering the BounceDeactivated in Invalid leads
+- Fix for handling the response asking for brochure and assistant has no URL
+- Invalid string in phone number should not fail the lead addition from CRM or excel or anywhere else. Just ignore the value and add the lead.
+- Fix for EmailCC to handle if the lead responds to the first email
 ```
 
 ### 25 Aug 2020
