@@ -18,7 +18,6 @@ This method authenticate and returns the Auth token to be used in further API ca
 ```{
     username: "<your login email on 7targets>"
     password: "<your password>"
-    rememberMe: <true or false>
 }```
 
 ### Response

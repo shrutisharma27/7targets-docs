@@ -1,6 +1,6 @@
 ---
 category: Lead
-url_path: 'https://ogoqucar5i.execute-api.us-east-1.amazonaws.com/prod/third-party/lead'
+url_path: 'https://api.7targets.com/leads'
 title: 'Create a Lead'
 type: 'POST'
 
