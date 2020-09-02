@@ -3,12 +3,14 @@ date: 2020-02-11
 title: Invite Team
 description: Invite Team members
 type: Document
+sidebar:
+  - {id: organization-users, text: Organization Users}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - manage-org
 ---
 
-<a name="organization-users"/>
-## [Organization Users](#organization-users)
+## Organization Users
 As an org admin you would be able to invite other users from your organization. Go to `Settings->Org Users` to see a list of users in your Organization. 
 
 You would be able invite other users to the org from here. As well resend the invitation email if required. 
