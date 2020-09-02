@@ -3,6 +3,9 @@ date: 2020-01-23
 title: Nurture 
 description: Assistant Nurture Table
 type: Document
+sidebar:
+  - {id: nurture, text: Nurture}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - getting-responses
 ---
