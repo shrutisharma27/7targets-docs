@@ -1,0 +1,16 @@
+- name:
+  link: https://www.facebook.com/7Targets
+  social_icon: Facebook
+  new_window: true
+- name:
+  link: https://twitter.com/7targets_
+  social_icon: Twitter
+  new_window: true
+- name:
+  link: https://www.youtube.com/channel/UCXsyy4xmzUEISJXcUTg3osQ
+  social_icon: YouTube
+  new_window: true
+- name:
+  link: https://in.linkedin.com/company/7targets
+  social_icon: LinkedIn
+  new_window: true

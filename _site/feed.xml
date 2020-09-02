@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-02T11:40:48+00:00</updated><id>http://localhost:4000/</id><title type="html">7Targets Help</title><subtitle>Knowledge Base for 7Targets AI Sales Assistant. Virtual SDR</subtitle><author><name>7Targets Team</name><email>info@7targets.com</email></author><entry><title type="html">Releases</title><link href="http://localhost:4000/other/releases/" rel="alternate" type="text/html" title="Releases" /><published>2020-03-02T00:00:00+00:00</published><updated>2020-03-02T00:00:00+00:00</updated><id>http://localhost:4000/other/releases</id><content type="html" xml:base="http://localhost:4000/other/releases/">&lt;h2 id=&quot;27-aug-2020&quot;&gt;27 Aug 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Ability to have multiple assistants for a user.
+- Fix the defect where it was showing the last message for Warm lead as not sent even when the lead was processed in timeline. 
+- Fix for considering the BounceDeactivated in Invalid leads
+- Fix for handling the response asking for brochure and assistant has no URL
+- Invalid string in phone number should not fail the lead addition from CRM or excel or anywhere else. Just ignore the value and add the lead.
+- Fix for EmailCC to handle if the lead responds to the first email
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;25-aug-2020&quot;&gt;25 Aug 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Action buttons to now allow multiple clicks. To avoid situations like user clicking send message multiple times accidently.
+- Fix for Remember Me. To avoid session timeout in 60 mins.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;15-aug-2020&quot;&gt;15 Aug 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Ability to Copy and Verify URLs used in the nurturing table to make sure urls used are working.
+- Ability to add image to the email from custom message, add lead and send email as Assistant. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;12-aug-2020&quot;&gt;12 Aug 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Assistant name can be used as parameter in Custom Message subject and body.
+- Sample xls cache issue, not able to see the latest.
+- Correct spacing in trail emails
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;11-aug-2020&quot;&gt;11 Aug 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fix for Remember Me to work now after we moved to a more secure Identity Solution
+- Fix for gap between the emails in the trail
+- Brochure email to be more subtle. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;10-aug-2020&quot;&gt;10 Aug 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- fix to avoid duplicate bulk lead upload and no file name. 
+- from UI do not allow file size bigger than 1 MB.
+- fix for admin when updating the token should not empty the closing words.
+- In the notification show that it may take up to 5-10 mins. If it is taking more then reach out to support@7targets.com
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;09-aug-2020&quot;&gt;09 Aug 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Social signup with Google account
+- After signup user directly taken to onboard (create assistant)
+- Fix for having space in assistant name
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;29-july-2020&quot;&gt;29 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Excel validate and add lead on just one button &quot;Add Lead&quot; click. To avoid confusion of two buttons and clicks.
+- Icon just next to the lead email to visit the lead's website extracted from the email domain. 
+- Fix for &quot;Time saved on leads&quot; count
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;28-july-2020&quot;&gt;28 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Warm leads are shown as Warm in the lead list.
+- Ability for user to provide Organization, Title and Industry while uploading the leads in excel.
+- Custom message allows to Personalize the message using above attributes.
+- Fix for showing the right assistant name for the Org admin when creating custom message for some other assistant.
+- Fix for calculating the leads used correctly to show as well as while validating in Add Lead.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;24-july-2020&quot;&gt;24 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fix for activation nurturing email going along wth activation email
+- Frontend Zoho Docs Links pointing to right URLS
+- Highlight of context, name, additional info while adding lead
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;22-july-2020&quot;&gt;22 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Zoho native Integration.
+- Defect fix for Email on received by assistant email from an email id which is not a user on 7Targets then that email should not be sent the error email.
+- Org admin should be able to copy any assistant from the Org.
+- Trigger/Stage based nurturing for new signed-up users on 7Targets.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;16-july-2020&quot;&gt;16 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Messages in the UI to encourage the user to complete the first few important tasks (Add Assistant, Add Lead, Add Nurturing table)
+- Fix for having &quot;null&quot; string in Assistant Signature when new Assistant is created.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;14-july-2020&quot;&gt;14 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Add first lead context as default context
+- UserStage and ThirdPartyLead Integration
+- Do not include OOO response in email Trail
+- Remove Phone Number field while create assistant for simplification.
+- When I click on refresh for add multiple lead, nothing happens. Have a popup saying &quot;Validation in progress. It takes a minute of two&quot;. 
+- Remove refresh icon after validated.
+- From UI give a proper message that only .xlsx is allowed.
+- User should be able to use cancel the multi-lead for anything except when adding.
+- Fix for: email not trimmed while adding lead (Mobile)
+- Ability in Admin UI to activate a plan.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;09-july-2020&quot;&gt;09 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- AI Sensed Data in Mobile view, ability to dial phone number by clicking
+- Ability to create custom messages from the schedules tab itself.
+- Fix for: Add Lead button hides pagination block on mobile.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;08-july-2020&quot;&gt;08 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Response Stats Tooltip and Title.
+- Update and Restart are two different actions. For user to Restart Cold lead from Followup_1 if required. 
+- Nurturing row has the capability of making a soft link for certain text in the sentence.
+- Different From and To Date picker for Usability reason
+- Show NSD in the forwarded email for OOO Responses.
+- If Assistant is emailed but this method of adding lead is not enabled, then let user know about it with a reply. 
+- Fix for updating the number of leads in Trial.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;07-july-2020&quot;&gt;07 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fix for wrong message &quot;Trial Expired&quot; even when the expiry date is in future.
+- Fix for not showing Deactivated response messages in the Responses List in Dashboard.
+- Toggle to see the OOO Responses in the Dashboard.
+- User can have different subject for the Custom Message by providing the subject at Custom Message level itself. 
+- Fix for making sure that duplicate leads are not created from CRM.
+- Fix to avoid failures while processing lead when the first email is too big in size.
+- Fix to avoid the looping of lead assignment between CRM and 7Targets when 7Targets assign the lead back to the assistant.
+- Copy assistant email as Taniya&amp;lt;taniya@7targets.7ts-e.com&amp;gt; instead of just taniya@7targets.7ts-e.com
+- User not able to see complete email in &quot;To&quot;. Assistant should auto-populate CC fields in introduce me, send message.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;02-july-2020&quot;&gt;02 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Retain STO while multi lead edit. 
+- Big for email input component accepts format like &quot;Name&quot; (Text) &amp;lt;email&amp;gt;.
+- Ability to show/hide deactivated users in the org users tab.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;01-july-2020&quot;&gt;01 July 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Ability to edit organisation name, as it is used by the Assistant to write emails.
+- Click of schedule in expanded lead will take user to schedules tab with corresponding schedule displayed (no need to select from dropdown).
+- Fix for: Default schedules dropdown in Edit Assistant are grey in color, looks as if disabled.
+- Fix for: User not able to see complete &quot;To&quot; field in timeline email drawer. Ability to copy For, To and Cc email values on click.
+- Auto-populate the Cc email addresses in Introduce Me and Send Email as VA emails, which user can accordingly edit before sending.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;30-june-2020&quot;&gt;30 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Testing for :
+- fix for space between signature and below texts.
+- fix for space between body and signature when custom message size if big.
+- multi-lead to use the details while add lead button click too. Which gives ability to change the values(context, source, etc) from what was used at upload time. 
+- UPLOADED status in multi-lead should have a cancel option. To avoid getting blocked when the validating fails.
+- unsubscribe to be transparent.
+- VA Signature has the ability to change font.
+- Custom message. `Hello firstname` to be of same font as the body.
+- No empty lines between Signature and BookMeeting.
+- One empty line above PS: 
+- Allow empty signature for the assistant.
+- Usability fixes to let user know that EmailCC Default schedule is different and the first message is the one user already sent where assistant is copied.
+- Default source while add lead should be Website.
+- fix for restart/edit not sending Followup_1 if it was already sent from earlier run.
+- fix for AI sense to not look ini email body sent by assistant (self).
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;27-june-2020&quot;&gt;27 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Styling changes in Timeline, Send Email as VA and Introduce Me in the drawer.
+- Edit NSD from leads expanded view.
+- Messages modal in Messages tab also converted to Drawer.
+- If 3 emails sent are not even opened then move NSD to +12 hrs to change the timezone.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;26-june-2020&quot;&gt;26 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Reply button for a Hot and Responded Lead for ease of use.
+- Popup input modal like Introduce Me, Send Email as Assistant, Emails from Timeline view, Custom Messages in Drawer for better usability. 
+- Ability to notify Received Responses on WhatsApp. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;25-june-2020&quot;&gt;25 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Maintain Email trail for the followup email, Introduce Me emails and email sent as Assistant.
+- Fix for failure when the email body is too long.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;22-june-2020&quot;&gt;22 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- CC field in multiple add leads. Required by a customer. 
+- While add lead if the lead exists then user is shown a URL to go to that lead.
+- Fix for showing only those files in the filter which have been added leads from. 
+- On select of upload file from filter automatically select the assistant too.
+- Fix visibility of Schedule drop down while Add Lead
+- Fix for bulk lead email coming from a different Assistant than assigned. 
+- Allow to invite an existing user to the Org. 
+- Allow only .xlsx and .xls files to be uploaded.
+- When boss replies to the IntroduceMe email and Assistant is in the Copy, LAR should be removed.
+- If EmailCC fails to add leads then it should let the boss know via email with the exact reason too.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;20-june-2020&quot;&gt;20 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Lead from EmailCC to be marked at risk when Processed with no response. 
+- Admin UI changes for ease of administration
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;17-june-2020&quot;&gt;17 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Accept Email Input even when user moves to some other field without entering.
+- Some bug fixes in custom messages.
+- The notification for exhausted leads.
+- Fix for used leads calculation. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;17-june-2020-1&quot;&gt;17 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- In filters pane, assistant name should be visible with file names.
+- Assistant name of the assistant who Uploaded the file should be visible in the upload history table as a column. Clicking on added leads, it should take user to leads list with two applied filters: assistant and uploaded file.
+- Fix create custom message, when org admin creates for some other assistant.
+- Fix for the engaged leads in dashboard should show rows as per selected assistant in dashboard.
+- Leads used notification should be shown only when user has consumed more than 75% leads.
+- Include 7Targets in footer of Trail users.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;15-june-2020&quot;&gt;15 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fix for action buttons to be always visible even when scrolled on Filter page, IntroduceMe, Send Email as Assistant, Add Lead, etc
+- Infinite scroll for the &quot;Engaged Leads&quot; on dashboard to improve performance. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;15-june-2020-1&quot;&gt;15 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Confirmation on bulk leads upload should show selected assistant, schedule, context, time of start of the processing.
+- Fix for User could not understand why timeline is empty for &quot;NEW&quot; leads.
+- &quot;Click to copy&quot; for the assistant's email id.
+- When showing the default schedule for Email CC in schedules, don't show first email row in the schedule table.
+- Show a counter in UI top menu of leads used against limit.
+- Default selected tab in add leads (Single/Multiple) should be picked from previous used tab stored in localStorage.
+- Confirmation on add leads (multiple) should show file name and number of valid leads.
+- Drawer instead of modal for edit multiple leads. Schedules made searchable.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;12-june-2020&quot;&gt;12 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Allow Org Admin to add and Edit leads for other assistant.
+- Org Admin would be able to see the lead list for multiple assistants at the same time. 
+- Show the Assistant being edited to the Org Admin.
+- Do not verify for emails already verified in last 9 months.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;11-june-2020&quot;&gt;11 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Make Assistant name part of the signature and don't add the name to it again. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;09-june-2020&quot;&gt;09 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Plan Limit calculation changes and fixes
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;08-june-2020&quot;&gt;08 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Show Assistants of activate users only. 
+- Performance fix for the dashboard. 
+- Fix for the upload multiple leads to have refresh button instead of polling. To avoid cloudflare identifying it as attack and blocking it.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;07-june-2020&quot;&gt;07 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Organisation support. Org Admin would be able to invite more users, convert some to Org Admin, delete users as required.
+- Org Admin would be able see the Leads, Messages, Assistants of other users in the Org,
+- Org Admin would be able to see a consolidated dashboard for all the Assistants in the org OR can select one or more Assistants to see the dashboard for.
+- Org admin would be the one to pick the plan to signup for.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;05-june-2020&quot;&gt;05 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- New user to always have a way to Onboard. 
+- Allow to edit Subject for upload excel. Have to change the subject before Upload button is clicked. 
+- Font size in Custom message.
+- Fix for center align of email body/text in Custom message.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;03-june-2020&quot;&gt;03 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Carousal while Edit lead. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;01-june-2020&quot;&gt;01 June 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- In WA have an action &quot;Mark as Responded&quot;
+- WhatsApp Notification for Warm Leads. Show phone number.
+- Easy access for upload history in leads list page.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;30-may-2020&quot;&gt;30 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Correct monthly and yearly numbers in the Plan.
+- Remove Assistant Type drop down from add Assistant
+- Fix for the Plans to comes in the order of READY, STEADY, GO, RUN
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;28-may-2020&quot;&gt;28 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Trail user limit validation.
+- Limit of lead as per the plan. Allow user to add more with UnAssigned status. 
+- Fix for Custom Message to show a failure if upload of image fails. 
+- CRM Details page usability fixes.
+- Send Email as Assistant UII look and feel same as other send email boxes. 
+- HubSpot integration. Set the first user as Default Owner to assign back the lead when previous owner is not found. 
+- Signature identification AI model improvements
+- Handle the CRM integration usecase when user is not yet signed-up on 7Targets and is coming from CRM Marketplace.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;23-may-2020&quot;&gt;23 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Lead Connection status field in HubSpot contact. Assistant to update the status in that field. 
+- Ability for the user to provide the context from HubSpot every time the lead is assigned to the AI Assistant.
+- Assistant to also update the HubSpot contact status. 
+- &quot;Time saved on Leads&quot; counter in dashboard. 
+- Fix for not to show count when only one lead is shown in the lead list. 
+- Confirm the cancellation of validating uploaded file. 
+- USD and INR plan page as per user location. 
+- Fis for placement of add lead button on mobile. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;20-may-2020&quot;&gt;20 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Separate Messages tab to show only the responded messages. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;20-may-2020-1&quot;&gt;20 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Response Stat graph on dashboard.
+- Fix for Responded, Hot, LAR counts on Dashboard.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;19-may-2020&quot;&gt;19 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Custom messages pagination and search by schedule.
+- Confirmation on Save in update schedule/update custom message unless clone mode is ON, which doesn't need confirmation.
+- Fix for M,Q,Y,C buttons on dashboard were looking vertically misplaced in firefox.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;18-may-2020&quot;&gt;18 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fix for the signature of the assistant is in one line when Assistant is created first time.
+- Order of fields for add and edit lead for WhatsApp Assistant
+- Fix for WhatsApp lead, multiple Edit lead. Next &quot;Next Followup&quot;, time is not required.
+- Edit Assistant change &quot;Primary Offering&quot;: and Additional Information label to align with Add Lead page.
+- Loading Quarter|Month|Year appropriately on Dashboard.
+- While Add Assistant. Convey that email domain cannot be changed later.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;15-may-2020&quot;&gt;15 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Show forwarded response to the user as well as for EmailCC like it appears in gmail. 
+- HTML signature from EmailCC is shown correctly. 
+- fix for showing other email ids if in To field of the response received. 
+- Dashboard to have date, upload file and schedule filter. 
+- HubSpot, or WhatsApp Assistant. If phone number is not available in phone-no field then look in mobile number field. 
+- fix for WhatsApp notification for Warm leads. 
+- fix for WhatsApp Assistant wake up time so that after verification of token the sleep time is till the wake-up time only. So that the messages go around the wake-up time.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;13-may-2020&quot;&gt;13 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Hot categorization model improvements. 
+- Upload to show the correct uploaded number in the upload history page.
+- Consolidate state ann derived state filter in lead list in one accordion. 
+- Default owner for leads from HubSpot. So that if the contact/lead was directly assigned to Assistant and no history of previous owner is found in HubSpot, then assign the lead to the default owner.
+- When leads are added in 7Targets directly, but then later on assigned to the assistant from CRM, should be restarted for processing. 
+- Show the user email in Notify Me under Notifications. 
+- Fix for weekly summary email not working. 
+- In bulk lead at times when it is stuck in Validating, user is blocked for uploading another excel file. A cancel options in the UI allows the user to stop and then upload a new file.
+- In excel upload convert the first character of first and last name to capital.
+- Option to see the raw response received. To handle scenarios where the received response could not be processed correctly and user looses some important information. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;08-may-2020&quot;&gt;08 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Notification preference for each type of notification. With ability to copy someone else and remove self if required.
+- Ability to take lead out of LAR when received response or while updating the status or adding notes from UI.
+- Weekly summary email. Don't show HOT and Lead at Risk. Show engaged and responded. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;04-may-2020&quot;&gt;04 May 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Intelligent Excel Import Beta: If your XL sheet has 1 row for each lead, try uploading your excel sheet as is. AI Assistant will try to read the data, auto format it and will let you know the identified valid leads before adding. You can check those leads and then add them.
+- Now you can find out the leads uploaded from an excel file using the Excel filter in lead list. 
+- Support for LinkedIn, Facebook and Twitter as source of lead.
+- Fix for allowing to search by phone number with spaces in the leads list.
+- Fix for mobile view email is not seen correctly when clicked in the timeline view. Especially for EmailCC source lead.
+- Weekly summary email to show Engaged and Responded instead of Hot and LAR.
+- Fix for Timeline view not showing the read double tick for emails &quot;Sent as User&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;29-april-2020&quot;&gt;29 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fix for: Multi edit - NSD shown in the row and post expanding the lead the date is not correct.  
+- Fix for: Schedule table - Message Type column is too small.  
+- Lead List Filters: Last 30 days, Last 1 year options added.  
+- Fix for: Multi lead edit. Next Followup date. Calendar is hidden behind autocomplete suggestions from browser.  
+- Excel validation for column name - user will now get the exact name of the erratic column.  
+- Expanded Lead: Click to copy should be changed to Copied after clicking.  
+- Filter Reset Icon changed.  
+- Deselect action introduced in leads list for partially selected list.  
+- Edit Assistant Signature allows use to add link to text. e.g website url linked to company name.    
+- Custom Message edit/clone ability introduced in Schedules tab too.  
+- Edited lead from CRM. When phone, email, name is changed then update that in 7Targets too.  
+- Assistant signature in introduce me email was coming in one line. Fixed the issue.
+- Fix for Context graph coming as empty many times.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;23-april-2020&quot;&gt;23 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fixed scrollbar length for wakeup time picker (WA) per feedback.
+- Changed local filters dashboard drawer styling to match leads list filters.
+- Tooltip showing the daily limit of messages in dashboard today's followups widget for Sales (200) and for WA (75).
+- Mobile view - leads-list - showing no. of leads, duration and criteria.
+- Replaced lead source and schedule creatable select in add/edit lead with smart select common component.
+- Scrollbar width increased globally.
+- Fix for UI load taking more time.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;22-april-2020&quot;&gt;22 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Show the to and cc email ids from the leads response.
+- Adding lead from the OOO email is an assistant level property now.
+- Do not show email abuse report in timelines.
+- Validate WhatsApp token 3 hrs before the wake-up time.
+- Link in the quoted text in the email when assistant is copied should be retained.
+- Lead At Risk email would have a Custom button for user to choose days after which user should be reminded. 
+- Cold Lead with NSD earlier that today would be updated to today for WhatsApp assistant, so that no leads are dropped.
+- Schedule name not appearing completely in the expanded lead. Name goes behind the button. 
+- Filter look and feel changes as well filter on the left side of the screen.
+- Click to copy. Let the user knows it is copied.
+- Search box mouse pointer fix on the right side of the box.
+- Same reset filter icon.
+- Fix for WhatsApp custom message is not seen in the schedule. 
+- Dont show warm and engaged icons on progress bar for unsubscribed leads.
+- Fix for Multi edit. The NSD show in the row and post expanding the lead the date is not correct. 
+- Login button when clicked have a loader. 
+- Change youtube icon to the actual youtube icon using font-awesome.
+- Schedule days is hiding behind the arrow. Increase the size to see 2 digit number.
+- Fix for createDate query showing different number in list and dashboard.
+- Readonly Custom message text is too light. Make it a little darker shade.
+- Fix for different fonts in email body while add lead.
+- Fix for Custom message name not appearing completely while selecting in the schedule if the name has no space.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;17-april-2020&quot;&gt;17 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Expanded lead to show various states of lead achieved in different followups (re-followup)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;14-april-2020&quot;&gt;14 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Warm and Engaged Filter click on dashboard to get right leads in the list. 
+- Custom message from other user should not be editable and image upload should be disabled. 
+- Confirmation on delete schedule and also delete button right most.
+- TVL get in one line. No scroll bars for the widget. Reduce font size of the number if required. 
+- Handle failures for WhatsApp notification because of concurrency. 
+- Dashboard responses shows HTML characters and emojis. Lets fix this. 
+- In the response forwarded email to user add space between quoted text and dividing line.
+- Handle entities failure because of too long text. 
+- Phone number component to be same on mobile as on desktop.
+- Changed subject for whatsapp token failure notification email. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;10-april-2020&quot;&gt;10 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Filter and Pagination in Lead List
+- WhatsApp Assistant can be used for CRM Integration (Hubspot and Pipedrive)
+- Phone number as one field in lead and assistant
+- Show correct followup numbers (will effect from now onwards only)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;07-april-2020&quot;&gt;07 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- TVL(Total Valid Leads) in Total Lead.
+- Color of custom messages and schedules owned by others.
+- Proper error message for add lead when user's trail is expired. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;06-april-2020&quot;&gt;06 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Show email and phone number in the extended lead
+- Continue Followup action for Hot and Responded leads
+- Daily WhatsApp summary report email subject change
+- Defect fix for Schedule name dropdown icon not working
+- Don't use old user_typed_message when restarted
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;04-april-2020&quot;&gt;04 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fix for multi lead restart from UI.
+- Fix for Whatsapp to pick the right contact incase multiple found while searching in WhatsApp
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;02-april-2020&quot;&gt;02 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Fix for multi lead assignment from Hubspot.
+- Hubspot integration is ready to go public.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;01-april-2020&quot;&gt;01 April 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Defect of excel error when login to email assistant from whatsapp.  
+- Ignore Invalid Email and Invalid WhatsApp Numbers in the % calculation in dashboard.  
+- Show schedule name for the lead in the lead list.  
+- Ability to search the schedule in add/edit lead.  
+- Excel Validation fix for CHAR 160.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;31-march-2020&quot;&gt;31 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Ability to clone custom message.  
+- Default dashboard to Quarter.  
+- Leads NSD is old (less than today) , send the list of those leads to support.
+- Image view ability in Add Lead Multiple (WA) and Image preview ability in single lead (WA) for existing images in custom messages.  
+- Custom Message to be seen properly on timeline view.  
+- Ability to see the image on timeline view for WhatsApp.  
+- Date tool-tip shown in carousal can be just below the numbers to avoid hiding the numbers.  
+- Carousal for multi-add lead for sales and WhatsApp both.   
+- &quot;Restart Followup&quot; button should not come for Unsubscribed lead.
+- Day Summary run for WhatsApp Assistant on support group.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;28-march-2020&quot;&gt;28 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Schedule with custom message for WhatsApp Assistant too. Image in custom message is possible. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;26-march-2020&quot;&gt;26 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Show correct images in timeline view as per what is uploaded while adding lead.
+- SendLeadResponseTo available in mobile Assistant Edit too.  
+- Defect: Schedule with custom messages owned by admin to be visible to all users.  
+- Defect: Schedule and Custom Message Soft Delete.   
+- Defect: Messages seen in timeline is not aligning with schedule when used Candid in followup_2 or later.  
+- Defect: Do not show the warning to Subscribe to user if he has active plan and just trying to change the plan
+- Defect : WhatApp Edit lead at times schedule comes empty.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;25-march-2020&quot;&gt;25 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- One Assistant per day will not send more than 200 emails. Emails beyond 200 for that day will be pushed out by 24 hrs.  
+- WhatsApp Assistant, retry after failure because of no internet while trying to use WhatsApp.  
+- View Email button in the Lead at risk email sent to the user. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;24-march-2020&quot;&gt;24 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Correction in dashboard graph to query based on update_date to get aligning data with the counts.  
+- Show counts in pie chart tool tip.  
+- Carousal in Multi Add Lead.  
+- Domain correction for Email address verifier.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;23-march-2020&quot;&gt;23 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Responded lead count in dashboard with proper ordering of counts too.  
+- Ability to mark a lead Responded from the UI.  
+- Pipedrive marketplace ready App for it to be publicly available.  
+- Edit Lead to show message as per schedule.  
+- Multi-lead edit, fix the modal view for usability.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;20-march-2020&quot;&gt;20 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Link to get to the lead details from the response email sent to the user.
+- Ability to edit multiple leads from the UI.  
+- Ability to filter the State graph in Dashboard on various different context. As well the Context graph on various different status values.
+- Ability to send the received response from lead to configured email ids. So that the response can be sent to more than user for quick action. 
+- Dashboard to show %ages too along with the exact numbers. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;17-march-2020&quot;&gt;17 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Ignore/Trim Space in WhatsApp and email while add and edit lead. So that Duplicate leads are avoided. 
+- Don't allow duplicate leads based on email for same user.
+- Don't show the bounce emails in &quot;Lead Response&quot; on Dashboard. 
+- Show Email id too in the LAR email to user to be able to clearly identify who is the lead.  
+- Process not more than 75 leads per day for WhatsApp Assistant.  
+- On unsubscribe and deactivate action close the modal window. 
+- Bullet option in custom message editor
+- Remove non-unicode in create and edit custom message. So that when user pastes from google doc it does not fail.
+- Ability for user to edit the Assistant's email, specifically login part. So that user can align it to their company standards. Default is still the assistant's name.
+- Improve Add Lead button in mobile view so that pagination is accessible.  
+- Fix the issue where schedule is not seen at times in add and edit lead. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;12-march-2020&quot;&gt;12 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- PS: Nurturing line should always be on a new line in the email.   
+- Checkbox for selecting an expanded lead in the lead list.  
+- IntroduceMe popup. Scrolling issue on desktop.
+- Space in the email at the end while login(email id) gives wrong credentials. Spaces in the end are trimmed.  
+- Timeline view horizontal scrolling buttons for usability.  
+- Notes were not getting saved for Deactivate and Unsubscribe actions.  
+- For IE and other browsers show. &quot;This browser is not supported. Please switch to Google Chrome or Mozilla Firefox for best results.&quot;  
+- Buttons for timelines view edit message popups to be visible on mobile when user types.  
+- WhatsApp multiple leads. The email does not reflect/change as per the schedule changed. 
+- Carousal while Add lead for WhatsApp. Single lead only for now.
+- Multiple usability fixes.  
+- Tooltip for Clone, to help understand what it does.  
+- For WhatsApp expanded lead in lead list, show the phone number instead of email.  
+- Ability to add CC email in Introduce Me. So that user can copy some other Sales individuals to introduce them.
+- Stability fixes for WhatsApp assistant processing. 
+- Ability to send image on any of the scheduled messages in WhatsApp for UserTypedMessage
+- Notify support if 7Targets is not able to notify engaged lead on WhatsApp.
+- Failures on WhatsApp are specifically notified to support
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;04-march-2020&quot;&gt;04 March 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Custom Message now has a better UI to write email where you can bullet the points, use color and links (href), etc.
+- Pending Review emails will be automatically checked for deliverability and action taken (deactivate on bounce or send the email on confirmation) automatically.
+- See the default schedule in the list of schedules. 
+- Set the schedule to default while creating or editing it from the schedule page itself.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;22-feb-2020&quot;&gt;22 Feb 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Native Integration for Pipedrive. Can now be in Pipedrive Marketplace.
+- Edit Assistant - Functional Grouping of attributes for usability
+- In multiple leads upload, show excel errors straight away on excel upload, not on click of add lead.
+- Change the schedules &amp;amp; custom message to  more usable. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;19-feb-2020&quot;&gt;19 Feb 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Tour for Add Lead
+- Bigger font and in same line for Book Meeting and  WhatsApp link
+- Nurturing statement. PS is bold and all the text is italics. 
+- Introduce Me simplification.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;12-feb-2020&quot;&gt;12 Feb 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Pending filter added in leads list.  
+- Text changed for force send confirmation modal, styling fixed.  
+- Ellipsis for the context in lead cards will show hover on the tooltip.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;12-feb-2020-1&quot;&gt;12 Feb 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Force Send the Pending Email Validation leads cautiously.  
+- All the places for user to type emails have same look and feel now.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;11-feb-2020&quot;&gt;11 Feb 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Native Hubspot OAuth2 based integration. 7Targets can be on Hubspot marketplace now. 
+- Simplify Introduce me.
+- Show lead count in today's followup.
+- Visually identify the schedules not owned by self.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;29-jan-2020&quot;&gt;29 Jan 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Improved UI for Schedule and Nurturing on Desktop.  
+- Assistant to remind the Sales person for Responded and Hot Leads. If no response from sales person then Assistant marks the lead at risk. Sales person has an option to set reminder after days.  
+- See all the possible emails while adding lead and edit any of those emails as per schedule. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;20-jan-2020&quot;&gt;20 Jan 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Users would be able to access/use schedules created by others users from the same Organisation. 
+- Possibly invalid email is kept under review for validation. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;17-jan-2020&quot;&gt;17 Jan 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Assistant to have a default schedule for leads from EmailCC. User can now decide the schedule to use for such leads.
+- User can send an image to the WhatsApp leads when using that assistant.
+- Simplified Add and Edit lead on mobile.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;14-jan-2020&quot;&gt;14 Jan 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Custom Schedule capability for WhatsApp leads
+- Allow to bulk upload many lead but process only few(~50) per day for WhatsApp leads. 
+- Ability to edit and restart followup for WhatsApp Leads
+- Recommended Sales Assistant Schedule, first email goes after 1 day of adding the lead.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;07-jan-2020&quot;&gt;07 Jan 2020&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Ability to edit the scheduled message for the lead in the timeline view.  
+- Take actions like Add Notes, Mark Hot, etc on multiple leads, on desktop view only.
+- Processed Lead can be Restarted for followup. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;31-dec-2019&quot;&gt;31 Dec 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Leads created from EmailCC (or others too) can be edited for all fields other than email address.
+- When leads in Hubspot CRM is assigned to the assistant then Assistant will check if any email is sent by user to the lead. If user has sent any email then Assistant will not send the first email and will use the same email subject and email body as quoted text below the emails Assistant will write. 
+- Assistant level attribute to enable/disable accepting leads via EmailCC.
+- Followup for the Processed leads can be restarted by Editing the lead.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;20-dec-2019&quot;&gt;20 Dec 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Schedule can have a type CUSTOM_MESSAGE so that user can type in his message if he wants to. Useful for scenarios when user wants to add multiple leads from CRM and want to have a custom first message to go out instead of generated. This would be anyways possible from within 7Targets UI but if user is doing it from a CRM then it would not have been possible. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;16-dec-2019&quot;&gt;16 Dec 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Assistant can be provided the Primary offering which will  be used as context in the Lead communication if the context is empty at the lead level. Can be overwritten while adding a new lead.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;10-dec-2019&quot;&gt;10 Dec 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Ease of traversing messages on timeline view.
+- Assign the leads in Hubspot to your 7Targets AI Assistant for nurturing
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;03-dec-2019&quot;&gt;03 Dec 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Improved identification of Warm and Engaged leads to reduce false positives
+- Show all the email ids in the received email by the assisant. In UI as well as in the email forwarded to the user by the assistant. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;03-dec-2019-1&quot;&gt;03 Dec 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Add Lead via Email
+- Add Lead from Out of Office  
+- Ease of onboarding the Assistant in CRM. The email sent to the assistant's email if from CRM is now forwarded to the 7Targets support group.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;25-nov-2019&quot;&gt;25 Nov 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Now you can use Reference as lead source. Assistant is trained to generate message for such source. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;21-nov-2019&quot;&gt;21 Nov 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Quickly know the number of Warm and Engaged leads from the dashboard. Click on it to get to the exact list too in the lead list.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;19-nov-2019&quot;&gt;19 Nov 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Nurture the lead by adding your own PS statements. Helps provide answers for &quot;Did you know&quot;. One can put Customer stories, white papers, video links, etc to the assistant and then assistant will use one at a time in the emails she sends. 
+- Securely Subscribe using Stripe. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;14-nov-2019&quot;&gt;14 Nov 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Assistant uses the AI sense to extract some important information like email, phone, company, etc and show it to the user
+- Engaged leads identification got smarter
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;11-nov-2019&quot;&gt;11 Nov 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Smart followup for out of office Lead. Assistant will align the followup email date based on the number of days of OOO.
+- User can now edit the email subject while adding lead.
+- User will be provided with subject which are working based on analytics (i.e. emails are being opened).
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;7-nov-2019&quot;&gt;7 Nov 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Assistant will notify the user on email and WhatsApp at the right time about the engaged leads, so that the user can call the lead at that moment.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;22-oct-2019&quot;&gt;22 Oct 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Ability to provide Additional Information Line to the Assistant for getting more context in the email. 
+- Received Response email sent to the boss, to contain a link to open that lead and get introduced. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;18-oct-2019&quot;&gt;18 Oct 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Spreading out leads creation while excel import. 
+- Avoid debounce concurrent calls to not get into the concurrent call limit. Also handle the return code for this.
+- Fixed some failures in Hot and Deactivate detection.
+- Schedule Message shown in the timegraph now conveys that this is a Possible Message to be sent. 
+- IntroduceMe URL and Lead State in the Forwarded Lead Response email
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;14-oct-2019&quot;&gt;14 Oct 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Know if and when the email was opened by the lead.
+- Adaptive email sending time, based on when the user reads the email.
+- Ability to know the opened follow-up email in the timeline graph for a specific lead
+- Tone based scheduled messages. User can pick the tone to be used while creating a custom schedule.
+- Ability to include Offer in the custom schedule.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;01-oct-2019&quot;&gt;01 Oct 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- On click of the Lead Responses and Todays Followup in dashboard, the lead is opened in context
+- BCC all the emails sent by the SALES assistant to the provided email id.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;25-sept-2019&quot;&gt;25 Sept 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Help website for 7Targets AI Assistant
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;24-sept-2019&quot;&gt;24 Sept 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Show the possible messages to be sent in the timeline graph as per the future schedule
+- Context is searchable in the Add Lead. So that user can reuse his last typed context.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;23-sept-2019&quot;&gt;23 Sept 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- User can now decide to include or not unsubscribe and whatsapp link in the email below signature
+- When integrated with 3rd party CRM, then do not allow to change the assistant name.
+- Video help added for few functions. Not available on mobile view.
+- Few important fixes
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;13-sept-2019&quot;&gt;13 Sept 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Lead deactivated because of Invalid WhatsApp number should convey it in the UI too
+- /sign-up direct URL so that new users avoid one click and our ads can directly take the user to signup page
+- Allow schedule gap to be as high as 30 days. As well allow the schedule to be over 340 days
+- Mobile view, click on Hot in dashboard should take to Hot leads in the list
+- Remember between Month, Quarter, Year in dashboard across the other menu clicks
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;11-sept-2019&quot;&gt;11 Sept 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- WhatsApp Assistant login failure should be notified with different subjects and copy 7Targets support
+- Ability to add User Note from UI for each lead
+- Show Deactivated reason on mobile view too
+- In Timeline graph, open the message even when user clicks on the circles
+- Allow user to send the Introduce Me email even when there is no response from the lead
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;4-sept-2019&quot;&gt;4 Sept 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Assistant can be assigned a lead directly from **Pipedrive**
+- Show deactivation reason in UI
+- User Note for manually marked Hot leads
+- While add lead, let user pick schedule date as far as 9 months later
+- Send the OOO email to the user like other emails received
+- For add lead, last name should not be mandatory
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;25-aug-2019&quot;&gt;25 Aug 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Assign lead to the Assistant directly from **Salesforce**
+- Admin to be able to write the Weekly Summary email text
+- User has the ability to create and user **Custom schedule**
+- WhatsApp messages can contain newlines now 
+- Ability to schedule sending email to the added lead at a later time 
+- WhatsApp followup messages are more non-formal and small
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;10-aug-2019&quot;&gt;10 Aug 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Admin UI for the user leads report
+- Handle network outage in the UI
+- Assistant to respond with brochure automatically when asked for
+- Shared calendar URL in the VA Signature
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;29-july-2019&quot;&gt;29 July 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Post User onboarding. Activate WhatsApp Assistant from the Admin UI
+- Bulk upload notification to user in email 
+- WhatsApp change of intent from call to response
+- Remove unsubscribe action in UI for the WhatsApp Assistant leads
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;25-july-2019&quot;&gt;25 July 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Bulk upload for WhatsApp VA
+- Defect fixes for WhatsApp VA 
+- Allow edit of first message while adding lead
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;17-july-2019&quot;&gt;17 July 2019&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- WhatsApp Sales Assistant released
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;15-june-2019-and-earlier&quot;&gt;15 June 2019 and Earlier&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- AMC Assistant released
+- In AMC Assistant ability to receive all the communication between Assistant and Lead on a BCC email id
+- Phone meeting and Face to Face meeting as Lead Source when adding a new lead
+- Bulk Lead upload/add via excel file
+- Each user has reference code which he can give to people he refers to
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">27 Aug 2020 - Ability to have multiple assistants for a user. - Fix the defect where it was showing the last message for Warm lead as not sent even when the lead was processed in timeline. - Fix for considering the BounceDeactivated in Invalid leads - Fix for handling the response asking for brochure and assistant has no URL - Invalid string in phone number should not fail the lead addition from CRM or excel or anywhere else. Just ignore the value and add the lead. - Fix for EmailCC to handle if the lead responds to the first email</summary></entry><entry><title type="html">FAQ</title><link href="http://localhost:4000/other/FAQ/" rel="alternate" type="text/html" title="FAQ" /><published>2020-03-01T00:00:00+00:00</published><updated>2020-03-01T00:00:00+00:00</updated><id>http://localhost:4000/other/FAQ</id><content type="html" xml:base="http://localhost:4000/other/FAQ/">&lt;h2 id=&quot;when-does-ai-sales-assistant-stop-emailing-&quot;&gt;When does AI Sales Assistant stop emailing ?&lt;/h2&gt;
+&lt;p&gt;AI Sales Assistant stops emailing as soon as&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The lead responds.&lt;/li&gt;
+  &lt;li&gt;The lead unsubscribes&lt;/li&gt;
+  &lt;li&gt;The lead is not interested in our offering&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;in-sales-assistant-can-i-add-same-lead-email-id-for-different-context-&quot;&gt;In Sales Assistant, can I add same lead email-id for different context ?&lt;/h2&gt;
+&lt;p&gt;No you cannot. You will have to edit the lead and restart the follow-up.&lt;/p&gt;
+
+&lt;h2 id=&quot;can-i-have-my-company-logo-in-the-assistant-signature-&quot;&gt;Can I have my company logo in the assistant signature ?&lt;/h2&gt;
+&lt;p&gt;Right now we do not have the feature to add logo to the signature. Logos, Square boxes, and ‘sales-ly emails’ get a lower response rate compared to plain, simple, direct, conversational emails.&lt;/p&gt;
+
+&lt;h2 id=&quot;can-i-stop-sending-the-whatsapp-url-in-the-emails-sent-by-the-assistant-&quot;&gt;Can I stop sending the WhatsApp URL in the emails sent by the assistant ?&lt;/h2&gt;
+&lt;p&gt;Yes, you can. Go to edit assistant and tick the box appropriately for adding or not adding the direct WhatsApp URL in the email.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-names-should-i-use-for-the-ai-assistant-to-get-a-good-response-rate-&quot;&gt;What names should I use for the AI Assistant to get a good response rate ?&lt;/h2&gt;
+&lt;p&gt;Names like Rachel, Ashley work well for US, India. Names like Sonia, Sakshi work well within India. France and middle east get higher response rates with local assistant names. Try different  names and let us know how it worked for you. Remember that emails already gone out from one assistant cannot be changed when you change names. Its like hiring a new assistant from the lead perspective.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-i-decide-on-the-context-to-be-used-when-adding-a-lead-&quot;&gt;How do I decide on the context to be used when adding a lead ?&lt;/h2&gt;
+&lt;p&gt;Our customers generally create a list of contexts that are relevant for them and publish those to their internal team. All leads getting added, the team uses one of the contexts you approve, so all emails go correctly. The context once used is remembered and is searchable too in that field while adding the lead.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-there-any-option-to-pause-the-sending-of-emails&quot;&gt;Is there any option to pause the sending of emails?&lt;/h2&gt;
+&lt;p&gt;Yes, you can deactivate the lead. That will stop sending the emails. To restart, can again assign another (or same) sequence/schedule to the lead to restart followups.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-unsubscribe-the-only-option-to-stop-sending-off-further-messages&quot;&gt;Is unsubscribe the only option to stop sending off further messages?&lt;/h2&gt;
+&lt;p&gt;Unsubscribe is not the option to stop sending emails. Deactivate is the right option to stop sending emails. Unsubscribe is used only when the end-user clicks unsubscribe or write ‘unsubscribe me’ (or something like that) in the email. Then Assistant will automatically unsubscribe the lead. If the Assistant fails to read unsubscribe response for whatever reason, you can manually unsubscribe the lead if the lead requested it specifically.  99% of the time, you will never have to unsubscribe manually.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-the-options-to-send-an-attachment-videos-or-photos-in-the-email&quot;&gt;What are the options to send an attachment, videos or photos in the email?&lt;/h2&gt;
+&lt;p&gt;Two ways to send attachments, you-tube videos or photos.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Use links (URLs) to those files and videos in the email.&lt;/li&gt;
+  &lt;li&gt;Use your normal email client (like gmail) for sending the first email and cc the Assistant in that email.&lt;br /&gt;
+The Assistant understands that she needs to followup that leads using the ‘Email CC’ schedule.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">When does AI Sales Assistant stop emailing ? AI Sales Assistant stops emailing as soon as The lead responds. The lead unsubscribes The lead is not interested in our offering</summary></entry><entry><title type="html">Zoho CRM</title><link href="http://localhost:4000/integrate/zoho/" rel="alternate" type="text/html" title="Zoho CRM" /><published>2020-02-24T00:00:00+00:00</published><updated>2020-02-24T00:00:00+00:00</updated><id>http://localhost:4000/integrate/zoho</id><content type="html" xml:base="http://localhost:4000/integrate/zoho/">&lt;p&gt;&lt;a name=&quot;what-you-get&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-you-get&quot;&gt;&lt;a href=&quot;#what-you-get&quot;&gt;What you get&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;7Targets AI Sales Assistant is created as a user in &lt;strong&gt;Zoho&lt;/strong&gt; CRM.&lt;br /&gt;
+Leads/Contacts from &lt;strong&gt;Zoho&lt;/strong&gt; CRM can be assigned to 7Targets AI Sales Assistant directly within Zoho. AI Assistant will then own the lead, communicate and nurture to try and get the meeting. Assistant will update the communication details (emails) in Zoho for each contact she/he is nurturing.&lt;/p&gt;
+
+&lt;p&gt;One &lt;strong&gt;important&lt;/strong&gt; point to note, after AI Assistant is done with her job, she will assign the lead back to the original owner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;setup-details&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;setup-details&quot;&gt;&lt;a href=&quot;#setup-details&quot;&gt;Setup Details&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Important Note&lt;/code&gt; : Zoho Admin level access is required to create a new user for Assistant in Zoho. Org Admin access on 7Targets is required to sync the Assistant User from Zoho.&lt;/p&gt;
+
+&lt;p&gt;If not already installed the extension yet then &lt;strong&gt;Install&lt;/strong&gt; from Zoho &lt;a href=&quot;https://marketplace.zoho.com/home&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Marketplace&lt;/a&gt;. After installing, the extension will open a new tab page where you will have to authorize 7Targets to connect with Zoho CRM. If you are already connected to Zoho via some other Assistant in 7Targets then you are already authorized.&lt;/p&gt;
+
+&lt;p&gt;You can check it from &lt;strong&gt;“Settings”-&amp;gt;”CRM Details”&lt;/strong&gt;. Meaning of the status on the &lt;strong&gt;CRM Details&lt;/strong&gt; page is explained below in the page.&lt;/p&gt;
+
+&lt;p&gt;Once Authorization is complete, follow below steps for further configuration. 
+&lt;img src=&quot;../../images/install-extension-zoho.png&quot; alt=&quot;Assign to Assistant&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; If not yet signed up or invited and created an Assistant in 7Targets. Please refer &lt;a href=&quot;getting-started/signup/&quot;&gt;Signup&lt;/a&gt;. If user is already created then complete the onboarding of the user by creating the &lt;a href=&quot;getting-started/create-your-assistant/&quot;&gt;Assistant&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Create a user in Zoho for your Assistant’s email id. You can get the Assistant email id from the Edit Assistant page. Below screenshot show how to copy Assistant’s email id.&lt;br /&gt;
+&lt;img src=&quot;../../images/assistant-email.png&quot; alt=&quot;Assistant's email&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Go to &lt;strong&gt;“Settings”-&amp;gt;”CRM Details”&lt;/strong&gt; in 7Targets. By clicking the Refresh button lets verify if the Assistant user is created in Zoho and we are ready to move ahead. Against each Assistant you will see the CRM Integration Status. &lt;img src=&quot;../../images/crm-integration-status.png&quot; alt=&quot;CRM Integration Status&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Meaning of CRM Integration Status:&lt;br /&gt;
+&lt;strong&gt;ASSISTANT_EXISTS_AS_USER_IN_CRM&lt;/strong&gt; : You are all set. Go ahead and assign the contact from Zoho to the Assistant user in Zoho. That contact should be seen as lead in 7Targets in few seconds. Assistant should also update the note for the contact that she is going to work on it.&lt;br /&gt;
+&lt;strong&gt;ALL_WORKING_WELL&lt;/strong&gt; : All set, it is working well for you. You have already assigned contact in Zoho to the Assistant and she is working on it too.&lt;br /&gt;
+&lt;strong&gt;ASSISTANT_DOES_NOT_EXISTS_AS_USER_IN_CRM&lt;/strong&gt; : Go back to step 2 above. If still facing issues drop an email to support@7targets.com.&lt;br /&gt;
+&lt;strong&gt;ASSISTANT_NOT_YET_CREATED&lt;/strong&gt; : Follow Step 1 onwards.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; Verify in 7Targets that your Assistant has a Default Context. It is available on Edit Assistant page. Default context is used by the Assistant to write an email. You can check how the context is used by Assistant when writing an email. Just try to add a new lead from 7Targets. Other default values can be filled too. 
+&lt;img src=&quot;../../images/assistant-defaults.png&quot; alt=&quot;Default Context&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; You are all set, assign a contact/lead in Zoho to the Assistant user and verify that you see that lead in 7Targets in the “Leads” page. 
+&lt;img src=&quot;../../images/assign-to-assistant-zoho.png&quot; alt=&quot;Assign to Assistant&quot; /&gt;
+&lt;strong&gt;6.&lt;/strong&gt;  If you intend to pass context to the lead from Zoho then use the custom field named “7Targets Context” for Contacts in Zoho. With this, when you assign the contact/lead to Assistant user and if there is any context provided for this contact/lead then Assistant will use that else it will use the default context at the Assistant level in 7Targets.
+&lt;img src=&quot;../../images/context-in-zoho.png&quot; alt=&quot;Context from Zoho&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Feel free to reach out to support@7targets.com for any help required in setup&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;how-it-works&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;how-it-works&quot;&gt;&lt;a href=&quot;#how-it-works&quot;&gt;How it works&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;After the contact in Zoho is assigned to the Assistant user in Zoho, Assistant will own it for nurturing. Assistant will use the default Schedule and Context as configured in 7Targets.&lt;/li&gt;
+  &lt;li&gt;Assistant will leave a note of confirmation like below image for the assigned contact.
+&lt;img src=&quot;../../images/hubspot-7targets-confirmation-note.png&quot; alt=&quot;Confirmation Note from Assistant&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;All the emails that Assistant sends or receives are logged in Zoho too. Like in below image. 
+&lt;img src=&quot;../../images/hubspot-7targets-email.png&quot; alt=&quot;Logged Email by Assistant&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;After Assistant is done with her work, the contact is assigned back to the previous Contact owner. For example, if there is a response from the lead, then Assistant will stop further emails and assign it back to the previous owner.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;questions-answered&quot;&gt;Questions answered&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;How do I integrate with Zoho CRM ?&lt;/li&gt;
+  &lt;li&gt;What are the setup steps for Zoho CRM ?&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">What you get 7Targets AI Sales Assistant is created as a user in Zoho CRM. Leads/Contacts from Zoho CRM can be assigned to 7Targets AI Sales Assistant directly within Zoho. AI Assistant will then own the lead, communicate and nurture to try and get the meeting. Assistant will update the communication details (emails) in Zoho for each contact she/he is nurturing.</summary></entry><entry><title type="html">Pipedrive</title><link href="http://localhost:4000/integrate/pipedrive/" rel="alternate" type="text/html" title="Pipedrive" /><published>2020-02-23T00:00:00+00:00</published><updated>2020-02-23T00:00:00+00:00</updated><id>http://localhost:4000/integrate/pipedrive</id><content type="html" xml:base="http://localhost:4000/integrate/pipedrive/">&lt;p&gt;&lt;a name=&quot;what-you-get&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-you-get&quot;&gt;&lt;a href=&quot;#what-you-get&quot;&gt;What you get&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Leads from &lt;strong&gt;Pipedrive&lt;/strong&gt; CRM can be assigned to 7Targets AI Sales Assistant directly within the Pipedrive UI. AI Assistant will then own the lead and communicate to try and get the meeting. Assistant will also update the lead details putting notes for the emails being sent. Will also move the leads assigned across multiple stages in the Pipeline.&lt;/p&gt;
+
+&lt;p&gt;One &lt;strong&gt;important&lt;/strong&gt; point to note, as soon as the AI Assistant receives a response from the lead and detects it to be a Hot or Responded lead then the assistant assigns the lead back to the original owner.&lt;/p&gt;
+
+&lt;p&gt;For onboarding your AI Assistant on Pipedrive please reach out to support@7targets.com&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;Enabling 7Targets from Pipedrive Marketplace&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;authorize-pipedrive-for-7targets-&quot;&gt;&lt;a href=&quot;#enabling-7Targets&quot;&gt;Authorize Pipedrive for 7Targets &lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Authorize Pipedrive&lt;/strong&gt; by clicking this link &lt;a href=&quot;https://solution.7targets.com/hubspot-pipedrive&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;authorize&lt;/a&gt;. Once Authorization is complete follow below steps for further configuration before it is ready to be used.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create your assistant in 7Targets if not already created. Provide the default values for context and other variables at the Assistant level by editing the Assistant.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a user in Pipedrive for your Assistant’s email id.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In 7Targets, under user profile, look at the “CRM Details” tab and click on “Verify Again” to get the acceptable status. Various status and the meanings are below: &lt;br /&gt;
+&lt;strong&gt;ASSISTANT_EXISTS_AS_USER_IN_CRM&lt;/strong&gt; : You are all set. Go ahead and assign one contact from Pipedrive to the Assistant user in Pipedrive. That contact should be seen as lead in 7Targets in few seconds.&lt;br /&gt;
+&lt;strong&gt;ASSISTANT_DOES_NOT_EXISTS_AS_USER_IN_CRM&lt;/strong&gt; : Follow step 2 and beyond above.&lt;br /&gt;
+&lt;strong&gt;ASSISTANT_NOT_YET_CREATED&lt;/strong&gt; : Follow Step 1 onwards.&lt;br /&gt;
+&lt;strong&gt;ALL_WORKING_WELL&lt;/strong&gt; : All set, it is working well for you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In Pipedrive, disable email notifications for the Assistant user.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Verify in 7Targets that your Assistant has a Default Context. It is available on Edit Assistant page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You are set, assign a contact/lead in Pipedrive to the Assistant user and verify that you see that lead in 7Targets in the “Leads” page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you intend to pass context to the lead from Pipedrive then create a custom field named “context” for Contacts in Pipedrive. With this, when you assign the contact/lead to Assistant user and if there is any context provided for this contact/lead then Assistant will use that else it will use the default context provided at the Assistant level in 7Targets.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">What you get Leads from Pipedrive CRM can be assigned to 7Targets AI Sales Assistant directly within the Pipedrive UI. AI Assistant will then own the lead and communicate to try and get the meeting. Assistant will also update the lead details putting notes for the emails being sent. Will also move the leads assigned across multiple stages in the Pipeline.</summary></entry><entry><title type="html">Salesforce</title><link href="http://localhost:4000/integrate/salesforce/" rel="alternate" type="text/html" title="Salesforce" /><published>2020-02-22T00:00:00+00:00</published><updated>2020-02-22T00:00:00+00:00</updated><id>http://localhost:4000/integrate/salesforce</id><content type="html" xml:base="http://localhost:4000/integrate/salesforce/">&lt;p&gt;&lt;a name=&quot;what-you-get&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-you-get&quot;&gt;&lt;a href=&quot;#what-you-get&quot;&gt;What you get&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Leads from &lt;strong&gt;Salesforce&lt;/strong&gt; CRM can be assigned to 7Targets AI Sales Assistant directly within the Salesforce UI. AI Assistant will then own the lead and communicate to try and get the meeting. Assistant will also update the lead details putting notes for the emails being sent as well as status of the lead in salesforce.&lt;/p&gt;
+
+&lt;p&gt;One &lt;strong&gt;important&lt;/strong&gt; point to note, as soon as the AI Assistant receives a response from the lead and detects it to be a Hot or Responded the assistant assigns the lead back to the original owner.&lt;/p&gt;
+
+&lt;p&gt;For onboarding your AI Assistant on Salesforce please reach out to support@7targets.com&lt;/p&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">What you get Leads from Salesforce CRM can be assigned to 7Targets AI Sales Assistant directly within the Salesforce UI. AI Assistant will then own the lead and communicate to try and get the meeting. Assistant will also update the lead details putting notes for the emails being sent as well as status of the lead in salesforce.</summary></entry><entry><title type="html">Hubspot CRM</title><link href="http://localhost:4000/integrate/hubspot/" rel="alternate" type="text/html" title="Hubspot CRM" /><published>2020-02-21T00:00:00+00:00</published><updated>2020-02-21T00:00:00+00:00</updated><id>http://localhost:4000/integrate/hubspot</id><content type="html" xml:base="http://localhost:4000/integrate/hubspot/">&lt;p&gt;&lt;a name=&quot;what-you-get&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-you-get&quot;&gt;&lt;a href=&quot;#what-you-get&quot;&gt;What you get&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;7Targets AI Sales Assistant is created as a user in &lt;strong&gt;HubSpot CRM&lt;/strong&gt;.
+Contacts/Leads from HubSpot CRM can be assigned to 7Targets AI Sales Assistant directly within HubSpot CRM. AI Assistant will then own the lead, communicate and nurture to try and get the meeting. Assistant will update the communication details (email, task) in HubSpot for each contact Assistant is nurturing.&lt;/p&gt;
+
+&lt;p&gt;One important point to note, after AI Assistant is done with her job, she will assign the lead back to the original owner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;setup-details&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;setup-details&quot;&gt;&lt;a href=&quot;#setup-details&quot;&gt;Setup Details&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Important Note&lt;/code&gt; : HubSpot Admin level access is required to create a new user for Assistant in HubSpot. Org Admin access on 7Targets is required to sync the Assistant User from HubSpot.&lt;/p&gt;
+
+&lt;p&gt;If not already authorized yet then Authorize from HubSpot &lt;a href=&quot;https://app.hubspot.com/ecosystem/6714307/marketplace/apps/sales/crm/7targets-ai-sales-assistant-208066&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Marketplace&lt;/a&gt; OR by clicking this link &lt;a href=&quot;https://solution.7targets.com/hubspot-authorize&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;authorise&lt;/a&gt;.&lt;br /&gt;
+If you are already connected to Hubspot via some other Assistant in 7Targets then you are already authorized.&lt;/p&gt;
+
+&lt;p&gt;You can confirm or check your setup connectivity from “Settings”-&amp;gt;”CRM Details”. Meaning of the status on the CRM Details page is explained below.&lt;/p&gt;
+
+&lt;p&gt;Once Authorization is complete, follow below steps for further configuration.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; If not yet signed up or invited and created an Assistant in 7Targets. Please refer &lt;a href=&quot;getting-started/signup/&quot;&gt;Signup&lt;/a&gt;. If user is already created then complete the onboarding of the user by creating the &lt;a href=&quot;getting-started/create-your-assistant/&quot;&gt;Assistant&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt;  Invite user in HubSpot for your Assistant’s email id. You will have to be Hubspot Admin for this. You can get the Assistant email id from the Assistant page. Below screenshot show how to copy Assistant’s email id.&lt;br /&gt;
+&lt;img src=&quot;../../images/assistant-email.png&quot; alt=&quot;Assistant's email&quot; /&gt;
+HubSpot sends an invitation email to the newly created Assistant user. This email is received by the Assistant and is forwarded to the user(Assistant’s boss).&lt;/p&gt;
+
+&lt;p&gt;User is expected to open this email and accept the invitation by clicking the link in the invitation email and join HubSpot on Assistant’s behalf.&lt;/p&gt;
+
+&lt;p&gt;While clicking this link make sure you have logged out of Hubspot from your earlier session, so that you are taken to the login page of Hubspot. Where you would have to put the newly invited user’s email (Assistant’s email) and set a password.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Go to &lt;strong&gt;“Settings”-&amp;gt;”CRM Details”&lt;/strong&gt; in 7Targets. By clicking he Refresh button lets verify if the Assistant user is created in HubSpot. Against each Assistant you will see the CRM Integration Status. &lt;img src=&quot;../../images/crm-integration-status.png&quot; alt=&quot;CRM Integration Status&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;meaning-of-crm-integration-status&quot;&gt;Meaning of CRM Integration Status:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ASSISTANT_EXISTS_AS_USER_IN_CRM&lt;/strong&gt; : You are all set. Go ahead and assign the contact from HubSpot to the Assistant user in HubSpot. That contact should be seen as lead in 7Targets in few seconds. Assistant should also update the note for the contact that she is going to work on it.&lt;br /&gt;
+&lt;strong&gt;ALL_WORKING_WELL&lt;/strong&gt; : All set, it is working well for you. You have already assigned contact in HubSpot to the Assistant and she is working on it too.&lt;br /&gt;
+&lt;strong&gt;ASSISTANT_DOES_NOT_EXISTS_AS_USER_IN_CRM&lt;/strong&gt; : Go back to step 2 above. If still facing issues drop an email to support@7targets.com.&lt;br /&gt;
+&lt;strong&gt;ASSISTANT_NOT_YET_CREATED&lt;/strong&gt; : Follow Step 1 onwards.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; In HubSpot, disable email notifications for the Assistant user from Settings. This is to avoid unnecessary emails being sent to the Assistant. 
+&lt;img src=&quot;../../images/disable-email-notifications.png&quot; alt=&quot;disable email notifications&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; Verify in 7Targets that your Assistant has a Default Context. It is available on Edit Assistant page. Default context is used by the Assistant to write an email. You can check how the context is used by Assistant when writing an email. Just try to add a new lead from 7Targets. Other default values can be filled too. 
+&lt;img src=&quot;../../images/assistant-defaults.png&quot; alt=&quot;Default Context&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6.&lt;/strong&gt; You are all set, assign a contact/lead in HubSpot to the Assistant user and verify that you see that lead in 7Targets in the “Leads” page. As well check that Assistant would have left a note in the Contact Activity in Hubspot.
+&lt;img src=&quot;../../images/assign-to-assistant.png&quot; alt=&quot;Assign to Assistant&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7.&lt;/strong&gt;  If you intend to pass context to the lead from HubSpot then use the custom field named “Context” for Contacts in HubSpot. With this, when you assign the contact/lead to Assistant user and if there is any context provided for this contact/lead then Assistant will use that else it will use the default context at the Assistant level in 7Targets. Note that Assistant will update back a custom field named “Lead Connection Status” in HubSpot.
+&lt;img src=&quot;../../images/context-in-hubspot.png&quot; alt=&quot;Context from HubSpot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Feel free to reach out to support@7targets.com for any help required in setup&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;how-it-works&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;how-it-works&quot;&gt;&lt;a href=&quot;#how-it-works&quot;&gt;How it works&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;After the contact in Hubspot is assigned to the Assistant user in Hubspot, Assistant will own it for nurturing. Assistant will use the default Schedule and Context as configured in 7Targets.&lt;/li&gt;
+  &lt;li&gt;Assistant will leave a note of confirmation like below image for the assigned contact.
+&lt;img src=&quot;../../images/hubspot-7targets-confirmation-note.png&quot; alt=&quot;Confirmation Note from Assistant&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;All the emails that Assistant sends or receives are logged in Hubspot too. Like in below image. 
+&lt;img src=&quot;../../images/hubspot-7targets-email.png&quot; alt=&quot;Logged Email by Assistant&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;After Assistant is done with her work, the contact is assigned back to the previous Contact owner. For example, if there is a response from the lead, then Assistant will stop further emails and assign it back to the previous owner.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I provide the context from Hubspot while assigning the contact to the assistant?&lt;/strong&gt;&lt;br /&gt;
+Yes. 7Targets adds a &lt;code class=&quot;highlighter-rouge&quot;&gt;Context&lt;/code&gt; field to the Hubspot Contact and you can provide the value for it from Hubspot. If a value is provided then Assistant uses that instead of the default Context.&lt;br /&gt;
+&lt;strong&gt;Can I see the 7Targets Lead status in Hubspot?&lt;/strong&gt;&lt;br /&gt;
+Yes. 7Targets adds a field &lt;code class=&quot;highlighter-rouge&quot;&gt;Lead Connection Status&lt;/code&gt; to the Hubspot Contact and Assistant will keep it updated as the lead turn from Cold to Warm to Hot. You can add this field to your view or filter on it as required.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;state-mapping-with-husbpot&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;lead-state-to-hubspot-contact-state-mapping&quot;&gt;&lt;a href=&quot;#state-mapping-with-husbpot&quot;&gt;Lead State to Hubspot Contact State Mapping&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Assistant update the Hubspot Contact Status and Lead Connection Status as per the below mapping:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;7Targets Lead State&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Hubspot Contact Status&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Lead Connection Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Cold&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;IN_PROGRESS&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Cold&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Engaged&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;IN_PROGRESS&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Engaged&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Warm&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;IN_PROGRESS&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Warm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;OutOfOffice&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;IN_PROGRESS&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;OutOfOffice&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Hot&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CONNECTED&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Hot&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Responded&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CONNECTED&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Responded&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;UnSubscribed&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;UNQUALIFIED&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;UnSubscribed&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DeActivated&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;UNQUALIFIED&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DeActivated&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LeadAtRisk&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CONNECTED&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LeadAtRisk&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Processed&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;QUALIFIED&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Processed&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pending&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;In_Progress&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pending&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;New&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;NEW&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;New&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;questions-answered&quot;&gt;Questions answered&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;How do I integrate with Hubspot CRM?&lt;/li&gt;
+  &lt;li&gt;What are the setup steps Hubspot CRM ?&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">What you get 7Targets AI Sales Assistant is created as a user in HubSpot CRM. Contacts/Leads from HubSpot CRM can be assigned to 7Targets AI Sales Assistant directly within HubSpot CRM. AI Assistant will then own the lead, communicate and nurture to try and get the meeting. Assistant will update the communication details (email, task) in HubSpot for each contact Assistant is nurturing.</summary></entry><entry><title type="html">Subscription</title><link href="http://localhost:4000/manage-org/organization-subscription/" rel="alternate" type="text/html" title="Subscription" /><published>2020-02-14T00:00:00+00:00</published><updated>2020-02-14T00:00:00+00:00</updated><id>http://localhost:4000/manage-org/organization-subscription</id><content type="html" xml:base="http://localhost:4000/manage-org/organization-subscription/">&lt;p&gt;&lt;a name=&quot;subscription-plan&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;subscription-and-plan&quot;&gt;&lt;a href=&quot;#subscription-pla&quot;&gt;Subscription and Plan&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;You would see the Plan that you are subscribed to under Setting-&amp;gt;Plan.&lt;/p&gt;
+
+&lt;p&gt;There are monthly and yearly plans. Based on your subscribed plan you would be allowed to add those many leads in that period.&lt;/p&gt;
+
+&lt;p&gt;You can always change the plan from same place.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions-answered&quot;&gt;Questions answered&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Can you help me out with subscription details ?&lt;/li&gt;
+  &lt;li&gt;Where can I find the existing plan details ?&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">Subscription and Plan You would see the Plan that you are subscribed to under Setting-&amp;gt;Plan.</summary></entry><entry><title type="html">Custom Message</title><link href="http://localhost:4000/manage-org/organization-custom-message/" rel="alternate" type="text/html" title="Custom Message" /><published>2020-02-13T00:00:00+00:00</published><updated>2020-02-13T00:00:00+00:00</updated><id>http://localhost:4000/manage-org/organization-custom-message</id><content type="html" xml:base="http://localhost:4000/manage-org/organization-custom-message/">&lt;p&gt;&lt;a name=&quot;custom-messages&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;custom-messages&quot;&gt;&lt;a href=&quot;#custom-messages&quot;&gt;Custom Messages&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Custom Message give you the ability to write your own message and make it part of a schedule, so that Assistant can use that instead of generating or writing.&lt;br /&gt;
+We recommend to let the Assistant write or generate the followup messages at-least, if not the first message. As Assistant will write different message for each lead.&lt;/p&gt;
+
+&lt;p&gt;There are some out of the box custom messages (e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;post proposal msg&lt;/code&gt;) which you can use but not change. One can edit only those custom messages which are created by him/her. If you want to change something from a message which cannot be edited by you, then clone that message and create your own.&lt;/p&gt;
+
+&lt;h2 id=&quot;personalization&quot;&gt;Personalization&lt;/h2&gt;
+&lt;p&gt;Custom message and subject can be personalized by using parameters. Available parameters are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lead First Name&lt;/li&gt;
+  &lt;li&gt;LeAd Last Name&lt;/li&gt;
+  &lt;li&gt;Lead Designation&lt;/li&gt;
+  &lt;li&gt;Lead Phone Number&lt;/li&gt;
+  &lt;li&gt;Lead Company&lt;/li&gt;
+  &lt;li&gt;Lead Industry&lt;/li&gt;
+  &lt;li&gt;Organisation Name&lt;/li&gt;
+  &lt;li&gt;Organisation Website&lt;/li&gt;
+  &lt;li&gt;Assistant Name&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One e.g. of the Personalization is, using Assistant name in the Subject or message of a Custom Message which is used by across the Org my multiple users.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions-answered&quot;&gt;Questions answered&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;I am unable to edit &lt;code class=&quot;highlighter-rouge&quot;&gt;post proposal msg&lt;/code&gt;. Kindly advice.&lt;/li&gt;
+  &lt;li&gt;While creating custom message, if there is some content that needs to be picked from company name of the person or lead, can that be done?&lt;/li&gt;
+  &lt;li&gt;Can I insert or send an image in the message ?&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">Custom Messages Custom Message give you the ability to write your own message and make it part of a schedule, so that Assistant can use that instead of generating or writing. We recommend to let the Assistant write or generate the followup messages at-least, if not the first message. As Assistant will write different message for each lead.</summary></entry><entry><title type="html">Schedule Sequence</title><link href="http://localhost:4000/manage-org/organization-schedule/" rel="alternate" type="text/html" title="Schedule  Sequence" /><published>2020-02-12T00:00:00+00:00</published><updated>2020-02-12T00:00:00+00:00</updated><id>http://localhost:4000/manage-org/organization-schedule</id><content type="html" xml:base="http://localhost:4000/manage-org/organization-schedule/">&lt;p&gt;&lt;a name=&quot;schedule-sequence&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;schedule-sequence&quot;&gt;&lt;a href=&quot;#schedule-sequence&quot;&gt;Schedule Sequence&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Schedule Sequence&lt;/code&gt; helps you decide how you want the assistant to followup. i.e.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;how many followups&lt;/li&gt;
+  &lt;li&gt;days between each followups&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Assistant comes with two default schedules &lt;code class=&quot;highlighter-rouge&quot;&gt;Recommended&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Recommended for Email CC&lt;/code&gt;. 
+You can clone from one of these schedules and create a new one, providing an appropriate name and description.&lt;/p&gt;
+
+&lt;p&gt;Leads from different geographies would need different followups. for e.g. it may be OK to followup 7 times for leads in Americas but for Europe we recommend not more than 4 times. Custom schedule gives you the ability to pick the number of followups and the days between each appropriately, along with the messages to be sent on each followup.&lt;/p&gt;
+
+&lt;p&gt;You may want to create a custom message for your first email. We recommend to use the tone based generated emails for the followup as they are short and to the point.&lt;br /&gt;
+The followup emails will continue to retain the first email to keep the context, having short emails for followups is recommended if you intend to write your own followup messages too.&lt;/p&gt;
+
+&lt;p&gt;To create or use an existing custom message you can select the &lt;code class=&quot;highlighter-rouge&quot;&gt;Message Type&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;Custom message&lt;/code&gt; for that particular followup. Then select an existing message of &lt;code class=&quot;highlighter-rouge&quot;&gt;Create New&lt;/code&gt; for the Message column.&lt;br /&gt;
+While creating or editing a message you can add more followups or reduce by deleting the followup rows.&lt;/p&gt;
+
+&lt;p&gt;Please note that any change the existing schedule would take effect for the leads it is used for.&lt;/p&gt;
+
+&lt;p&gt;Schedule is accessible to other users in the org to use, they cannot edit it though.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions-answered&quot;&gt;Questions answered&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;How do I add my custom schedule with custom message ?&lt;/li&gt;
+  &lt;li&gt;How many follow ups should I use ?&lt;/li&gt;
+  &lt;li&gt;If I change a in use schedule for number of followups or custom messages will it effect existing leads?&lt;/li&gt;
+  &lt;li&gt;Can I use schedule created by my team member ?&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">Schedule Sequence Schedule Sequence helps you decide how you want the assistant to followup. i.e. how many followups days between each followups</summary></entry><entry><title type="html">Invite Team</title><link href="http://localhost:4000/manage-org/organization-users/" rel="alternate" type="text/html" title="Invite Team" /><published>2020-02-11T00:00:00+00:00</published><updated>2020-02-11T00:00:00+00:00</updated><id>http://localhost:4000/manage-org/organization-users</id><content type="html" xml:base="http://localhost:4000/manage-org/organization-users/">&lt;p&gt;&lt;a name=&quot;organization-users&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;organization-users&quot;&gt;&lt;a href=&quot;#organization-users&quot;&gt;Organization Users&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;As an org admin you would be able to invite other users from your organization. Go to &lt;code class=&quot;highlighter-rouge&quot;&gt;Settings-&amp;gt;Org Users&lt;/code&gt; to see a list of users in your Organization.&lt;/p&gt;
+
+&lt;p&gt;You would be able invite other users to the org from here. As well resend the invitation email if required.&lt;/p&gt;
+
+&lt;p&gt;You would be able to make other user Org admin too. 
+Org Admin have below extra functionalities above a normal user:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;invite user to the org&lt;/li&gt;
+  &lt;li&gt;make another user an org admin&lt;/li&gt;
+  &lt;li&gt;remove user from the org&lt;/li&gt;
+  &lt;li&gt;see leads and dashboard of assistant of all the users in the org&lt;/li&gt;
+  &lt;li&gt;ability to see and edit an assistant&lt;/li&gt;
+  &lt;li&gt;assign or add leads to some other user’s assistant&lt;/li&gt;
+  &lt;li&gt;edit leads of some other user’s assistant&lt;/li&gt;
+  &lt;li&gt;select, activate and change the plan for the organization as required&lt;/li&gt;
+  &lt;li&gt;ability to integrate with CRM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When any user leave the organization, you would be able to remove that user from 7Targets too.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions-answered&quot;&gt;Questions answered&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;How do I invite other users from the organization ?&lt;/li&gt;
+  &lt;li&gt;How do i go about setting them up? I have invited one user already from the team to experiment ?&lt;/li&gt;
+  &lt;li&gt;What are the extra functionalities and features available to an organization admin ?&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>7Targets Team</name><email>info@7targets.com</email></author><summary type="html">Organization Users As an org admin you would be able to invite other users from your organization. Go to Settings-&amp;gt;Org Users to see a list of users in your Organization.</summary></entry></feed>
