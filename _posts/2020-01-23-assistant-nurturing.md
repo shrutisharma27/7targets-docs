@@ -16,8 +16,7 @@ It is important to provide vertical specific knowledge in bit size information t
 
 Assistant will use add one row at a time in PS section of the email sent by the assistant from the second email onwards. 
 
-<a name="nurture"/>
-## [Nurture](#nurture)
+## Nurture
 Nurture table gives you an opportunity to get a 100% problem area coverage for your leads. Each lead may get engaged with some specific problem area. 
 
 Your customer success stories, data sheets, ROI sheets, videos, etc can become part of the nurturing table. 

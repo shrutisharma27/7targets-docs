@@ -5,7 +5,7 @@ description: Integrate with Pipedrive
 type: Document
 sidebar:
   - {id: what-you-get, text: What you get}
-  - {id: enabling-7Targets, text: Authorize Pipedrive for 7Targets}
+  - {id: authorize-pipedrive-for-7targets, text: Authorize Pipedrive for 7Targets}
 categories:
   - integrate
 ---
@@ -18,8 +18,7 @@ One **important** point to note, as soon as the AI Assistant receives a response
 
 For onboarding your AI Assistant on Pipedrive please reach out to support@7targets.com
 
-<a name="Enabling 7Targets from Pipedrive Marketplace"/>
-## [Authorize Pipedrive for 7Targets](#enabling-7Targets)
+## Authorize Pipedrive for 7Targets
 **Authorize Pipedrive** by clicking this link [authorize](https://solution.7targets.com/hubspot-pipedrive){:target="_blank" rel="noopener"}. Once Authorization is complete follow below steps for further configuration before it is ready to be used. 
 
 1. Create your assistant in 7Targets if not already created. Provide the default values for context and other variables at the Assistant level by editing the Assistant.  
