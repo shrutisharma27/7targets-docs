@@ -3,6 +3,10 @@ date: 2020-01-13
 title: Lead Responses
 description: Lead Responses
 type: Document
+sidebar:
+  - {id: lead-responses), text: Lead Responses}
+  - {id: lead-state, text: Lead State}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - assigning-leads
 ---

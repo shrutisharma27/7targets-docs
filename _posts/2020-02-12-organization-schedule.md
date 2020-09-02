@@ -3,6 +3,9 @@ date: 2020-02-12
 title: Schedule  Sequence 
 description: Manage Schedule Sequence
 type: Document
+sidebar:
+  - {id: schedule-sequence, text: Schedule Sequence}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - manage-org
 ---

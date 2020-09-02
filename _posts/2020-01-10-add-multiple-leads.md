@@ -4,6 +4,14 @@ title: Add Multiple Leads
 video_id: jrO-Ite3CTA
 description: Add Multiple Leads
 type: Video
+sidebar:
+  - {id: add-multiple-leads, text: Add Multiple Leads}
+  - {id: additional-information, text: Additional Information}
+  - {id: schedule-sequence, text: Schedule Sequence}
+  - {id: add-multiple-leads, text: Add Multiple Leads}
+  - {id: custom-email-subject, text: Custom Email Subject}
+  - {id: ways-to-assign-lead, text: Ways to Assign Lead}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - assigning-leads
 # set: getting-started
@@ -12,8 +20,7 @@ categories:
 
 Lead can be from various sources and can have different context too. Based on the source and the context of the lead, the Assistant writes short and simple emails to the lead.
 
-<a name="add-multiple-leads"/>
-## [Add Multiple Leads](#add-multiple-leads)
+## Add Multiple Leads
 To add multiple leads, provide an excel sheet in the format specified in sample excel. Each row would represent one lead and the first row is the title row. 
 
 `Intelli Import` is a feature where Assistant will try and read the excel in your existing format, to save you the hassle of converting it to the expected format. 
@@ -28,8 +35,7 @@ Clicking on the `Added count` will take you the lead list of those leads added f
 
 Lead once added can not be deleted. 
 
-<a name="additional-information"/>
-## [Additional Information](#additional-information)
+## Additional Information
 Additional information is intended to provide more context and details to the lead about your company offerings. Assistant will use this information in emails. 
 
 <a name="schedule-sequence"/>

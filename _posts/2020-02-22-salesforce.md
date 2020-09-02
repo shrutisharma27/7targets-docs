@@ -3,6 +3,8 @@ date: 2020-02-22
 title: Salesforce  
 description: Integrate with Salesforce 
 type: Document
+sidebar:
+  - {id: what-you-get, text: What you get}
 categories:
   - integrate
 ---

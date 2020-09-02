@@ -4,6 +4,10 @@ title: Assistant Details
 video_id: ELaE7f0mi4A
 description: Assistant Behavior, Profile and  Defaults
 type: Video
+sidebar:
+  - {id: assistant-profile, text: Assistant Profile}
+  - {id: multiple-assistants, text: Multiple Assistants}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - getting-responses
 ---

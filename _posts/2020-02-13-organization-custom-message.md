@@ -3,6 +3,10 @@ date: 2020-02-13
 title: Custom Message 
 description: Custom Message for Custom Schedule
 type: Document
+sidebar:
+  - {id: custom-messages, text: Custom Messages}
+  - {id: personalization, text: Personalization}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - manage-org
 ---

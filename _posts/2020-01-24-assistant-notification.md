@@ -3,6 +3,9 @@ date: 2020-01-24
 title: Notifications
 description: Assistant Notification Preference
 type: Document
+sidebar:
+  - {id: notification-preference, text: Notification Preference}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - getting-responses
 ---

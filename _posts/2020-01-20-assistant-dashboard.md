@@ -3,6 +3,8 @@ date: 2020-01-20
 title: Dashboard
 video_id: WXGO0Ghh8nM
 description: Assistant Dashboard
+sidebar:
+  - {id: questions-answered, text: Questions answered}
 type: Video
 categories:
   - getting-responses

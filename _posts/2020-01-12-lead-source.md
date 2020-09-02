@@ -4,6 +4,9 @@ title: Lead Source
 video_id: fjxr-YvxGYU
 description: Lead Source
 type: Video
+sidebar:
+  - {id: lead-source), text: Lead Source}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - assigning-leads
 ---
