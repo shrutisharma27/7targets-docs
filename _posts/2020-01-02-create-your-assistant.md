@@ -4,14 +4,16 @@ title: Create your Assistant
 video_id: MLClL11S8gk
 description: Create your Virtual Assistant 
 type: Video
+sidebar:
+  - {id: add-assistant, text: Add Assistant}
+  - {id: questions-answered, text: Questions answered}
 categories:
   - getting-started
 set: getting-started
 set_order: 2
 ---
 
-<a name="add-assistant"/>
-## [Add Assistant](#add-assistant)
+## Add Assistant
 
 Your Assistant is identified by name, email address and title. It is `recommended to have a geography specific name` for better connect with your leads, for e.g. Ashley or John will be able to connect better in the Americas. You can always change the name later.
 
