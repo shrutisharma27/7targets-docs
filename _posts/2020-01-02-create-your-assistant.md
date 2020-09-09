@@ -6,6 +6,7 @@ description: Create your Virtual Assistant
 type: Video
 sidebar:
   - {id: add-assistant, text: Add Assistant}
+  - {id: use-exchange-server, text: Use Exchange Server}
   - {id: questions-answered, text: Questions answered}
 categories:
   - getting-started
@@ -27,7 +28,7 @@ Some of our customers use the Assistant title as â€œExecutive Assistant to selfâ
 
 Click the button to create your Assistant and go to the next step.
 
-## Use your Exchange Server
+## Use Exchange Server
 While adding or creating Assistant, there is an option `I want to use my own domain`. On clicking it, you would be asked to authorize the email/account you want to use for the Assistant being created. 
 
 Assistant will send emails from ths email id using the authorized account. As well Assistant will email responses received and act accordingly. 
