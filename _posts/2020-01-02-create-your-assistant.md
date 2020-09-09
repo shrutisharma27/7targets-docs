@@ -27,9 +27,17 @@ Some of our customers use the Assistant title as â€œExecutive Assistant to selfâ
 
 Click the button to create your Assistant and go to the next step.
 
+## Use your Exchange Server
+While adding or creating Assistant, there is an option `I want to use my own domain`. On clicking it, you would be asked to authorize the email/account you want to use for the Assistant being created. 
+
+Assistant will send emails from ths email id using the authorized account. As well Assistant will email responses received and act accordingly. 
+
+If you need a specific email id for your assistant then create one in your Exchange account and use that while creating an Assistant. 
+
 ## Questions answered
 - What should be the Assistant name ? 
 - Can I change Assistant name later ?
 - What should be the Assistant title ? 
 - Can I change the Assistant signature later ? 
+- Can I use my email or my domain as Assistant Email ?
 
