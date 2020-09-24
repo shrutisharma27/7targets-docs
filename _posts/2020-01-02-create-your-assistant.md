@@ -29,9 +29,11 @@ Some of our customers use the Assistant title as â€œExecutive Assistant to selfâ
 Click the button to create your Assistant and go to the next step.
 
 ## Use Exchange Server
-While adding or creating Assistant, there is an option `I want to use my own domain`. On clicking it, you would be asked to authorize the email/account you want to use for the Assistant being created. 
+If you want your Assistant to send email from your company domain instead of `yourcompany.7ts-e.com` then you can use this features.  
 
-Assistant will send emails from this email id using the authorized account. As well Assistant will read the email responses received and act accordingly. 
+While creating Assistant, there is an option `I want to use my own domain`. On clicking it, you would be asked to authorize the email/account you want to use for the Assistant being created. This will be Assistant's email id. 
+
+Assistant will send emails from using this authorized account. As well, Assistant will read the email responses received on this email address. 
 
 If you need a specific email id for your assistant then create one in your Exchange account and use that to authorize while creating an Assistant. 
 
