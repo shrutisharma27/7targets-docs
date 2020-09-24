@@ -6,6 +6,7 @@ type: Document
 sidebar:
   - {id: custom-messages, text: Custom Messages}
   - {id: personalization, text: Personalization}
+  - {id: image-in-email, text: Image in Email}
   - {id: questions-answered, text: Questions answered}
 categories:
   - manage-org
@@ -31,6 +32,12 @@ Custom message and subject can be personalized by using parameters. Available pa
 - Assistant Name
 
 One e.g. of the Personalization is, using Assistant name in the Subject or message of a Custom Message which is used by across the Org my multiple users. 
+
+## Image in Email
+While text emails give a personal human like touch to the emails, at times you may want to include an image in the email being send by the assistant. You can do so.  
+While creating or editing the custom message, click on the image icon in the tool bar, select your image and the image will be inserted at the place of your cursor. 
+
+We recommend to keep the image size small (like less than 200 KB). As well, the dimensions of the image to not more than 700X400, so that the image when visible to the lead does nto take the whole screen.
 
 ## Questions answered
 - I am unable to edit `post proposal msg`. Kindly advice.
