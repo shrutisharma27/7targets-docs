@@ -24,8 +24,12 @@ The WhatsApp notification for Response received and Warm leads is only on one ph
 ## Some notifications explained
 Most of the notifications are self explanatory but below are few which may need explanation:
 
-`Lead At Risk` notification is send by the Assistant to notify you of the leads who have responded and you have possibly not got back to them or you have not let the Assistant know that you reached out to the lead. Assistant can introduce you to the lead by using the `Introduce Me` action. If you reply the lead after this introduce me email, keeping Assistant in CC then Assistant will know that you have reached out to that lead and would not mark it as Lead at Risk, and will not notify/remind you.
+`Lead At Risk` notification. The Goal is to ensure that leads who have responded should not fall through the cracks.   
 
+As a sales person, you need to respond back to the lead within 24 hours, otherwise that lead is marked as LeadAtRisk.   
+If you already responded, you can click on the link in the email and mark the lead as `Not at risk`.  
+If you don't do that, the Assistant will continue to remind you to work on this lead every 3 days.  
+You can change the duration of reminders, if she is not a big account for you.  
 
 ## Questions answered
 - How can I notify other email ids of Warm, Hot or other details ?
