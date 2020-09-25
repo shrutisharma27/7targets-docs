@@ -29,7 +29,7 @@ Most of the notifications are self explanatory but below are few which may need 
 As a sales person, you need to respond back to the lead within 24 hours, otherwise that lead is marked as LeadAtRisk.   
 If you already responded, you can click on the link in the email and mark the lead as `Not at risk`.  
 If you don't do that, the Assistant will continue to remind you to work on this lead every 3 days.  
-You can change the duration of reminders, if she is not a big account for you.  
+You can change the duration of reminders.  
 
 ## Questions answered
 - How can I notify other email ids of Warm, Hot or other details ?
