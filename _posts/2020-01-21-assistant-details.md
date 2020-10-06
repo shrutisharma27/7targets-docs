@@ -32,9 +32,13 @@ At present you cannot add a image/logo to the signature.
 <a name="assistant-defaults"/>
 
 ## [Assign Assistant to User](#assistant-assign)  
-Assistant being specific to an industry and offering can be used by multiple users in your organization. As an org admin, after a user is invited in 7Targets, you can assign an existing assistant to that user. This user would be then able to use this assistant and need not create a new one unless required. This makes sure that the knowledge and expertise of the assistant is maintained and used by multiple users.
+Assistant being specific to an industry and offering can be used by multiple users in your organization. 
 
-Each user would see his/her own leads only unless you are an org admin. 
+As an org admin, after a user is invited in 7Targets, you can assign an existing assistant to that user. This user would be able to use the assistant and need not create a new one unless required. 
+
+This helps make sure that the knowledge and expertise of the assistant is maintained and used by multiple users.
+
+Each user would see his/her own leads only, unless user is an org admin. 
 
 ## [Assistant Default](#assistant-defaults)
 Assistant has many defaults which are self explanatory. Some of the important ones are mentioned below:
