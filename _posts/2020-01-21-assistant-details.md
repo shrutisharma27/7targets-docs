@@ -29,6 +29,12 @@ Leads see Name, Email, Phone Number and Signature of the Assistant and these can
 At present you cannot add a image/logo to the signature. 
 
 <a name="assistant-defaults"/>
+
+## [Assign Assistant to User](#assistant-assign)  
+Assistant being specific to an industry and offering can be used by multiple users in your organization. As an org admin, after a user is invited in 7Targets, you can assign an existing assistant to that user. This user would be then able to use this assistant and need not create a new one unless required. This makes sure that the knowledge and expertise of the assistant is maintained and used by multiple users.
+
+Each user would see his/her own leads only unless you are an org admin. 
+
 ## [Assistant Default](#assistant-defaults)
 Assistant has many defaults which are self explanatory. Some of the important ones are mentioned below:
 
@@ -52,4 +58,6 @@ We recommend to have `geography and vertical specific` assistants. So that the a
 - Why and when should I use multiple assistants ? 
 - Should I invite user to 7Targets or create an assistant for that user. Cannot assign assistant from one user to other ?
 - What is send time optimization ?
+- Can I share my assistant with other users of my org ? 
+- Can other users in my org use the same assistant ? 
 
