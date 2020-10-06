@@ -6,6 +6,7 @@ description: Assistant Behavior, Profile and  Defaults
 type: Video
 sidebar:
   - {id: assistant-profile, text: Assistant Profile}
+  - {id: assistant-assign, text: Assign to User}
   - {id: multiple-assistants, text: Multiple Assistants}
   - {id: questions-answered, text: Questions answered}
 categories:
