@@ -31,7 +31,7 @@ Assistant will categorize the leads in various states based on the followups and
 `Engaged` lead is someone who has opened 1 or more emails.  
 `Processed` followup is completed as per the schedule and there was no response from the lead.    
 `Out of office` received an out of office from the lead. Assistant will restart the followup after lead returns back to office.  
-`Deactivated` lead responded back asking to stop sending emails.   
+`Deactivated` lead responded back asking to stop sending emails. Lead email id is invalid as verified by the assistant. Email sent to the lead bounced. 
 `Unsubscribed` lead used the unsubscribed link in the email or responded asking to unsubscribe.   
 `Responded` state for the lead conveys that there is some response from the lead and Assistant was not able to categorize it to one of the above.  
 `Pending` means Assistant is still validating the email address of the lead.  
