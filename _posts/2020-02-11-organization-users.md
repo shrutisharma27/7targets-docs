@@ -18,6 +18,7 @@ You would be able invite other users to the org from here. As well resend the in
 You would be able to make other user Org admin too. 
 Org Admin have below extra functionalities above a normal user:
 - invite user to the org
+- Assign Assistant to the  user while inviting the user to the org
 - make another user an org admin
 - remove user from the org
 - see leads and dashboard of assistant of all the users in the org
@@ -33,3 +34,4 @@ When any user leave the organization, you would be able to remove that user from
 - How do I invite other users from the organization ?
 - How do i go about setting them up? I have invited one user already from the team to experiment ?
 - What are the extra functionalities and features available to an organization admin ?
+- Can I assign an existing assistant to the invited user ? 
