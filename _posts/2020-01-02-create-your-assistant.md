@@ -7,6 +7,7 @@ type: Video
 sidebar:
   - {id: add-assistant, text: Add Assistant}
   - {id: use-exchange-server, text: Use Exchange Server}
+  - {id: use-gmail, text: Use Gmail}
   - {id: questions-answered, text: Questions answered}
 categories:
   - getting-started
@@ -36,6 +37,18 @@ While creating Assistant, there is an option `I want to use my own domain`. On c
 Assistant will send emails from using this authorized account. As well, Assistant will read the email responses received on this email address. 
 
 If you need a specific email id for your assistant then create one in your Exchange account and use that to authorize while creating an Assistant. 
+
+## Use Gmail
+If you want your Assistant to send email from your company domain instead of `<yourcompany>.7ts-e.com` and your company domain email is on GMAIL for Business, then you can use this feature.  
+
+While creating Assistant, there is an option `I want to use my own domain`. On clicking it, you would be asked to authorize the gmail account you want to use for the Assistant. The authorized account will be Assistant's email id. 
+
+After authorizing, you have to configure below mentioned step:
+1. Configure auto forwarding `(Under Gmail Settings->All Settings->Forwarding and POP/IMAP)` for the Gmail account you authorized. The auto forward is to send the received emails to assistant. The email to auto forward to, can be copied from the Add Assistant page. This enables the assistant to read the received emails and take appropriate action. 
+
+Assistant will send emails from using this authorized account. As well, Assistant will read the email responses received on this email address. 
+
+If you need a specific email id for your assistant then create one in your Business Gmail account and use that to authorize while creating an Assistant. 
 
 ## Questions answered
 - What should be the Assistant name ? 
