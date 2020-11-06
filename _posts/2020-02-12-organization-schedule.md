@@ -31,8 +31,11 @@ Please note that any change the existing schedule would take effect for the lead
 
 Schedule is accessible to other users in the org to use, they cannot edit it though. 
 
+If you want to delete a specific schedule, you have to click on the delete icon which comes up on hover of the specific schedule in the schedule drop down list. System provided schedules cannot be deleted, so the delete icon will not come in front of them.
+
 ## Questions answered
 - How do I add my custom schedule with custom message ?
 - How many follow ups should I use ?
+- How can we delete schedules ?
 - If I change a in use schedule for number of followups or custom messages will it effect existing leads?
 - Can I use schedule created by my team member ? 
