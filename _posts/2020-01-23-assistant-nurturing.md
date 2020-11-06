@@ -5,6 +5,7 @@ description: Assistant Nurture Table
 type: Document
 sidebar:
   - {id: nurture, text: Nurture}
+  - {id: copy-to-assistant, text: Copy to Assistant}
   - {id: questions-answered, text: Questions answered}
 categories:
   - getting-responses
@@ -29,6 +30,10 @@ Some best practices around nurturing table are:
 - Use simple words
 - Use a https:// URL
 - Make sure that the URL used is valid and is working
+
+## Copy to Assistant
+Ability to copy an existing Nurturing table from one assistant to another is available on the Nurture page. On click of `Copy to Assistant` button you would be presented with list of assistant to pick from.    
+The copied Nurturing table rows would be added to the selected Assistant's Nurturing table.
 
 ## Questions answered
 - Why do I use Nurture Table ?
