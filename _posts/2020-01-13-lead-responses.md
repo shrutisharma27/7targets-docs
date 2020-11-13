@@ -13,15 +13,27 @@ categories:
 
 <a name="lead-responses"/>
 ## [Lead Responses](#lead-responses)
+What will the Assistant do when a response is received?  
 Emails responses are read by the Assistant and would try and decide the email intent.  
 
-The machine learning model/s tries to identify if the response conveys an 
+The machine learning model/s tries to identify the response to one of the below. 
 - out of office or 
 - asks to stops sending any further emails or 
 - agrees to have a meeting at a particular day or
 - requests for brochure  
+- request to check back later
  
-helping the assistant take right action and update the lead state.
+This helps the assistant take right action and update the lead state.  
+Some examples are mentioned below:
+
+| Response | Inference | Action | 
+|:-------|:--------|:--------|
+| I am out of office for 2 weeks. If urgent ...  | Lead is Out of office.  | Connect when lead is back after 2 weeks  |
+| I am not the right person. Please don't email me. | Wrong Lead | Stop further Communication |
+| Please send me your brochure. | Warm Lead| Send the email with brochure immediately |
+| Send me your company profile. | Warm Lead| Send the email with brochure immediately |
+| Setup a meeting for tomorrow 5 PM | Hot Lead | Forward email thread to Sales. Notify Sales on Phone. Remind sales after 24hrs to avoid this lead being dropped |
+| We are busy in some other priorities right now. Lets talk sometime in Jan. | Warm Lead | Check back with the lead in Jan |
 
 ## [Lead State](#lead-state)
 Assistant will categorize the leads in various states based on the followups and responses. Various possible state are:   

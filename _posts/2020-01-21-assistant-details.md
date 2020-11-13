@@ -8,7 +8,6 @@ sidebar:
   - {id: assistant-profile, text: Assistant Profile}
   - {id: assign-assistant-to-user, text: Assign to User}
   - {id: multiple-assistants, text: Multiple Assistants}
-  - {id: response-handling, text: Response Handling}
   - {id: questions-answered, text: Questions answered}
 categories:
   - getting-responses
@@ -55,20 +54,6 @@ Assistant has many defaults which are self explanatory. Some of the important on
 You can create multiple assistants for yourself. Assistants cannot be shared or assigned to other users in the Org. 
 
 We recommend to have `geography and vertical specific` assistants. So that the assistant is trained for nurturing the leads of that vertical with specific nurturing material.
-
-## [Response Handling](#response-handling)
-What will the Assistant do when a response is received?  
-Assistant reads the response received, infers and take various actions based on the response. Some examples are mentioned below:
-
-| Response | Inference | Action | 
-|:-------|:--------|:--------|
-| I am out of office for 2 weeks. If urgent ...  | Lead is Out of office.  | Connect when lead is back after 2 weeks  |
-| I am not the right person. Please don't email me. | Wrong Lead | Stop further Communication |
-| Please send me your brochure. | Warm Lead| Send the email with brochure immediately |
-| Send me your company profile. | Warm Lead| Send the email with brochure immediately |
-| Setup a meeting for tomorrow 5 PM | Hot Lead | Forward email thread to Sales. Notify Sales on Phone. Remind sales after 24hrs to avoid this lead being dropped |
-| We are busy in some other priorities right now. Lets talk sometime in Jan. | Warm Lead | Check back with the lead in Jan |
-
 
 ## Questions answered
 - Can I add logo in the signature ?
