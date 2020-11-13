@@ -37,8 +37,8 @@ How the assistant approaches the Lead Nurturing?
 Some fine points to note what the Assistant does for proper Nurturing.  
 - Assistant will try and `optimize the time to send the emails` based on the time the email is typically read by the lead.
 - Assistant will `not send the email when the lead is Out of Office`. Assistant can read and understand the Out of office emails and changes the next email send time appropriately to avoid sending any emails when the lead is Out of office
-- Assistant will write small emails and all the success stories, testimonials, etc from the Nurturing Table int he email as *PS:* section
-- Assistant can put the Cold/Warm and Processed leads on `Long Term Nurturing`. This schedule to use for this Long Term Nurturing is configurable via Preferences. 
+- Assistant will write `small emails and add one of the success stories`, testimonials, etc from the Nurturing Table in the email as *PS:* section
+- Assistant can put the Cold/Warm and Processed leads on `Long Term Nurturing`. The schedule to use for this Long Term Nurturing is configurable via Preferences. 
 
 ## Copy to Assistant
 Ability to copy an existing Nurturing table from one assistant to another is available on the Nurture page. On click of `Copy to Assistant` button you would be presented with list of assistant to pick from.    
@@ -48,3 +48,4 @@ The copied Nurturing table rows would be added to the selected Assistant's Nurtu
 ## Questions answered
 - Why do I use Nurture Table ?
 - What to write in Nurture table and in what order ?
+- Can I put a lead on long term nurturing after the initial nurturing is completed ? 

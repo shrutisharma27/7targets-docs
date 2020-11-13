@@ -53,3 +53,5 @@ Assistant will categorize the leads in various states based on the followups and
 - Why some leads are showing as Pending ?
 - Why some leads are showing as New ?
 - Why some leads are showing Deactivated ?
+- What will the Assistant do when a response is received ? 
+- When will the Assistant stop sending messages ? 
