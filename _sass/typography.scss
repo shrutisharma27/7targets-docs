@@ -28,6 +28,9 @@ input, label, select, textarea, table, header, footer, .categories, .listing, .s
 	font-family: "Open Sans", sans-serif;
 	text-rendering: geometricPrecision;
 }
+table,td,th{
+	border: 1px solid #000000;
+ }
 
 .categories a {
 	text-decoration: none;
