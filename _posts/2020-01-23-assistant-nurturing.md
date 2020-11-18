@@ -44,7 +44,6 @@ Some fine points to note what the Assistant does for proper Nurturing.
 Ability to copy an existing Nurturing table from one assistant to another is available on the Nurture page. On click of `Copy to Assistant` button you would be presented with list of assistant to pick from.    
 The copied Nurturing table rows would be added to the selected Assistant's Nurturing table.
 
-
 ## Questions answered
 - Why do I use Nurture Table ?
 - What to write in Nurture table and in what order ?
