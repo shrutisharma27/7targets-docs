@@ -30,10 +30,10 @@ Some examples are mentioned below:
 |:-------|:--------|:--------|
 | I am out of office for 2 weeks. If urgent ...  | Lead is Out of office.  | Connect when lead is back after 2 weeks  |
 | I am not the right person. Please don't email me. | Wrong Lead | Stop further Communication |
-| Please send me your brochure. | Warm Lead| Send the email with brochure immediately |
-| Send me your company profile. | Warm Lead| Send the email with brochure immediately |
-| Setup a meeting for tomorrow 5 PM | Hot Lead | Forward email thread to Sales. Notify Sales on Phone. Remind sales after 24hrs to avoid this lead being dropped |
-| We are busy in some other priorities right now. Lets talk sometime in Jan. | Warm Lead | Check back with the lead in Jan |
+| Please send me your brochure. | Warm Lead| Send the email with brochure immediately. Then stop further Communication |
+| Send me your company profile. | Warm Lead| Send the email with brochure immediately. Then ssstop further Communication |
+| Setup a meeting for tomorrow 5 PM | Hot Lead | Forward email thread to Sales. Notify Sales on Phone. Stop further Communication with the Lead. Remind sales after 24hrs to avoid this lead being dropped |
+| We are busy in some other priorities right now. Lets talk sometime in Jan. | Warm Lead | Set future communication in Jan. |
 
 ## [Lead State](#lead-state)
 Assistant will categorize the leads in various states based on the followups and responses. Various possible state are:   
