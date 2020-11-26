@@ -7,7 +7,7 @@ type: Video
 sidebar:
   - {id: assistant-profile, text: Assistant Profile}
   - {id: assign-assistant-to-user, text: Assign to User}
-  - {id: assistant-defaults, text: Assistant Defaults}
+  - {id: assistant-default, text: Assistant Defaults}
   - {id: multiple-assistants, text: Multiple Assistants}
   - {id: questions-answered, text: Questions answered}
 categories:
