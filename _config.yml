@@ -3,7 +3,7 @@
 
 title: 7Targets Help
 url: "https://help.7targets.com"
-baseurl: "https://help.7targets.com"
+baseurl:
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
