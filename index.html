@@ -14,7 +14,7 @@
 
 			<ul>
 				{% assign tutorials = posts | sort: "date" %}
-				{% for tutorial in tutorials limit: 5 %}
+				{% for tutorial in tutorials limit: 6 %}
 					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
 				{% endfor %}
 				{% if size > 6 %}
