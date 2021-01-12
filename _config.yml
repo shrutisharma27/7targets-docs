@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: 7Targets Help
-url: "https://help.7targets.com"
+title: The Eminence Co Help
+url: "https://help.theeminenceco.com"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -10,15 +10,10 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge Base for 7Targets AI Sales Assistant. Virtual SDR
+description: Knowledge Base for TEC AI Sales Assistant aka Virtual Sales Assistant
 author:
-  name: 7Targets Team
-  email: info@7targets.com
-  twitter: 7targets_
-social:
-  name: 7Targets Team
-  links:
-    - https://github.com/7targets/7targets-docs
+  name: The Eminence Co Team
+  email: support@theeminenceco.com
 
 # -----
 # Build
@@ -79,17 +74,16 @@ defaults:
       body_class: "show_hero_search"
 
 # -----------
-# 7Targets
 
 social_icons:
-  - Facebook
+  # - Facebook
   # - Google Plus
   # - Instagram
-  - LinkedIn
+  # - LinkedIn
   # - Pinterest
   # - Tumblr
-  - Twitter
-  - YouTube
+  # - Twitter
+  # - YouTube
   # - Email
   # - RSS
 

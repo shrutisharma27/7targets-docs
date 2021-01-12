@@ -3,7 +3,7 @@ date: 2020-01-12
 title: Lead Source
 video_id: fjxr-YvxGYU
 description: Lead Source
-type: Video
+type: Document
 sidebar:
   - {id: lead-source), text: Lead Source}
   - {id: questions-answered, text: Questions answered}
