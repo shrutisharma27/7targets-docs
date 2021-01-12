@@ -28,7 +28,7 @@ Org Admin have below extra functionalities above a normal user:
 - select, activate and change the plan for the organization as required
 - ability to integrate with CRM
 
-When any user leave the organization, you would be able to remove that user from TEC too. 
+When any user leave the organization, you would be able to remove that user from 7Targets too. 
 
 ## Questions answered
 - How do I invite other users from the organization ?

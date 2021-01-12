@@ -15,7 +15,7 @@ jobs:
       - name: Generate Jekyll Archives
         uses: 7targets/jekyll-blog-archive-workflow@master
         with:
-          archive_url: "https://help.theeminenceco.com/archives/archivedata.json"
+          archive_url: "https://help.7targets.com/archives/archivedata.json"
           archive_folder_path: "_archives"
 
       - name: setup git config

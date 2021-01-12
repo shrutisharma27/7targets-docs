@@ -5,7 +5,7 @@ video_id: WXGO0Ghh8nM
 description: Assistant Dashboard
 sidebar:
   - {id: questions-answered, text: Questions answered}
-type: Document
+type: Video
 categories:
   - getting-responses
 ---

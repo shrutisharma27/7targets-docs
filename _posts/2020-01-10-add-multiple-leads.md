@@ -3,7 +3,7 @@ date: 2020-01-10
 title: Add Multiple Leads
 video_id: 7QYZroRVb0A
 description: Add Multiple Leads
-type: Document
+type: Video
 sidebar:
   - {id: add-multiple-leads, text: Add Multiple Leads}
   - {id: additional-information, text: Additional Information}
@@ -48,7 +48,7 @@ Default schedule for the Assistant is selected, while you can change the Schedul
 ## [Custom Email Subject](#custom-email-subject)
 Assistant will generate the relevant email subject. This can be overwritten too, though we recommend to use the AI generated Subjects. 
 
-You can edit the Subject while adding the leads from the TEC UI. Click the `More button` in the email preview to see the `To, Cc and Subject` fields for you to type your own values. If you are using a custom message in a custom schedule, we recommend to have your Custom subject in the Custom message itself.
+You can edit the Subject while adding the leads from the 7Targets UI. Click the `More button` in the email preview to see the `To, Cc and Subject` fields for you to type your own values. If you are using a custom message in a custom schedule, we recommend to have your Custom subject in the Custom message itself.
 
 Assistant will use the same Subject line for each followup email, so that the all the emails are grouped together for the viewer. If you intend to have different subjects for each followup email then you will have to use custom message and each custom message in the schedule can have different custom subject too. 
 
@@ -61,8 +61,8 @@ Note that Assistant will keep the first email in all the followup emails so that
 <a name="ways-to-assign-lead"/>
 ## [Ways to Assign Lead](#ways-to-assign-lead)
 Leads can be added or assigned to the Assistant in multiple ways:
-- Add one lead at a time from TEC UI
-- Add multiple leads from TEC UI by uploading an excel file
+- Add one lead at a time from 7Targets UI
+- Add multiple leads from 7Targets UI by uploading an excel file
 - Copy or Cc your Assistant in the email you are sending to a lead. Have to enable this feature in Edit Assistant
 - If you are integrated with CRM, then assign the Lead/Contact from CRM to the Assistant User in CRM
 
