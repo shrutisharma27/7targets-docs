@@ -32,7 +32,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-archives
+  # - jekyll-archives
 
 exclude:
   - Gemfile
@@ -47,8 +47,8 @@ collections:
     permalink: /archives/:path/
 
 
-jekyll-archives:
-  enabled: ['categories']
+# jekyll-archives:
+#   enabled: ['categories']
 
 defaults:
   -
@@ -67,12 +67,6 @@ defaults:
       type: "sets"
     values:
       _hide_content: true
-  -
-    scope:
-      type: "archives"
-    values:
-      output: true
-      permalink: /archives/:path/
   -
     scope:
       path: "index.html"
