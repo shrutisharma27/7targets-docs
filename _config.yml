@@ -64,6 +64,11 @@ defaults:
       comments: true
   -
     scope:
+      type: "archives"
+    values:
+      layout: "archive-categories"
+  -
+    scope:
       type: "sets"
     values:
       _hide_content: true
