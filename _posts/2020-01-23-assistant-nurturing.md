@@ -1,8 +1,9 @@
 ---
 date: 2020-01-23
 title: Nurture 
+video_id : CqamBR3eMZ4
 description: Assistant Nurture Table
-type: Document
+type: Video
 sidebar:
   - {id: nurture, text: Nurture}
   - {id: nurturing-approach, text: Nurturing Approach}
