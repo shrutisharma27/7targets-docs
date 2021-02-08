@@ -31,8 +31,8 @@ Org Admin have below extra functionalities above a normal user:
 - select, activate and change the plan for the organization as required
 - ability to integrate with CRM
 
-## Remove user
-When any user leave your organization, you would be able to remove that user from 7Targets too.  
+## Remove users
+When users leave your organization, you would be able to remove those users from 7Targets too.  
 Go the Org Users page (`Settings->Org Users`), select the user you would want to remove. The leads of user being removed would have to assigned to the other user from your org, which you would have to select while removing the user.
 
 ## Questions answered
