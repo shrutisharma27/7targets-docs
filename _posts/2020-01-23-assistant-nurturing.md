@@ -13,11 +13,11 @@ categories:
   - getting-responses
 ---
 
-Nurture Table is knowledge given to the Assistant to be used in emails written to the leads so as to connect with the lead's problem area better.
+Nurture Table is knowledge given to the Assistant to be used in emails written to leads so as to connect with the lead's problem area better.
 
 It is important to provide vertical specific knowledge in bit size information to the lead to invoke the interest and get the lead engaged. Each row in the nurturing table presents a bit size information that you want to share with your leads. 
 
-Assistant will use add one row at a time in PS section of the email sent by the assistant. 
+Assistant will add one row at a time in PS section of the email sent by the assistant. 
 
 ## Nurture
 Nurture table gives you an opportunity to get a 100% problem area coverage for your leads. Each lead may get engaged with some specific problem area. 
