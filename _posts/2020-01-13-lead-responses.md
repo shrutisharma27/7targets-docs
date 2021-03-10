@@ -6,6 +6,7 @@ type: Document
 sidebar:
   - {id: lead-responses, text: Lead Responses}
   - {id: lead-state, text: Lead State}
+  - {id: teach-your-assistant, text: Teach your Assistant}
   - {id: questions-answered, text: Questions answered}
 categories:
   - assigning-leads
@@ -50,6 +51,17 @@ Assistant will categorize the leads in various states based on the followups and
 `Responded` state for the lead conveys that there is some response from the lead and Assistant was not able to categorize it to one of the above.  
 `Pending` means Assistant is still validating the email address of the lead.  
 `New` conveys that the lead added cannot be processed as you have used up your leads limit as per the plan. You can Restart these leads in the next period or upgrade your plan and then restart these leads now.  
+
+## Teach your Assistant
+Some of the responses may over fit or under fit the out-of-the-box ML model and the response received from the lead may get identified in a State which may not be most correct.  
+Some responses could be very specific to your industry and customer profile and so this may happen when out of the box ML model is used. 
+  
+**Assisted Learning** is the possible solution for above problem. You can provide specific terms from the response email and mention which sub_state and state it should be mapped to. This will be specific to your organisation, any response received will be passed through a rudimentary model created from this small amount of data.  
+* If there is a match with more than 90% confidence then that assisted learning mapping would be used. 
+* If more than one row matches with more than 90% confidence then the highest confidence mapping would be used.
+* If no row with 90% or more confidence matches then anyways the out of box model in 7Targets would be used.
+
+You would also see a note added mentioning which mapping was used from the Assisted Learning, if Assisted learning mapping is used.
 
 ## Questions answered
 - Why some leads are showing as Pending ?
