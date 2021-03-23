@@ -1,0 +1,74 @@
+---
+date: 2021-03-21
+title: How to Search and View your Lead
+video_id: JC2yJnBXzLM
+description: Search and view your lead for lead generation and nurturing
+type: How-to
+sidebar:
+  - {id: lead-list), text: Lead List}
+  - {id: lead-timeline, text: Lead Timeline}
+  - {id: lead-actions, text: Lead Actions}
+  - {id: export-leads, text: Export Leads}
+  - {id: filter-leads, text: Filter Leads}
+  - {id: questions-answered, text: Questions answered}
+categories:
+  - assigning-leads
+# set: getting-started
+# set_order: 3
+---
+
+<a name="lead-list"/>
+## [Lead List](#lead-list)
+Existing leads assigned to the Assistant can be viewed with detail information in the Lead List.  
+
+Filtering and Searching is possible. You can filter by `dates, state, assistant, schedule, upload files`. And can type part of the `name, email or phone number` to search specific lead.
+
+On click of the lead row, it expands to show the possible actions and timeline graph.
+
+<a name="lead-timeline"/>
+## [Lead Timeline](#lead-timeline)
+Email communication between the lead and the Assistant can be seen in the timeline view on expanding a specific lead from the lead list. 
+
+Timeline view shows all the communication done and is scheduled as per the timeline. Clicking on any of the dates in the timeline view shows the message that was Sent or Received or any Note created. 
+Note the scheduled messages along with the schedule date. Assistant will send similar message as shown in the scheduled message, if it is a generated message. But if it is your custom message then it will send the right one. 
+
+<a name="lead-actions"/>
+## [Lead Actions](#lead-actions)
+Various actions are possible on a lead seen in the lead list. 
+
+`Message` action lets the user view the message exchanges till now as well as let you type a new `message as assistant`.  
+User can leave a note by clicking the `Add Note` button.
+`Deactivate` action is useful when a user have asked to stop sending further emails.   
+User may have communication with the lead outside the system, like on SMS or phone call. Clicking on `Hot` button lets user manually mark the lead Hot.  
+`Introduce Me` is an important action. Assistant will send an email to the lead copying the user in that email. So that user is formally introduced and can take the communication ahead when the lead responds.   
+`Unsubscribe` action lets user manually unsubscribe a lead. Once a lead is unsubscribed it cannot be added back for any other lead source or context.  
+`Edit` action let you change the attributes like Name, Schedule, etc other than the email address.  
+`Restart` action lets you changed attributes like Source, Assistant, Context, Additional Info, Schedule and Next Followup Date.  
+`To restart multiple leads`, you can select all the leads across all the pages. This is an asynchronous action, it may take few second to 1-2 mins depending on number of leads and the load on the system. After waiting for sometime, you can refresh and note the change is applied to the selected leads. Some leads like Unsubscribed, Bounced emails, etc cannot be restarted and those would be skipped.  
+
+## Export Leads
+Can I export the leads into a csv or excel ?   
+
+Leads in the leads list can be exported by clicking on the export icon.  
+The export csv file contains below fields.
+
+`FirstName, LastName, Phone, Email, Company, Designation, Industry, State, SubState, Followup, CreatedDate, Assistant, LeadOwner` 
+
+## Filter Leads
+You can filter and search leads using different filter criteria as explained below:  
+- Duration based search can be on `Created`, `Modified` or `Next Schedule` Date
+- `Schedule` based search lets you specify one or more Schedules used by the leads in the filter criteria.
+- `Context` based search lets you specify one or more Contexts used by the leads in the filter criteria.
+- `State` based search lets you specify one or more lead States. `Deactivated` and `Unsubscribed` states lets you also pick from the relevant sub-state.
+- `Followup Range` based search lets you filter leads in that specific range number of followups completed. By default, all leads irrespective of number of followups completed are shown. In other words, all leads with 0 or more followups completed will be shown by default.   
+To filter leads where at least 4 followups have been completed, you can specifically select 4 as the minimum range, and 20 as the maximum range. One cannot have a sequence of messages more than 20 followups, hence 20 is the maximum number of followups.
+- `Assistant` based search lets you specify one or more Assistant in the filter criteria.
+- `User` based search lets you specify one or more Users in the filter criteria.
+- `Uploaded Files` based search lets you specify one or more Uploaded Files in the filter criteria.
+
+## Questions answered
+- How I deactivate the follow-ups for single lead ?
+- How do I change the schedule of few selected leads ?
+- How do I search specific leads ?
+- What do I do when Lead Responds ?
+- Can I restart multiple leads by changing the schedule ? 
