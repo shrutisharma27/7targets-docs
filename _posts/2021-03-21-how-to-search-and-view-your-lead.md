@@ -11,8 +11,8 @@ sidebar:
   - {id: export-leads, text: Export Leads}
   - {id: filter-leads, text: Filter Leads}
   - {id: questions-answered, text: Questions answered}
-categories:
-  - assigning-leads
+# categories:
+#   - assigning-leads
 # set: getting-started
 # set_order: 3
 ---
