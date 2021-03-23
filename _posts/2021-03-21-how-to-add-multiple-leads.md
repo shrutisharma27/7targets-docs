@@ -1,6 +1,6 @@
 ---
 date: 2021-03-21
-title: How do upload multiple leads
+title: How to upload multiple leads
 video_id: JC2yJnBXzLM
 description: How to upload multiple leads from an Excel sheet
 type: How-to
