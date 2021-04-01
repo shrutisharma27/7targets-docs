@@ -1,6 +1,6 @@
 ---
 date: 2021-04-1
-title: How to upload Lead Nurturing information
+title: How to Nurture leads using AI Sales Assistant
 video_id: JC2yJnBXzLM
 description: How to upload lead nurturing information to the assistant so that all the prospects are nurtured.
 type: How-to
@@ -17,7 +17,7 @@ Follow these simple steps to upload the nurturing information.
 
 Sign-in into your account.
 
-Click on 'Assistant' as shown below.
+Click on 'Assistant' tab as shown below.
 
 ![image](../images/lead-nurturing-1.png)
 
@@ -61,10 +61,21 @@ To add the next message, click on the '+' (plus) button and then repeat step 4.
 
 ## Step 6
 
+You can also verify the links used in the messages are working or not.
+
+Click on the button 'Copy and Verify Links'. 
+
+You will be directed to a new window. Paste the link you want to verify there and then click 'Check Status'.
+
+![image](../images/lead-nurturing-9.png)
+
+
+## Step 7
+
 Click on 'Save' button at the left bottom corner. 
 
 ![image](../images/lead-nurturing-8.png)
 
-Since you can assign different assistants for different verticals, you may want to upload vertical-specific nurturing messages for the respective assistant.
+We recommend you have vertical / industry specific Assistant. Success stories or testimonials from other customers of the same vertical / industry would interest leads better.
 
 If you have any further doubts you can directly mail us on info@7targets.com.
