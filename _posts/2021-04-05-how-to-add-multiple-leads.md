@@ -11,7 +11,9 @@ type: How-to
 ---
 You can use 'Multiple Lead' option to directly upload leads from an excel sheet. This feature saves you a lot of time.
 
-To know more about adding multiple leads please visit this [page](https://help.7targets.ai/assigning-leads/add-multiple-leads/).
+To know more about adding multiple leads please visit this page.
+
+[![image](../images/add-multiple-leads-btn.png)](https://help.7targets.ai/assigning-leads/add-multiple-leads/)
 
 Here is a small video explaining the steps.
 <div class="video-container">

@@ -12,7 +12,9 @@ type: How-to
 
 Your Assistant is identified by name, email address, and title. You can always change the details. We recommend you have industry-specific and geography-specific AI assistants. For example, use Indian sounding name for Indian leads and for use US sounding name for US-based leads.
  
-To know more about setting up an AI sales assistant please visit this [page](https://help.7targets.ai/getting-started/create-your-assistant/).
+To know more about setting up an AI sales assistant please visit this page.
+
+[![image](../images/setup-assistant-btn.png)](https://help.7targets.ai/getting-started/create-your-assistant/)
  
 Follow these simple steps below to a add new AI sales assistant.
 
