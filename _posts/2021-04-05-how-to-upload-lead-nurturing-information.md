@@ -11,11 +11,13 @@ type: How-to
 ---
 One of the most important features of 7Targets is lead nurturing. You can upload nurturing messages to each assistant in just a few simple steps. AI Sales assistant then dynamically attaches these nurturing messages to every follow-up email in the 'PS' section.
 
+To know more about nurturing please visit this [page](https://help.7targets.ai/getting-responses/assistant-nurturing/).
+
 Follow these simple steps to upload the nurturing information.
 
 ## Step 1
 
-Sign-in into your account.
+Sign in to your account.
 
 Click on 'Assistant' tab as shown below.
 
@@ -78,4 +80,4 @@ Click on 'Save' button at the left bottom corner.
 
 We recommend you have vertical / industry specific Assistant. Success stories or testimonials from other customers of the same vertical / industry would interest leads better.
 
-If you have any further doubts you can directly mail us on info@7targets.com.
+If you have any further doubts you can directly mail us at info@7targets.com.
