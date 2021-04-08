@@ -75,4 +75,6 @@ You can now see all the leads are uploaded.
 
 ![image](../images/Step-7.png)
 
+Further, you can also assign your own schedule to these leads. Follow the steps under [how to make your own schedule](https://help.7targets.ai/how-to-schedule-followups/).
+
 If you have any further doubts you can directly mail us at info@7targets.com.
