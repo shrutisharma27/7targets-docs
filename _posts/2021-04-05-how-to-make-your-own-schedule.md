@@ -1,8 +1,8 @@
 ---
 date: 2021-04-3
-title: How to Schedule Lead Followups
+title: How to make your own Schedule
 video_id: JC2yJnBXzLM
-description: How to train AI sales assistant to schedule followups 
+description:  How the assistant should followup i.e. what message to send, after how many days, etc.
 type: How-to
 # categories:
 #   - assigning-leads
