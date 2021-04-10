@@ -25,6 +25,12 @@ Here is a small video explaining the steps.
 
 Sign in to your account. Click on the 'Leads' option besides 'Dashboard' on top. Now follow these simple steps shown below:
 
+## Prerequisite
+
+Before uploading the leads, you should have an excel sheet ready in a proper format. The name, email id, company, designation, etc should be formatted so that you can upload multiple leads. 
+
+If you haven't yet prepared the sheet, do follow the steps under [how to prepare an excel sheet to upload multiple leads](https://help.7targets.ai/how-to-prepare-excel-sheet-to-upload-information-of-multiple-leads/).
+
 ## Step 1
 
 Click on 'Add lead' button.
@@ -66,15 +72,41 @@ Else as shown below, click on 'Select Excel File'. Select the excel sheet you wa
 
 ## Step 6
 
-Click on 'Add lead' button at the left bottom corner. 
+Now, you can either add the leads or just upload them and add the leads later after verifying.
+
+**a.** To add the leads, click on the 'Add lead' button at the left bottom corner. 
 
 ![image](../images/Step-6.png)
 
+**b.** To upload the leads and add them after verifying, select the check box as shown. Then click the 'Upload' button.
 
-You can now see all the leads are uploaded.
+![image](../images/step-7.png)
 
-![image](../images/Step-7.png)
+## Step 7
 
-Further, you can also assign your own schedule to these leads. Follow the steps under [how to make your own schedule](https://help.7targets.ai/how-to-schedule-followups/).
+You can assign schedule to these leads. Click on the 'Schedule' button. Select the desired 'Schedule' by clicking on the drop-down arrow. Then set the 'Start At' date and time.
+
+![image](../images/step-8.png)
+
+Further, you can even create your own schedule to assign to these leads. Follow the steps under [how to make your own schedule](https://help.7targets.ai/how-to-schedule-followups/).
+
+## Step 8
+
+To check the upload history of leads, click on the button as shown below.
+
+![image](../images/step-9.png)
+
+You'll be directed to this page.
+
+Here, for a certain file, if you want to download the total number of leads. Click on its corresponding 'Total Leads'.
+
+Similarly, to know the reason why certain leads aren't added, download by clicking the corresponding 'Not Added'. The same is for the added lead, click on the correponding 'Added'.
+
+Other details in this table are assigned assistant to the leads, date, status, and actions to be taken.
+
+![image](../images/step-10.png)
+
+
+
 
 If you have any further doubts you can directly mail us at info@7targets.com.
