@@ -80,13 +80,13 @@ Now, you can either add the leads or just upload them and add the leads later af
 
 **b.** To upload the leads and add them after verifying, select the check box as shown. Then click the 'Upload' button.
 
-![image](../images/step-7.png)
+![image](../images/Step-7.png)
 
 ## Step 7
 
 You can assign schedule to these leads. Click on the 'Schedule' button. Select the desired 'Schedule' by clicking on the drop-down arrow. Then set the 'Start At' date and time.
 
-![image](../images/step-8.png)
+![image](../images/Step-8.png)
 
 Further, you can even create your own schedule to assign to these leads. Follow the steps under [how to make your own schedule](https://help.7targets.ai/how-to-schedule-followups/).
 
@@ -94,7 +94,7 @@ Further, you can even create your own schedule to assign to these leads. Follow 
 
 To check the upload history of leads, click on the button as shown below.
 
-![image](../images/step-9.png)
+![image](../images/Step-9.png)
 
 You'll be directed to this page.
 
@@ -104,7 +104,7 @@ Similarly, to know the reason why certain leads aren't added, download by clicki
 
 Other details in this table are assigned assistant to the leads, date, status, and actions to be taken.
 
-![image](../images/step-10.png)
+![image](../images/Step-10.png)
 
 
 
