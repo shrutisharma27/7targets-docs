@@ -21,7 +21,8 @@ You would be able invite other users to the org from here. As well resend the in
 ## Org Admin functionalities 
 Org Admin have below extra functionalities above a normal user:
 - invite user to the org
-- assign Assistant to the user while inviting the user to the org
+- assign Assistant to the user 
+- make user [Assistant Manager](../../getting-responses/assistant-details/#assistant-manager) for an Assistant
 - make another user an org admin
 - remove user from the org
 - see leads and dashboard of assistant of all the users in the org

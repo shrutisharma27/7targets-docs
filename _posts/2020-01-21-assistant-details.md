@@ -7,6 +7,7 @@ type: Video
 sidebar:
   - {id: assistant-profile, text: Assistant Profile}
   - {id: assign-assistant-to-user, text: Assign to User}
+  - {id: assistant-manager, text: Assistant Manager}
   - {id: assistant-default, text: Assistant Defaults}
   - {id: multiple-assistants, text: Multiple Assistants}
   - {id: questions-answered, text: Questions answered}
@@ -40,6 +41,23 @@ As an org admin, after a user is invited in 7Targets, you can assign an existing
 This helps make sure that the knowledge and expertise of the assistant is maintained and used by multiple users.  
 
 Each user would see his/her own leads only, unless user is an org admin.  
+
+## [Assistant Manager](#assistant-manager)
+Each assistant typically has just 1 user assigned to her. And that person is like an Assistant Manager for that Assistant, because he can see all the activities of that assistant for all leads the assistant is working on.
+
+Some organisations, assign multiple users to same assistant. In this case, the assistant does not share one users leads with another user. Each user can only see the leads he/she assigned to the assistant.  
+
+At times, there is a need where a given team lead (or a manager) in your company may want to see all the work an assistant is doing even if the manager has to not assigned those leads to the assistant. This is where Assistant Manager concept comes in. 
+
+As an org admin, you can make a user **Assistant Manager** for a particular Assistant.
+
+Once a user is an Assistant Manager for an Assistant, then the user would be able to:
+
+- view and edit the leads of other users for that Assistant
+- assign or add leads to that assistant for other users of that Assistant
+- change ownership of leads from one user to another of that Assistant
+
+When you need another pair of eyes on your leads, you can make someone from your team an Assistant Manager for a given assistant. That person can help dive deeper into checking the status of all leads that assistant is working on, irrespective of who assigned the leads to that assistant.
 
 ## [Assistant Default](#assistant-defaults)
 Assistant has many defaults which are self explanatory. Some of the important ones are mentioned below:
