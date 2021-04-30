@@ -1,6 +1,6 @@
 ---
 date: 2021-04-30
-title: How to add further details to the assistant
+title: How to add more details to your assistant
 video_id: JC2yJnBXzLM
 description: How to add details to the assistant such as signature, context, default schedule, brochure url, etc.
 type: How-to
@@ -70,21 +70,21 @@ In the 'Email' field you can edit the email address of the assistant.
 
 ## Step 6
 
-To get WhatsApp notifications, you can add the phone number in the field shown below.
+To get WhatsApp notifications, you can add the phone number in the field shown below. Make sure you mention the country code.
 
 ![image](../images/details-of-assistant-6.png)
 
 
 ## Step 7
 
-If you want the assistant to always build a sentence around a topic (such as one of your offerings), you can add it in the 'More Context' field.
+This is a very IMPORTANT setting. This is used in outgoing emails, hence be very careful while you set the value here. The assistant will build a sentence around a topic (such as one of your offerings). You add the topic in the ‘More Context’ field. Please read the sample sentences created just below the box before you finalize the value of this field.
 
 ![image](../images/details-of-assistant-7.png)
 
 
 ## Step 8
 
-You can a assign default schedule to the assistant. Click on the drop-down arrow and select the desired schedule.
+You can assign the default schedule to the assistant. Click on the drop-down arrow and select the desired schedule. If you assign leads to the assistant and do not mention which schedule to use, the assistant will use this default schedule to email the leads. 
 
 ![image](../images/details-of-assistant-8.png)
 
@@ -92,7 +92,7 @@ You can even create your own schedule. Follow the steps under [how to make your 
 
 ## Step 9
 
-In the 'Signature' field, you can edit the signature of the assistant.
+In the ‘Signature’ field, you can edit the signature of the assistant. Click here to see different signature templates and how you can personalize the signature, and how the 'Nurturing Line' populated in the signature. 
 
 ![image](../images/details-of-assistant-9.png)
 
@@ -110,13 +110,13 @@ Default EmailCC Schedule is used by the assistant when the assistant is copied i
 
 ## Step 12
 
-If you have a brochure, you can add the link of it in this field. So that whenever the lead asks for brochure, the assistant will embed this link in the email.
+If you have a brochure, add the link here. Whenever any lead asks for a brochure, the assistant will send this brochure to him/her. Make sure that the brochure link is accessible from anywhere. The brochure is NOT ATTACHED to the email, just the link to the brochure is sent.  
 
 ![image](../images/details-of-assistant-12.png)
 
 ## Step 13
 
-If you want to add the link of your calendar to the signature, add the calendar link in this field.
+If you want to add the link of your meeting calendar to the signature, add the calendar link in this field. Here is how you can setup Calendly and Hubspot meeting links, which makes it easy for leads to choose a meeting time with you. 
 
 ![image](../images/details-of-assistant-13.png)
 
@@ -129,13 +129,13 @@ In the 'BCC Email Id' field, you can add the email id you want to bcc to.
 
 ## Step 15
 
-If you want a particular line to be always added and should not be changed by the assistant. Write the line in the 'More Information' field.
+Auto-generated follow-up emails are short and quick. Sometimes you may want to add an additional line in these follow-up emails just before the Call To Action statement. That's when you can use this ‘More Information’ field. Write a complete sentence in this field. It will be added like a paragraph just before the CTA in many follow-up emails automatically by the assistant. 
 
 ![image](../images/details-of-assistant-15.png)
 
 ## Step 16
 
-Here, you can set the number of days after which you should be reminded if you forgot to respond to a lead. For example here the number is set to 3 so, the assistant will remind you after every 3 days.
+Whenever you forget to respond to a lead, the assistant reminds you. Here, you can set the number of days after which you would like to get reminded. For example here the number is set to 3. The assistant will remind you after every 3 days
 
 ![image](../images/details-of-assistant-16.png)
 
