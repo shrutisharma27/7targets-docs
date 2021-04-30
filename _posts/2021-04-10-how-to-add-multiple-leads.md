@@ -72,15 +72,10 @@ Else as shown below, click on 'Select Excel File'. Select the excel sheet you wa
 
 ## Step 6
 
-Now, you can either add the leads or just upload them and add the leads later after verifying.
-
-**a.** To add the leads, click on the 'Add lead' button at the left bottom corner. 
+Now, to add the leads, click on the 'Add lead' button at the left bottom corner. 
 
 ![image](../images/Step-6.png)
 
-**b.** To upload the leads and add them after verifying, select the check box as shown. Then click the 'Upload' button.
-
-![image](../images/Step-7.png)
 
 ## Step 7
 
@@ -100,7 +95,7 @@ You'll be directed to this page.
 
 Here, for a certain file, if you want to download the total number of leads. Click on its corresponding 'Total Leads'.
 
-Similarly, to know the reason why certain leads aren't added, download by clicking the corresponding 'Not Added'. The same is for the added lead, click on the correponding 'Added'.
+Similarly, to know the reason why certain leads aren't added, download it by clicking the corresponding 'Not Added'. The same is for the added lead, click on the correponding 'Added'.
 
 Other details in this table are assigned assistant to the leads, date, status, and actions to be taken.
 
