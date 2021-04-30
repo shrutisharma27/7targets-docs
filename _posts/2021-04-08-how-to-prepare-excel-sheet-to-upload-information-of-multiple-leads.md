@@ -42,7 +42,9 @@ And if you just want to see the required fields, then click on 'Or see Required 
 
 ![image](../images/leads-sheet-4.png)
 
-The downloaded file will look like this.
+The downloaded file will look like this. Add the leads in this sheet.
+
+**Make sure the list contains all the leads from the same source.** 
 
 ![image](../images/leads-sheet-5.png)
 
