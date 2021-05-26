@@ -4,6 +4,16 @@ title: How to make your own Schedule
 video_id: JC2yJnBXzLM
 description:  How the assistant should followup i.e. what message to send, after how many days, etc.
 type: How-to
+sidebar:
+  - {id: step-1, text: Sign in to your account}
+  - {id: step-2, text: Select schedule}
+  - {id: step-3, text: Give a new name}
+  - {id: step-4, text: Change the After Days}
+  - {id: step-5, text: Select or Create Custom Message}
+  - {id: step-6, text: Change the After Days}
+  - {id: step-7, text: View Message}
+  - {id: step-8, text: Save schedule}
+  - {id: step-9, text: May make it Default}
 # categories:
 #   - assigning-leads
 # set: getting-started
