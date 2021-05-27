@@ -15,14 +15,14 @@ categories:
 ## Invite Users
 As an org admin you would be able to invite other users from your organization. Invited user will receive an email with one time password which he can use to login and would have to change the password on first login. 
 
-Go to `Settings->Org Users` to see a list of users in your Organization. 
+Go to `Organisation->Org Users` to see a list of users in your Organization. 
 You would be able invite other users to the org from here. As well resend the invitation email if the one-time temporary password is no more valid, it expires in 24 hrs. 
 
 ## Org Admin functionalities 
 Org Admin have below extra functionalities above a normal user:
 - invite user to the org
 - assign Assistant to the user 
-- make user [Assistant Manager](../../getting-responses/assistant-details/#assistant-manager) for an Assistant
+- make user an [Assistant Manager](../../getting-responses/assistant-details/#assistant-manager) for an Assistant
 - make another user an org admin
 - remove user from the org
 - see leads and dashboard of assistant of all the users in the org
@@ -34,7 +34,7 @@ Org Admin have below extra functionalities above a normal user:
 
 ## Remove users
 When users leave your organization, you would be able to remove those users from 7Targets too.  
-Go the Org Users page (`Settings->Org Users`), select the user you would want to remove. The leads of user being removed would have to assigned to the other user from your org, which you would have to select while removing the user.
+Go the Org Users page (`Organisation->Org Users`), select the user you would want to remove. The leads of user being removed would have to assigned to the other user from your org, which you would have to select while removing the user.
 
 ## Questions answered
 - How do I invite other users from the organization ?

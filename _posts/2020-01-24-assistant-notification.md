@@ -11,6 +11,8 @@ categories:
 ---
 Assistant will notify you on various occasions and you can configure it as per your preference.
 
+![Assistant Notification](../../images/assistant-notification.png)
+
 <a name="notification-preference"/>
 ## [Notification Preference](#notification-preference)
 Assistant will notify you on various event and you can disable all or one at a time. 
