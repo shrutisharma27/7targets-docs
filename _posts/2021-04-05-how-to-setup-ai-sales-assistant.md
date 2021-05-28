@@ -4,12 +4,18 @@ title: How to setup AI Sales Assistant
 video_id: JC2yJnBXzLM
 description: How to setup a new AI sales assistant. (for example the name, designation, email address, etc)
 type: How-to
+sidebar:
+  - {id: step-1, text: Sign in to your account}
+  - {id: step-2, text: Select Add Assistant}
+  - {id: step-3, text: Give a name}
+  - {id: step-4, text: Select avatar}
+  - {id: step-5, text: Enter job title}
+  - {id: step-6, text: Add company and website}
 # categories:
 #   - assigning-leads
 # set: getting-started
 # set_order: 3
 ---
-
 Your Assistant is identified by name, email address, and title. You can always change the details. We recommend you have industry-specific and geography-specific AI assistants. For example, use Indian sounding name for Indian leads and for use US sounding name for US-based leads.
  
 To know more about setting up an AI sales assistant please visit this page.
@@ -49,7 +55,7 @@ You can choose the avatar of your assistant from the options.
 
 ![image](../images/setup-assistant-5.png)
 
-## Step 6
+## Step 5
 
 Enter the job title you want to give to your assistant.
 
@@ -57,7 +63,7 @@ Some of our customers use the Assistant title as â€œExecutive Assistant to selfâ
 
 ![image](../images/setup-assistant-6.png)
 
-## Step 7
+## Step 6
 
 Enter your company name and the website URL.
 

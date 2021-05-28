@@ -4,11 +4,30 @@ title: How to add more details to your assistant
 video_id: JC2yJnBXzLM
 description: How to add details to the assistant such as signature, context, default schedule, brochure url, etc.
 type: How-to
+sidebar:
+  - {id: step-1, text: Sign in to your account}
+  - {id: step-2, text: Edit assistant}
+  - {id: step-3, text: Give a new name}
+  - {id: step-4, text: Select avatar}
+  - {id: step-5, text: Edit email address}
+  - {id: step-6, text: Get WhatsApp notification}
+  - {id: step-7, text: Add more context}
+  - {id: step-8, text: Select schedule}
+  - {id: step-9, text: Edit signature}
+  - {id: step-10, text: Click on Defaults option}
+  - {id: step-11, text: Default EmailCC Schedule}
+  - {id: step-12, text: Add brochure link}
+  - {id: step-13, text: Add calendar link}
+  - {id: step-14, text: Add BCC Email Id}
+  - {id: step-15, text: Add additional information}
+  - {id: step-16, text: Lead at risk reminder}
+  - {id: step-17, text: Save the changes}  
 # categories:
 #   - assigning-leads
 # set: getting-started
 # set_order: 3
 ---
+
 After you have setup the AI assistant, you can add further details to her such as signature, context, default schedule, brochure URL, etc.
 
 
@@ -98,7 +117,7 @@ In the ‘Signature’ field, you can edit the signature of the assistant. Click
 
 ## Step 10
 
-Now, click on the 'Default' option.
+Now, click on the 'Defaults' option.
 
 ![image](../images/details-of-assistant-10.png)
 

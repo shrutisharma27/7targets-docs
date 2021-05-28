@@ -1,9 +1,19 @@
 ---
-date: 2021-03-21
+date: 2021-05-28
 title: How to upload multiple leads
 video_id: JC2yJnBXzLM
 description: How to upload multiple leads from an Excel sheet
 type: How-to
+sidebar:
+  - {id: prerequisite, text: Prerequisite}
+  - {id: step-1, text: Select Add lead}
+  - {id: step-2, text: Select Multiple Leads}
+  - {id: step-3, text: Select the lead source}
+  - {id: step-4, text: Add more context}
+  - {id: step-5, text: Upload the leads}
+  - {id: step-6, text: Click on the Add leads}
+  - {id: step-7, text: Select schedule}
+  - {id: step-8, text: Upload history}
 # categories:
 #   - assigning-leads
 # set: getting-started
@@ -72,7 +82,7 @@ Else as shown below, click on 'Select Excel File'. Select the excel sheet you wa
 
 ## Step 6
 
-Now, to add the leads, click on the 'Add lead' button at the left bottom corner. 
+Now, to add the leads, click on the 'Add leads' button at the left bottom corner. 
 
 ![image](../images/Step-6.png)
 
