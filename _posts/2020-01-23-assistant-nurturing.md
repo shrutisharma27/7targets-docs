@@ -6,6 +6,7 @@ description: Assistant Nurture Table
 type: Video
 sidebar:
   - {id: nurture, text: Nurture}
+  - {id: assistant-suggests-nurture-lines, text: Assistant suggests Nurture lines}
   - {id: nurturing-approach, text: Nurturing Approach}
   - {id: copy-to-assistant, text: Copy to Assistant}
   - {id: questions-answered, text: Questions answered}
@@ -32,6 +33,19 @@ Some best practices around nurturing table are:
 - Use simple words
 - Use a https:// URL
 - Make sure that the URL used is valid and is working
+
+## Assistant suggests Nurture lines
+It is at times difficult to search and decide what to use for Nurture line.  
+`Assistant Nurture line Suggestion` feature can be used to solve this.
+
+Assistant
+- reads the provided website
+- searches testimonials and videos
+- looks for success stories
+- extract and format the Nurture lines
+- and then append to the Nurture table  
+
+The suggested text/line could have possible text errors, so edit/remove after going through those suggestions and then save. Those lines are just suggestions from your Assistant with an intent to save you some valuable time.
 
 ## [Nurturing Approach](#nurturing-approach)
 How the assistant approaches the Lead Nurturing?  
