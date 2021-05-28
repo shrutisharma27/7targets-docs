@@ -5,7 +5,7 @@ video_id: JC2yJnBXzLM
 description: How to upload multiple leads from an Excel sheet
 type: How-to
 sidebar:
-  - {id: Prerequisite, text: Prerequisite}
+  - {id: prerequisite, text: Prerequisite}
   - {id: step-1, text: Select Add lead}
   - {id: step-2, text: Select Multiple Leads}
   - {id: step-3, text: Select the lead source}
