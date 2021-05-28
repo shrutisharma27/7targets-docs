@@ -14,7 +14,7 @@ categories:
 ## Message Library
 Message Library provides you some Out of the box message templates, with the intent to get you started easily.
 We will continue to add more groups and more messages in each group. 
-
+![Message Library Group](../../images/message-library.png)
 You can click on any of the groups to see the out of the box messages in that group.
 
 ## How to Use 
