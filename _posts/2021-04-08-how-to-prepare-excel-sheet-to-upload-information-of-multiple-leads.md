@@ -4,6 +4,11 @@ title: How to prepare an excel sheet to upload multiple leads
 video_id: JC2yJnBXzLM
 description: What is the format of the excel sheet and from where to download it.
 type: How-to
+sidebar:
+  - {id: step-1, text: Sign in to your account}
+  - {id: step-2, text: Add leads}
+  - {id: step-3, text: Multiple leads}
+  - {id: step-4, text: Download Sample File Format}
 # categories:
 #   - assigning-leads
 # set: getting-started

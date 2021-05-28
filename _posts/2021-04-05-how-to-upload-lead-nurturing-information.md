@@ -4,6 +4,14 @@ title: How to Nurture leads using AI Sales Assistant
 video_id: JC2yJnBXzLM
 description: How to upload lead nurturing information to the assistant so that all the prospects are nurtured.
 type: How-to
+sidebar:
+  - {id: step-1, text: Sign in to your account}
+  - {id: step-2, text: Select Nurture}
+  - {id: step-3, text: Add row}
+  - {id: step-4, text: Add nurturing message}
+  - {id: step-5, text: Add multiple nurturing messages}
+  - {id: step-6, text: Verify the links}
+  - {id: step-7, text: Save the changes}
 # categories:
 #   - assigning-leads
 # set: getting-started
