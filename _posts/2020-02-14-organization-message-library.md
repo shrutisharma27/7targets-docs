@@ -14,6 +14,7 @@ categories:
 ## Message Library
 Message Library provides you a rich Out of the box message templates, with the intent to get you started easily. There are examples from some of worlds excellent email template collections. 
 We will continue to add more groups and more messages in each group, so continue to revisit the message library often. If you are looking for specific message sequences, feel free to ask for more email templates at support@7targets.com. 
+
 ![Message Library Group](../../images/message-library.png)
 You can click on any of the groups to see the out of the box messages in that group.
 
