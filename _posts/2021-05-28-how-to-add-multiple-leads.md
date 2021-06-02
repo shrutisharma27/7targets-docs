@@ -14,8 +14,8 @@ sidebar:
   - {id: step-6, text: Click on the Add leads}
   - {id: step-7, text: Select schedule}
   - {id: step-8, text: Upload history}
-# categories:
-#   - assigning-leads
+categories:
+  - How-To
 # set: getting-started
 # set_order: 3
 ---
@@ -23,7 +23,7 @@ You can use 'Multiple Lead' option to directly upload leads from an excel sheet.
 
 To know more about adding multiple leads please visit this page.
 
-[![image](../images/add-multiple-leads-btn.png)](https://help.7targets.ai/assigning-leads/add-multiple-leads/)
+[![image](../../images/add-multiple-leads-btn.png)](https://help.7targets.ai/assigning-leads/add-multiple-leads/)
 
 Here is a small video explaining the steps.
 <div class="video-container">
@@ -45,28 +45,28 @@ If you haven't yet prepared the sheet, do follow the steps under [how to prepare
 
 Click on 'Add lead' button.
 
-![image](../images/Step-1.png)
+![image](../../images/Step-1.png)
 
 
 ## Step 2
 
 Select the 'Multiple Leads' option.
 
-![image](../images/Step-2.png)
+![image](../../images/Step-2.png)
 
 
 ## Step 3
 
 Click on the drop down arrow as shown below. Select the source from where you got the email list.
 
-![image](../images/Step-3.png)
+![image](../../images/Step-3.png)
 
 
 ## Step 4
 
 In 'More Context' field, add further details of the lead source.It helps assistant to construct more relevant sentences in the email. You can see the dynamic email constuction on the right side.
 
-![image](../images/Step-4.png)
+![image](../../images/Step-4.png)
 
 
 ## Step 5
@@ -77,21 +77,21 @@ Else as shown below, click on 'Select Excel File'. Select the excel sheet you wa
 
 **Make sure the list contains all the leads from the same source.** 
 
-![image](../images/Step-5.png)
+![image](../../images/Step-5.png)
 
 
 ## Step 6
 
 Now, to add the leads, click on the 'Add leads' button at the left bottom corner. 
 
-![image](../images/Step-6.png)
+![image](../../images/Step-6.png)
 
 
 ## Step 7
 
 You can assign schedule to these leads. Click on the 'Schedule' button. Select the desired 'Schedule' by clicking on the drop-down arrow. Then set the 'Start At' date and time.
 
-![image](../images/Step-8.png)
+![image](../../images/Step-8.png)
 
 Further, you can even create your own schedule to assign to these leads. Follow the steps under [how to make your own schedule](https://help.7targets.ai/how-to-schedule-followups/).
 
@@ -99,7 +99,7 @@ Further, you can even create your own schedule to assign to these leads. Follow 
 
 To check the upload history of leads, click on the button as shown below.
 
-![image](../images/Step-9.png)
+![image](../../images/Step-9.png)
 
 You'll be directed to this page.
 
@@ -109,7 +109,7 @@ Similarly, to know the reason why certain leads aren't added, download it by cli
 
 Other details in this table are assigned assistant to the leads, date, status, and actions to be taken.
 
-![image](../images/Step-10.png)
+![image](../../images/Step-10.png)
 
 
 

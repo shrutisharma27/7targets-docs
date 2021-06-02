@@ -9,8 +9,8 @@ sidebar:
   - {id: step-2, text: Enter email address}
   - {id: step-3, text: Set new password}
   - {id: step-4, text: Login}
-# categories:
-#   - assigning-leads
+categories:
+  - How-To
 # set: getting-started
 # set_order: 3
 ---
@@ -23,16 +23,16 @@ If you have forgotten your password, follow these simple steps to login again to
 
 Go to the [login page](https://solution.7targets.com/). Click on the 'Forgot Password?' link.
 
-![image](../images/forgot-password-1.png)
+![image](../../images/forgot-password-1.png)
 
 You will be directed to this page.
 
-![image](../images/forgot-password-2.png)
+![image](../../images/forgot-password-2.png)
 
 ## Step 2
 Enter your email address you have used while signing-up. Then click on the 'Reset Password' button.
 
-![image](../images/forgot-password-3.png)
+![image](../../images/forgot-password-3.png)
 
 ## Step 3
 
@@ -42,7 +42,7 @@ Enter the received code in the 'Code' field. Now, enter a new password in the 'N
 
 At the end click on the 'Change Password' button.
 
-![image](../images/forgot-password-4.png)
+![image](../../images/forgot-password-4.png)
 
 ## Step 4
 
@@ -50,7 +50,7 @@ You'll be directed to the login page. Enter the email address and the newly set 
 
 Then click on the 'Login' button.
 
-![image](../images/forgot-password-5.png)
+![image](../../images/forgot-password-5.png)
 
 
 If you have any further doubts you can directly mail us at info@7targets.com.

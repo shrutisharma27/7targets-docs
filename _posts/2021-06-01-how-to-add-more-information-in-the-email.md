@@ -31,37 +31,37 @@ Sign in to your account.
 
 Click on the 'Assistant' tab.
 
-![image](../images/more-info-1.png)
+![image](../../images/more-info-1.png)
 
 ## Step 2
 
 Click on edit assistant as shown below.
 
-![image](../images/more-info-2.png)
+![image](../../images/more-info-2.png)
 
 
 ## Step 3
 
 Scroll down and click on the 'Defaults' tab.
 
-![image](../images/more-info-3.png)
+![image](../../images/more-info-3.png)
 
 
 ## Step 4
 
 You can see 'More Information' field. Here, in this field type the additional information. This information will be used by the assistant without any changes in all the emails.
 
-![image](../images/more-info-4.png)
+![image](../../images/more-info-4.png)
 
 ## Step 5
 
 Click on the 'Save' button.
 
-![image](../images/more-info-5.png)
+![image](../../images/more-info-5.png)
 
 Then, select the 'Yes' option and you information will be added.
 
-![image](../images/more-info-6.png)
+![image](../../images/more-info-6.png)
 
 ## Step 6
 
@@ -71,7 +71,7 @@ Now, if you [upload the leads](https://help.7targets.ai/how-to-add-multiple-lead
 If you wish to edit this information while adding leads, you can do it in the 'More Information' field as shown.
 
 
-![image](../images/more-info-8.png)
+![image](../../images/more-info-8.png)
 
 
 ## Step 7
@@ -79,6 +79,6 @@ If you wish to edit this information while adding leads, you can do it in the 'M
 
 Observe that when you add the details of the leads, in the preview section the emails changes except the informaton you have added.
 
-![image](../images/more-info-9.png)
+![image](../../images/more-info-9.png)
 
 If you have any further doubts you can directly mail us at info@7targets.com.

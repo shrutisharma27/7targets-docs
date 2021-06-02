@@ -5,22 +5,24 @@
 	{% assign categories = site.categories %}
 	{% for category in categories %}
 		{% assign name = category[0] %}
-		{% assign posts = category[1] %}
-		{% assign size = posts | size %}
-		<section class="category">
-				<h3>
-					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/"></a>{{ name | replace: "-", " " }}</a>
-				</h3>
+		{% if name != "How-To" %}
+			{% assign posts = category[1] %}
+			{% assign size = posts | size %}
+			<section class="category">
+					<h3>
+						<a href="{{ site.baseurl }}/category/{{ name | slugify }}/"></a>{{ name | replace: "-", " " }}</a>
+					</h3>
 
-			<ul>
-				{% assign tutorials = posts | sort: "date" %}
-				{% for tutorial in tutorials limit: 6 %}
-					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
-				{% endfor %}
-				{% if size > 6 %}
-					<li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 6 }} more...</a></li>
-				{% endif %}
-			</ul>
-		</section>
+				<ul>
+					{% assign tutorials = posts | sort: "date" %}
+					{% for tutorial in tutorials limit: 6 %}
+						<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
+					{% endfor %}
+					{% if size > 6 %}
+						<li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 6 }} more...</a></li>
+					{% endif %}
+				</ul>
+			</section>
+		{% endif %}
 	{% endfor %}
 </section>
