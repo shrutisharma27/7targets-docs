@@ -31,7 +31,7 @@ Below is the explanation of how you can act upon these warm leads.
 
 Sign in to your account. You'll be landed on the 'Dashboard'.
 
-![image](../images/warm-leads-1.png)
+![image](../../images/warm-leads-1.png)
 
 ## Step 2
 
@@ -39,13 +39,13 @@ When you scroll down, you'll see the count of warm leads. These are the leads yo
 
 Click on the 'Warm Leads' as highlighted below.
 
-![image](../images/warm-leads-2.png)
+![image](../../images/warm-leads-2.png)
 
 You'll be directed to this page. It is the list of all the warm leads.
 
 Click on one of the leads you want to first act upon.
 
-![image](../images/warm-leads-3.png)
+![image](../../images/warm-leads-3.png)
 
 ## Step 3
 
@@ -54,7 +54,7 @@ Here, the 'Two Ticks' denotes that the email is opened by the receiver. And the 
 As you can see the leads have opened the email for the third time, it will be marked as warm and notification will be sent to your WhatsApp and on Email.
 
 
-![image](../images/warm-leads-4.png)
+![image](../../images/warm-leads-4.png)
 
 
 ## Step 4
@@ -63,10 +63,10 @@ These are the messages sent on WhatsApp and on mail that a lead has been marked 
 
 Click on the 'solution.7targets...' link. 
 
-![image](../images/warm-leads-5.png)
+![image](../../images/warm-leads-5.png)
 
 
-![image](../images/warm-leads-6.png)
+![image](../../images/warm-leads-6.png)
 
 
 ## Step 5
@@ -85,17 +85,17 @@ This saves a lot of time spent on searching the information of the lead.
 
 Now, you have gathered pretty much information about the person and his background in just a few clicks.
 
-![image](../images/warm-leads-7.png)
+![image](../../images/warm-leads-7.png)
 
 ## Step 6
 
 Click on the 'Message' button.
 
-![image](../images/warm-leads-8.png)
+![image](../../images/warm-leads-8.png)
 
 Now click on the 'Email (Name of the lead)' button.
 
-![image](../images/warm-leads-9.png)
+![image](../../images/warm-leads-9.png)
 
 ## Step 7
 
@@ -103,25 +103,25 @@ Here, you can write personalized message based on the background of the lead.
 
 It also shows the optimized time to send the email.
 
-![image](../images/warm-leads-10.png)
+![image](../../images/warm-leads-10.png)
 
 ## Step 8
 
 To schedule the email on the suggested optimized time, click on the 'Drop Down' arrow.
 
-![image](../images/warm-leads-11.png)
+![image](../../images/warm-leads-11.png)
 
 Now, select the 'Send Later' option.
 
-![image](../images/warm-leads-12.png)
+![image](../../images/warm-leads-12.png)
 
 Click on the 'Schedule Email' button.
 
-![image](../images/warm-leads-13.png)
+![image](../../images/warm-leads-13.png)
 
 The optimised time will be pre-selected, just click on the 'Yes' button.
 
-![image](../images/warm-leads-14.png)
+![image](../../images/warm-leads-14.png)
 
 ## Step 9
 
@@ -132,13 +132,13 @@ Now to check if the email is scheduled or not:
 2. Click on the 'Leads' tab at the top
 
 
-![image](../images/warm-leads-15.png)
+![image](../../images/warm-leads-15.png)
 
 3. Paste the name in the search field.
 
 Here, you can see that the mail written by you is scheduled at the optimized date and time.
 
-![image](../images/warm-leads-16.png)
+![image](../../images/warm-leads-16.png)
 
 Acting upon the warm leads at the proper time with a personalized message increases the chances of getting a reply from the lead.
 
