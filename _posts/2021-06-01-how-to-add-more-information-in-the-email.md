@@ -12,9 +12,8 @@ sidebar:
   - {id: step-5, text: Save}
   - {id: step-6, text: Edit information when adding leads}
   - {id: step-7, text: Email preview}
-# categories:
+categories:
   - How-To
-#   - assigning-leads
 # set: getting-started
 # set_order: 3
 ---
