@@ -2,7 +2,7 @@
 date: 2021-06-2
 title: How to Process Warm Leads
 video_id: JC2yJnBXzLM
-description:  How to proceed to work on the leads who are marked as warm.
+description: How to handle Warm leads. The warms leads are the ones who have opened your emails more than 3 times.
 type: How-to
 sidebar:
   - {id: step-1, text: Sign in to your account}
@@ -21,7 +21,7 @@ categories:
 ---
 After you have uploaded the leads and the follow-up has started, you'll see few leads marked as 'Warm Leads'. The warms leads are the ones who have opened your emails more than 3 times. It shows that they are interested in your product.
 
-These are the leads that have highest chance of convertion if you follow-up promptly.
+These are the leads that have highest chance of conversion if you follow-up promptly.
 
 In 7targets, we have a feature, when a lead opens your email for the third time, you'll receive a notification on WhatsApp message and a mail within 5 minutes. This helps you to act on that lead quickly.
 
