@@ -2,7 +2,7 @@
 date: 2021-06-2
 title: How to Process Warm Leads
 video_id: JC2yJnBXzLM
-description:  How to proceed to work on the leads who are marked as warm.
+description: How to proceed to work on the leads who are marked as warm
 type: How-to
 sidebar:
   - {id: step-1, text: Sign in to your account}
@@ -15,6 +15,7 @@ sidebar:
   - {id: step-8, text: Schedule email}
   - {id: step-9, text: Check scheduled email}
 # categories:
+  - How-To
 #   - assigning-leads
 # set: getting-started
 # set_order: 3
