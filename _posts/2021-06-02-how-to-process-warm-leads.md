@@ -14,8 +14,8 @@ sidebar:
   - {id: step-7, text: Optimized send time}
   - {id: step-8, text: Schedule email}
   - {id: step-9, text: Check scheduled email}
-# categories:
-#   - assigning-leads
+categories:
+  - How-To
 # set: getting-started
 # set_order: 3
 ---
