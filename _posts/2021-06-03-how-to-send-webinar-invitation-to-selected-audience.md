@@ -13,7 +13,7 @@ sidebar:
   - {id: step-6, text: Select leads}
   - {id: step-7, text: Broadcast message}
   - {id: step-8, text: Assign message to selected leads}
-# categories:
+categories:
   - How-To
 # set: getting-started
 # set_order: 3
