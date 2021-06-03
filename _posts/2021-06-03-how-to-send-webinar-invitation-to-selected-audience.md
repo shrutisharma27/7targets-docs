@@ -15,7 +15,6 @@ sidebar:
   - {id: step-8, text: Assign message to selected leads}
 # categories:
   - How-To
-#   - assigning-leads
 # set: getting-started
 # set_order: 3
 ---
