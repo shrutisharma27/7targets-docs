@@ -14,6 +14,7 @@ sidebar:
   - {id: step-7, text: Optimized send time}
   - {id: step-8, text: Schedule email}
   - {id: step-9, text: Check scheduled email}
+  - {id: step-10, text: Write personalized message}
 categories:
   - How-To
 # set: getting-started
@@ -142,7 +143,10 @@ Here, you can see that the mail written by you is scheduled at the optimized dat
 
 ![image](../../images/warm-leads-16.png)
 
+## Step 10
+
 Acting upon the warm leads at the proper time with a personalized message increases the chances of getting a reply from the lead.
+You can click on the website icon and the LinkedIn icon to get some personal information about the lead and the company and write that personalized next message.
 
 With the help of 7Targets, you can easily do this within just a few steps.
 
