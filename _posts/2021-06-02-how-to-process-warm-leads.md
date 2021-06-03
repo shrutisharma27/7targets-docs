@@ -21,7 +21,7 @@ sidebar:
 ---
 After you have uploaded the leads and the follow-up has started, you'll see few leads marked as 'Warm Leads'. The warms leads are the ones who have opened your emails more than 3 times. It shows that they are interested in your product.
 
-These are the leads that can be converted if you follow-up promptly.
+These are the leads that have highest chance of convertion if you follow-up promptly.
 
 In 7targets, we have a feature, when a lead opens your email for the third time, you'll receive a notification on WhatsApp message and a mail within 5 minutes. This helps you to act on that lead quickly.
 
@@ -99,11 +99,13 @@ Now click on the 'Email (Name of the lead)' button.
 
 ## Step 7
 
-Here, you can write personalized message based on the background of the lead.
+Here, you can write personalized message based on what you just studied, and the background of the lead.
 
 It also shows the optimized time to send the email.
 
 ![image](../../images/warm-leads-10.png)
+
+If the 'optimum time of the day' has already passed, then the date suggested will show 'Next day: Optimal Time'. 
 
 ## Step 8
 
