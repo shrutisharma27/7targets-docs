@@ -7,9 +7,9 @@ type: How-to
 sidebar:
   - {id: step-1, text: Go to leads }
   - {id: step-2, text: Select all filters}
-  - {id: step-3, text: Select Emails }
-  - {id: step-4, text: Click on responses }
-  - {id: step-5, text: Click on leads}
+  - {id: step-3, text: Select Emails}
+  - {id: step-4, text: Click on responses}
+  - {id: step-5, text: Click on lead}
   - {id: step-6, text: Dropping the lead}
   - {id: step-7, text: How to fix this}
   - {id: step-8, text: Follow up emails}
