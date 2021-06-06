@@ -14,6 +14,8 @@ categories:
   - getting-responses
 ---
 
+Every contact needs nurturing. Nurturing information needs to be relevant to the reader. If relevant success stories, relevant testimonials, relevant solutions are sent to a lead, you get higher and higher engagement. For this, we create a 'Nurture table'. 
+
 Nurture Table is knowledge given to the Assistant to be used in emails written to leads so as to connect with the lead's problem area better.
 
 It is important to provide vertical specific knowledge in bit size information to the lead to invoke the interest and get the lead engaged. Each row in the nurturing table presents a bit size information that you want to share with your leads. 
