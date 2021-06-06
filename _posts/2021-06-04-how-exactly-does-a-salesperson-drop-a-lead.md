@@ -5,7 +5,7 @@ video_id: JC2yJnBXzLM
 description:  Possible solution when a salesperson drops a lead.
 type: How-to
 sidebar:
-  - {id: step-1, text: Go to leads }
+  - {id: step-1, text: Go to leads}
   - {id: step-2, text: Select all filters}
   - {id: step-3, text: Select Emails}
   - {id: step-4, text: Click on responses}
@@ -19,56 +19,40 @@ categories:
 # set_order: 3
 ---
 
-
 Generating leads is important. It creates sales and increases organic customers.
+For Converting leads into customers, the salesperson needs to be on this toes, repose back quickly, do follow-ups.
+Sometimes **salesperson forgets to do follow-ups** and the company losses a potential client. Which is a big cost.
 
-For Converting leads into customers, the salesperson needs to do follow-ups.
-
-Sometimes salesperson forgets to do follow-ups and the company losses a potential client.
-
-In 7Targets, we have a feature of sending follow-up emails automatically, this will minimize the efforts and increase the chances of conversion.
+In 7Targets, we have a feature of sending follow-up emails automatically, even after Sales person responds to the initial eamail from the prospect. This will minimize the efforts and increase the chances of conversion.
 
 Here's the explanation of how you can do successful follow-ups.
 
-
-
-
 ## Step 1
 Go to leads and select "multiple lead upload" 
-
 
 ![image](../../images/Dropped-lead-1.png)
 
 ## Step 2
 Select "all filters".
 
-
 ![image](../../images/Dropped-lead-2.png)
 
 
 ## Step 3
-
 Select the emails you want to choose and then apply filters.
-
 Now all the chosen emails will appear
 
 ![image](../../images/Dropped-lead-3.png)
 
 
-
-
 ## Step 4
-
 Click on responses.
 
 ![image](../../images/Dropped-lead-4.png)
 
 Here you can see the number of leads and other information such as email and content 
 
-
-
 ## Step 5
-
 Click on one of the leads you want to first act upon
 Here, the 'Two Ticks' denotes that the email is opened by the receiver. And the 'Link' icon means that the receiver has clicked on one of the links in that email.
 
@@ -78,9 +62,7 @@ Here, the 'Two Ticks' denotes that the email is opened by the receiver. And the 
 ## Step 6
 
 Dropping the leads
-
 Here, the client opened the email but he didn’t open any attached link.
-
 
 ![image](../../images/Dropped-lead-6.png)
 
@@ -106,7 +88,6 @@ Tick that box and then follow ups will be activated.
 ## Step 8
 
 Here, are those 3 followup emails
-
 ![image](../../images/Dropped-lead-10.png)
 
 Here’s the follow up message
@@ -114,8 +95,6 @@ Here’s the follow up message
 ![image](../../images/Dropped-lead-11.png)
 
 That's how every month 2 leads are missed. Assuming the fact one lead is worth $1000, so per month you're facing a valuable loss of $2000.
-
-
 To prevent this, try using 7Targets for an auto reply mechanism and you're safe from these traps.
 
 If you have any furthur doubts you can directly mail us at info@7targets.com .
