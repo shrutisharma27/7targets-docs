@@ -7,9 +7,9 @@ type: How-to
 sidebar:
   - {id: step-1, text: Go to leads }
   - {id: step-2, text: Select all filters}
-  - {id: step-3, text: Select Emails }
-  - {id: step-4, text: Click on responses }
-  - {id: step-5, text: Click on leads}
+  - {id: step-3, text: Select Emails}
+  - {id: step-4, text: Click on responses}
+  - {id: step-5, text: Click on lead}
   - {id: step-6, text: Dropping the lead}
   - {id: step-7, text: How to fix this}
   - {id: step-8, text: Follow up emails}
@@ -18,6 +18,18 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
+
+
+Generating leads is important. It creates sales and increases organic customers.
+
+For Converting leads into customers, the salesperson needs to do follow-ups.
+
+Sometimes salesperson forgets to do follow-ups and the company losses a potential client.
+
+In 7Targets, we have a feature of sending follow-up emails automatically, this will minimize the efforts and increase the chances of conversion.
+
+Here's the explanation of how you can do successful follow-ups.
+
 
 
 
@@ -102,6 +114,9 @@ Here’s the follow up message
 ![image](../../images/Dropped-lead-11.png)
 
 That's how every month 2 leads are missed. Assuming the fact one lead is worth $1000, so per month you're facing a valuable loss of $2000.
+
+
 To prevent this, try using 7Targets for an auto reply mechanism and you're safe from these traps.
 
+If you have any furthur doubts you can directly mail us at info@7targets.com .
 
