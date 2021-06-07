@@ -9,7 +9,7 @@ sidebar:
   - {id: step-2, text: Creating nurture table }
   - {id: step-3, text: Getting nurturing suggestion}
   - {id: step-4, text: Saving the changes}
-  - {id: step-5, text: Reviewing your changs}
+  - {id: step-5, text: Reviewing your changes}
 
 categories:
   - How-To
