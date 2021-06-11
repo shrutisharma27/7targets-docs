@@ -18,10 +18,14 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build the site in the jekyll container
-      run: |
-        docker run \
-        -v $:/srv/jekyll -v $/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --trace"
+      uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7 
+          bundler-cache: true 
+     
+    - uses: limjh16/jekyll-action-ts@v2
+      with:
+          enable_cache: true
         
     - name: Deploy static site to S3 bucket in help folder
       run: aws s3 sync ./_site/ s3://www.7targets-qa.ai/help/    
