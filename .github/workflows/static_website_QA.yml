@@ -17,15 +17,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby_version: '2.6'
-        bundler-cache: true
-    - name: "Build Site"
-      run: bundle exec jekyll build
-      env:
-        JEKYLL_ENV: production
+    - name: build the site in the jekyll container
+      run: |
+        docker run \
+        -v $:/srv/jekyll -v $/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --trace"
         
     - name: Deploy static site to S3 bucket in help folder
       run: aws s3 sync ./_site/ s3://www.7targets-qa.ai/help/    
