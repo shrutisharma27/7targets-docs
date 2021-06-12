@@ -14,12 +14,11 @@ jobs:
       
       - uses: actions/checkout@v2
      
-      - uses: fabacab/jekyll-builder-for-github-pages-action@master
-        with:
-          pre_build_commands: |
-                echo "Packaged bundler version: $(bundle --version)"
-                echo "Updating bundler..."
-                gem install bundler
+      - name: Build Jekyll Files
+        run: |
+          docker run \
+          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          jekyll/builder:latest /bin/bash -c "chmod a+w /srv/jekyll/Gemfile.lock && chmod 777 /srv/jekyll/src && jekyll build --config _config.yml --future --trace"
 
       
      
