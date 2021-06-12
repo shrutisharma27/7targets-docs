@@ -23,7 +23,7 @@ jobs:
           ruby-version: 2.7 
           bundler-cache: true 
      
-    - uses: shrutisharma27/7targets-docs@develop
+    - uses: shrutisharma27/jekyll-action-ts@v2
       with:
           enable_cache: true
         
