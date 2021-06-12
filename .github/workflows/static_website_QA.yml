@@ -12,23 +12,35 @@ jobs:
    runs-on: ubuntu-latest
    steps:
       
-     - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
      
-     - name: update bundler  
-       run: gem install bundler
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
 
-     - name: Build
-       uses: ealenn/jekyll-build-action@v1
+      - uses: actions/cache@v2
+        with: 
+          path: source/vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Bundle install
+        working-directory: source
+        run: |
+          gem install bundler --no-document
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+
       
      
 
-     - name: Configure AWS credentials
-       uses: aws-actions/configure-aws-credentials@v1
-       with:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_QA }}
          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_QA }}
          aws-region: ${{ secrets.AWS_REGION_QA }}
 
-     - name: Sync output to S3
-       run: |
+      - name: Sync output to S3
+        run: |
           aws s3 sync ./_site/ s3://www.7targets-qa.ai/help --delete
