@@ -23,7 +23,7 @@ jobs:
           ruby-version: 2.7 
           bundler-cache: true 
      
-    - uses: shrutisharma27/7targets-docs@v2
+    - uses: shrutisharma27/7targets-docs@develop
       with:
           enable_cache: true
         
