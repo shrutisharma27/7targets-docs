@@ -16,6 +16,10 @@ jobs:
 
      - name: Build
        uses: ealenn/jekyll-build-action@v1
+      
+     - name: Install bundler  
+       run: |
+         gem install bundler:1.16.0
 
      - name: Configure AWS credentials
        uses: aws-actions/configure-aws-credentials@v1
