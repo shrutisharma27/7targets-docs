@@ -18,7 +18,7 @@ jobs:
        uses: ealenn/jekyll-build-action@v1
       
      - name: update bundler  
-       run: bundle update --bundler
+       run: gem install bundler
 
      - name: Configure AWS credentials
        uses: aws-actions/configure-aws-credentials@v1
