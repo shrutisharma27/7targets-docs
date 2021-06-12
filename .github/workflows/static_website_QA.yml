@@ -12,19 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Build and Deploy
-      uses: kshehadeh/jekyll-s3-action@master
-      env: 
-       aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_QA }}
-       aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_QA }}
-       aws-region:  ${{ secrets.AWS_REGION_QA }}
-       S3_BUCKET_PATH: "help"
-    - uses: actions/checkout@v2
-    - name: Build and Deploy
-      uses: kshehadeh/jekyll-s3-action@master    
-      env: 
-       aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_QA }}
-       aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_QA }}
-       aws-region:  ${{ secrets.AWS_REGION_QA }}
-       S3_BUCKET_PATH: "blog"
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+    - name: "Build Site"
+      run: bundle exec jekyll build
        
