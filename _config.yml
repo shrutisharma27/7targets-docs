@@ -40,10 +40,9 @@ exclude:
   - README.md
   - LICENCE
   - /vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
   
+ 
+ 
 collections:
   sets:
   archives:

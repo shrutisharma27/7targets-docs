@@ -29,10 +29,10 @@ jobs:
          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_QA }}
          aws-region: ${{ secrets.AWS_REGION_QA }}
 
-      - name: Sync output to S3
+      - name: Sync output to S3 bucket in help folder
         run: |
           aws s3 sync ./_site/ s3://www.7targets-qa.ai/help --acl public-read --delete
-     
-      - name: Sync output to S3
+        
+      - name: Sync output to S3  in blog folder
         run: |
           aws s3 sync ./_site/ s3://www.7targets-qa.ai/blog --acl public-read --delete
