@@ -1,4 +1,4 @@
-name: To deploy static website in S3 bucket For QA
+name: To deploy static website in S3 bucket (help folder) For QA
 
 on:
   pull_request:
@@ -31,9 +31,4 @@ jobs:
 
       - name: Sync output to S3 bucket in help folder
         run: |
-          aws s3 sync ./_site/ s3://www.7targets-qa.ai/help --delete
-       
-        
-      - name: Sync output to S3  in blog folder
-        run: |
-          aws s3 sync ./_site/ s3://www.7targets-qa.ai/blog --acl public-read --delete
+          aws s3 sync ./_site/ s3://${{ secrets.S3_BUCKET_NAME_QA }}/help --delete
